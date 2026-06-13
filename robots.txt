@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://weichuncheng0104.github.io/020_NP_GI_Examer_Site/sitemap.xml

@@ -1,6 +1,6 @@
 {
   "version": "v001",
-  "generated_at": "20260613_1547",
+  "generated_at": "20260613_1955",
   "counts": {
     "total": 247,
     "by_year": {
@@ -5978,7 +5978,7 @@
           "display": "📚 Pocket 8e (2022) Ch.Acute Diarrhea / Treatment, p.182"
         }
       ],
-      "discordance": "Pocket Medicine（[1], p.182）因亞洲地區 fluoroquinolone 抗藥性問題，建議旅遊者腹瀉首選 azithromycin 1 g × 1 天（引文：「azithro 1 g x 1 d (due to FQ resistance in Asia)」），rifaximin/rifamycin 為備選，而非 fluoroquinolone。Washington Manual（[2], p.506）則列 ciprofloxacin 或 TMP–SMX 為旅遊者腹瀉首選。本題官方標準答案為 A（fluoroquinolone），與 Washington Manual 一致；考試情境下以標準答案為準。臨床實務中（尤其東南亞旅遊者），應考量當地 FQ 抗藥性資料，必要時改用 azithromycin。",
+      "discordance": "Pocket Medicine（[1], p.182）因亞洲地區 fluoroquinolone 抗藥性問題，建議旅遊者腹瀉首選 azithromycin 1 g × 1 天，rifaximin/rifamycin 為備選，而非 fluoroquinolone。Washington Manual（[2], p.506）則列 ciprofloxacin 或 TMP–SMX 為旅遊者腹瀉首選。本題官方標準答案為 A（fluoroquinolone），與 Washington Manual 一致；考試情境下以標準答案為準。臨床實務中（尤其東南亞旅遊者），應考量當地 FQ 抗藥性資料，必要時改用 azithromycin。",
       "no_source": false
     },
     "109-common-GI-69": {
@@ -5988,7 +5988,7 @@
         "A": "正確（即：活動性肝臟疾病是真正的禁忌症，本題問的是「何者錯誤」，故 A 不選）。活動性肝臟疾病（active liver disease）是 MHT 的絕對禁忌症。口服雌激素須經肝臟首渡代謝，可增加凝血因子合成並加重肝臟負擔；活動性肝病下使用可能惡化肝損傷並升高血栓風險。Harrison Table 407-2 明確列出「Active liver disease」為絕對禁忌。",
         "B": "正確（即：血栓栓塞病史是真正的禁忌症，故 B 不選）。靜脈血栓栓塞（VTE）病史是 MHT 的禁忌症。觀察性研究顯示口服雌激素使 VTE 風險增加約 2.5 倍，WHI 隨機試驗顯示雌激素-黃體素合用使肺栓塞及深靜脈血栓風險近乎翻倍。Harrison 明確將「venous thromboembolism」列入禁忌症中。",
         "C": "錯誤（此為本題正解）。骨質疏鬆病史並非 MHT 禁忌症；恰恰相反，HRT 是治療或預防停經後骨質疏鬆的有效選項之一。超過 50 個隨機試驗顯示停經後雌激素療法可使腰椎骨密度增加 4–6%、髖骨增加 2–3%，WHI 試驗中 5–7 年療程可減少髖部骨折 33%。Harrison 明確指出骨質疏鬆高風險婦女（無其他禁忌症）是 MHT 長期使用的合理候選人。",
-        "D": "正確（即：乳癌/子宮內膜癌是真正的禁忌症，故 D 不選）。乳癌與子宮內膜癌（estrogen-dependent cancers）是 MHT 絕對禁忌症。雌激素-黃體素合用與乳癌風險增加具強烈關聯；未對抗雌激素（unopposed estrogen）可使子宮內膜癌風險增加 3–10 倍。Harrison Table 407-2 明確列出「Breast, endometrial, or other estrogen-dependent cancer」為絕對禁忌。"
+        "D": "正確（即：乳癌/子宮內膜癌是真正的禁忌症，故 D 不選）。乳癌與子宮內膜癌（estrogen-dependent cancers）是 MHT 絕對禁忌症。雌激素-黃體素合用與乳癌風險增加具強烈關聯；未對抗雌激素（unopposed estrogen）可使子宮內膜癌風險增加 3–10 倍。Harrison Table 407-2 明確將乳癌、子宮內膜癌或其他雌激素依賴性癌症列為絕對禁忌。"
       },
       "references": [
         {
@@ -6108,9 +6108,9 @@
       "background": "鼻胃管（nasogastric tube, NG tube）置入在上消化道出血（UGIB）評估中有其限制。首先，若抽出物見到新鮮血或咖啡渣樣物，確實提示持續性上消化道出血需要緊急內視鏡；但引流液潛血反應陰性並不代表可排除十二指腸出血，原因在於幽門括約肌可能暫時關閉（pyloric closure），使十二指腸出血無法逆流回胃部，導致NG抽出物不帶血而出現偽陰性結果。其次，對NG抽出物做hemoccult潛血試驗（化學發色法）無臨床用途，只有肉眼見到血液或暗色顆粒物才算陽性。第三，確診UGIB後，若病情穩定，NG管並非必要維持；而以食鹽水進行胃灌洗雖無法改善最終預後，但有助於清空胃內血塊以利內視鏡視野，間接輔助評估出血活動度。",
       "options": {
         "A": "正確描述。Washington Manual明確指出，NG抽出物見到新鮮血（fresh blood）可能提示持續性上消化道出血，需要緊急內視鏡評估，但血行動力學狀態同樣重要。鮮紅色引流液確實表示正在進行中的上消化道出血（或NG管本身造成的損傷，需鑑別）。此敘述並無明顯錯誤。",
-        "B": "錯誤描述（最不恰當），故為官方答案。Washington Manual p.623明確指出：「A negative NG aspirate does not rule out bleeding from a duodenal source.」原因是幽門括約肌收縮時可阻斷十二指腸血液逆流至胃，導致NG抽吸液呈陰性但實際出血仍在十二指腸。對NG抽吸液做hemoccult測試亦無臨床用途（肉眼陰性並不等於出血不存在）。故「潛血陰性可排除十二指腸出血」之說法不正確。",
-        "C": "可接受的描述。以食鹽水進行胃灌洗可清空胃內積血與血塊，有助於改善內視鏡視野，間接協助評估出血活動度與嚴重度。Washington Manual指出NG tube有助於清空胃內血液與血塊以利EGD視覺化（「An NG tube may help clear the stomach of blood and clots to facilitate visualization during endoscopy」）。此敘述基本正確，不是最不恰當的選項。",
-        "D": "正確描述。Washington Manual指出，有其他確切急性GI出血證據的病人並不需要放置NG tube（NG tube placement is not required in the evaluation of a patient with alternate conclusive evidence of acute GI bleeding）。因此，上消化道出血確診後若病情穩定，移除鼻胃管是合理的臨床處置。"
+        "B": "錯誤描述（最不恰當），故為官方答案。Washington Manual p.623 明確指出，鼻胃管抽吸液潛血陰性並不能排除十二指腸來源的出血；原因是幽門括約肌收縮時可阻斷十二指腸血液逆流至胃，導致NG抽吸液呈陰性但實際出血仍在十二指腸。對NG抽吸液做hemoccult測試亦無臨床用途（肉眼陰性並不等於出血不存在）。故「潛血陰性可排除十二指腸出血」之說法不正確。",
+        "C": "可接受的描述。以食鹽水進行胃灌洗可清空胃內積血與血塊，有助於改善內視鏡視野，間接協助評估出血活動度與嚴重度。Washington Manual指出NG tube有助於清空胃內血液與血塊以利EGD視覺化。此敘述基本正確，不是最不恰當的選項。",
+        "D": "正確描述。Washington Manual指出，有其他確切急性GI出血證據的病人並不需要放置NG tube。因此，上消化道出血確診後若病情穩定，移除鼻胃管是合理的臨床處置。"
       },
       "references": [
         {
@@ -6190,7 +6190,7 @@
         "A": "錯誤。Metformin 主要機制為抑制肝臟糖質新生及改善胰島素敏感性，適用於以胰島素阻抗為主的第二型糖尿病。慢性胰臟炎所致糖尿病本質是 β 細胞破壞後的胰島素缺乏，Metformin 在此情境下效果不足，且腎功能不佳時有乳酸中毒風險，不是最適當選擇。",
         "B": "錯誤。Glipizide 屬 sulfonylureas，作用機制是刺激殘存 β 細胞分泌更多胰島素。慢性胰臟炎病人的 β 細胞已因纖維化破壞，sulfonylureas 無法有效促進胰島素分泌，故此藥在胰島素缺乏型糖尿病中效果差。",
         "C": "錯誤。Liraglutide 屬 GLP-1 receptor agonists，部分作用仍須依賴有功能的 β 細胞（促進胰島素分泌），且此類藥物在動物實驗及部分臨床報告中與胰臟炎風險相關，對已有慢性胰臟炎的病人應謹慎使用，不是最適當選擇。",
-        "D": "正確。慢性胰臟炎所致糖尿病是 β 細胞喪失造成的胰島素缺乏（insulin deficiency via beta cell loss），而非胰島素阻抗，因此需要外源性胰島素直接補充。Washington Manual 明確指出：此型糖尿病的內分泌功能不全通常需要 insulin 治療，因其為胰島素缺乏型而非胰島素阻抗型。"
+        "D": "正確。慢性胰臟炎所致糖尿病是 β 細胞喪失造成的胰島素缺乏，而非胰島素阻抗，因此需要外源性胰島素直接補充。Washington Manual 明確指出：此型糖尿病的內分泌功能不全通常需要 insulin 治療，因其為胰島素缺乏型而非胰島素阻抗型。"
       },
       "references": [
         {
@@ -6509,10 +6509,10 @@
     },
     "109-inad_surgery-GI-49": {
       "quick": "腹部電腦斷層（CT）對初期小腸破裂的診斷敏感度有限，早期小腸穿孔時 CT 常無明顯游離空氣，不能可靠地診斷初期小腸破裂，故選項 A 為錯誤敘述。",
-      "background": "腹部鈍傷（blunt abdominal trauma）是外科常見急症，各器官損傷特性不同：\n\n1. **小腸破裂與 CT 診斷限制**：小腸腔內含氣量少，早期穿孔時游離空氣（free air）量極少，CT 的直接徵象（腸壁缺損、腸外空氣、口服顯影劑外滲）敏感度僅 10–32%，初期 CT 甚至可能完全正常（約 4%）。世界急診外科學會（WSES）指引指出 CT 可漏診高達 20% 的腸道損傷；因此腹部 CT **無法可靠診斷初期小腸破裂**，需綜合臨床徵象並考慮 6–8 小時後重複影像。\n\n2. **胰臟斷裂位置**：腹部鈍傷壓迫胰臟於脊椎時，因胰臟頸部（neck）正好跨越脊椎（L1），是受力最集中處，故胰臟斷裂（transection）通常發生在胰臟頸部（the point where the gland crosses over the spine）。\n\n3. **游離空氣量：胃破裂 vs. 小腸破裂**：胃腔含氣量遠多於小腸，因此胃破裂在 CT 上產生的游離空氣（free air/pneumoperitoneum）通常多於小腸破裂，此為正確敘述。\n\n4. **腹膜徵象（peritoneal signs）**：出現腹膜炎體徵（腹肌強直、反彈痛）是剖腹探查（exploratory laparotomy）的明確手術指標，可直接考慮手術，此為正確敘述。",
+      "background": "腹部鈍傷（blunt abdominal trauma）是外科常見急症，各器官損傷特性不同：\n\n1. **小腸破裂與 CT 診斷限制**：小腸腔內含氣量少，早期穿孔時游離空氣（free air）量極少，CT 的直接徵象（腸壁缺損、腸外空氣、口服顯影劑外滲）敏感度僅 10–32%，初期 CT 甚至可能完全正常（約 4%）。世界急診外科學會（WSES）指引指出 CT 可漏診高達 20% 的腸道損傷；因此腹部 CT **無法可靠診斷初期小腸破裂**，需綜合臨床徵象並考慮 6–8 小時後重複影像。\n\n2. **胰臟斷裂位置**：腹部鈍傷壓迫胰臟於脊椎時，因胰臟頸部（neck）正好跨越脊椎（L1），是受力最集中處，故胰臟斷裂（transection）通常發生在胰臟頸部（即腺體跨越脊椎之處）。\n\n3. **游離空氣量：胃破裂 vs. 小腸破裂**：胃腔含氣量遠多於小腸，因此胃破裂在 CT 上產生的游離空氣（free air/pneumoperitoneum）通常多於小腸破裂，此為正確敘述。\n\n4. **腹膜徵象（peritoneal signs）**：出現腹膜炎體徵（腹肌強直、反彈痛）是剖腹探查（exploratory laparotomy）的明確手術指標，可直接考慮手術，此為正確敘述。",
       "options": {
         "A": "【錯誤，為本題答案】腹部 CT 對初期小腸破裂的診斷敏感度不足，並不能「幫助診斷」早期小腸破裂。早期小腸穿孔時游離空氣稀少，CT 直接徵象（腸壁缺損、腸外空氣）敏感度僅 10–32%，WSES 指引指出 CT 可漏診達 20% 腸道損傷；初期 CT 可能完全正常。",
-        "B": "【正確】腹部鈍傷（如方向盤撞擊）將胰臟壓迫於脊椎，胰臟頸部（neck）正好跨越脊椎，是受力最集中點，故胰臟斷裂通常發生在頸部（the point where the gland crosses over the spine）。此為 Sleisenger 教科書明載事實。",
+        "B": "【正確】腹部鈍傷（如方向盤撞擊）將胰臟壓迫於脊椎，胰臟頸部（neck）正好跨越脊椎，是受力最集中點，故胰臟斷裂通常發生在頸部（即腺體跨越脊椎之處）。此為 Sleisenger 教科書明載事實。",
         "C": "【正確】胃腔含氣量遠大於小腸，因此胃破裂在 CT 上所見的游離空氣（pneumoperitoneum）通常多於小腸破裂，選項敘述正確。",
         "D": "【正確】腹膜徵象（peritoneal signs），包括腹肌強直（rigidity）、反彈痛（rebound tenderness）等，是腹腔內臟器損傷合併腹膜炎的臨床表現，為剖腹探查的手術指標，可直接考慮手術，選項敘述正確。"
       },
@@ -6583,9 +6583,9 @@
     },
     "109-inad_surgery-GI-55": {
       "quick": "CT 見左側食道與降主動脈間有空氣（縱膈氣腫），加上急性胸背痛但無主動脈剝離，最符合食道破裂（Boerhaave syndrome）。",
-      "background": "食道破裂（esophageal perforation）可因劇烈嘔吐（Boerhaave syndrome）、器械操作或外傷引起；自發性破裂多發生於食道左後壁下段。典型臨床表現為急性劇烈胸痛，常伴背痛，可合併縱膈炎與敗血症。CT 是快速診斷工具，可直接顯示食道與降主動脈之間的縱膈積氣（pneumomediastinum）；Gastrografin 食道攝影可確認穿孔部位。本題病人無典型劇烈嘔吐史，但 CT 見食道旁積氣（air between esophagus and descending aorta），加上急性胸背痛、穩定生命徵象（排除主動脈剝離），診斷為食道破裂。鑑別診斷上：（1）胃潰瘍穿孔→游離氣體在腹腔（膈下游離氣）而非縱膈；（2）張力性氣胸→單側呼吸音消失、氣管偏移、血壓下降；（3）心包膜填塞→需有頸靜脈怒張、低血壓、心音低鈍（Beck's triad）。處置原則為手術修復加引流，近年自膨式覆膜支架亦用於早期發現之食道破裂。",
+      "background": "食道破裂（esophageal perforation）可因劇烈嘔吐（Boerhaave syndrome）、器械操作或外傷引起；自發性破裂多發生於食道左後壁下段。典型臨床表現為急性劇烈胸痛，常伴背痛，可合併縱膈炎與敗血症。CT 是快速診斷工具，可直接顯示食道與降主動脈之間的縱膈積氣（pneumomediastinum）；Gastrografin 食道攝影可確認穿孔部位。本題病人無典型劇烈嘔吐史，但 CT 見食道旁積氣（食道與降主動脈之間），加上急性胸背痛、穩定生命徵象（排除主動脈剝離），診斷為食道破裂。鑑別診斷上：（1）胃潰瘍穿孔→游離氣體在腹腔（膈下游離氣）而非縱膈；（2）張力性氣胸→單側呼吸音消失、氣管偏移、血壓下降；（3）心包膜填塞→需有頸靜脈怒張、低血壓、心音低鈍（Beck's triad）。處置原則為手術修復加引流，近年自膨式覆膜支架亦用於早期發現之食道破裂。",
       "options": {
-        "A": "正確。CT 見左側食道與降主動脈間有少許空氣，符合食道破裂造成的縱膈積氣（pneumomediastinum）。Pocket Medicine 明列 Boerhaave 的特徵為「Esoph rupture. Severepain,↑w/ swallow. Mediastinal airpalpable & on CT.」；Sleisenger 亦指出食道破裂之診斷依據為「radiographic findings of pneumomediastinum and a left pleural effusion」。病人 CT 無主動脈剝離，呼吸音對稱正常，無頸靜脈怒張，排除其他三項，食道破裂最符合。",
+        "A": "正確。CT 見左側食道與降主動脈間有少許空氣，符合食道破裂造成的縱膈積氣（pneumomediastinum）。Pocket Medicine 明列 Boerhaave syndrome 的特徵為食道破裂、劇烈胸痛（吞嚥時加劇）、可觸及縱膈積氣且 CT 可見；Sleisenger 亦指出食道破裂之診斷依據為縱膈積氣（pneumomediastinum）合併左側肋膜積液。病人 CT 無主動脈剝離，呼吸音對稱正常，無頸靜脈怒張，排除其他三項，食道破裂最符合。",
         "B": "錯誤。胃潰瘍穿孔（gastric ulcer perforation）造成的游離氣體出現在腹腔（膈下游離氣，pneumoperitoneum），而非縱膈。本題 CT 顯示空氣位於食道與降主動脈之間（縱膈），且腹部柔軟無壓痛，不符合胃潰瘍穿孔。",
         "C": "錯誤。張力性氣胸（tension pneumothorax）典型表現為患側呼吸音消失、氣管偏移對側、進行性低血壓；本題兩側呼吸音對稱正常、血壓 142/75 mmHg，且 CT 未見胸腔積氣而是縱膈積氣，不符合。",
         "D": "錯誤。心包膜填塞（cardiac tamponade）需具備 Beck's triad：頸靜脈怒張（JVD）+ 低血壓 + 心音低鈍。本題無頸靜脈怒張、血壓正常、心電圖無明顯異常，不符合心包膜填塞。"
@@ -6635,8 +6635,8 @@
       "options": {
         "A": "錯（非最佳正確答案）。禁食牛奶製品並非 UC 的標準實證治療；UC 的發炎機轉為黏膜免疫失調，而非乳糖不耐或牛奶過敏所致。此選項不被 Pocket Medicine 或 Washington Manual 列為 UC 治療指引，但其危害性低於抗生素，故試題判定為可考慮的輔助建議，非最不適當選項。",
         "B": "正確答案（非現階段治療選項）。抗生素在 UC 急性發作的標準治療中無角色。Washington Manual 的 IBD 藥物表明確標示抗生素（metronidazole、ciprofloxacin）僅「用於治療克隆氏症的瘻管與膿瘍（fistulizing CD and abscesses）」，不適用於 UC。Pocket Medicine 的 UC 治療表中亦無抗生素欄位。此患者無發燒、血液報告正常，無感染併發症依據，更無使用抗生素的指征。",
-        "C": "正確治療選項。類固醇（corticosteroids，如 prednisone 40–60 mg/day）用於 UC 中至重度的誘導緩解。Pocket Medicine 明列「Moderate–severe: PO prednisone 40–60 mg w/ taper over several wks to induce remission」。此患者大腸鏡見黏膜廣泛發炎，依嚴重度可給予類固醇誘導緩解，屬現階段合理治療選項。",
-        "D": "正確治療選項。氨基水楊酸類（aminosalicylates，5-ASA，如 mesalamine、sulfasalazine）為 UC 輕至中度的第一線治療，亦可維持緩解。Washington Manual 明確指出「Aminosalicylates (5-ASA) should be used to induce remission in patients with mild to moderate UC」。此患者無發燒、血液正常，符合輕至中度 UC，給予 5-ASA 為現階段標準治療選項。"
+        "C": "正確治療選項。類固醇（corticosteroids，如 prednisone 40–60 mg/day）用於 UC 中至重度的誘導緩解。Pocket Medicine 明列中至重度可口服 prednisone 40–60 mg，並於數週內逐步減量以誘導緩解。此患者大腸鏡見黏膜廣泛發炎，依嚴重度可給予類固醇誘導緩解，屬現階段合理治療選項。",
+        "D": "正確治療選項。氨基水楊酸類（aminosalicylates，5-ASA，如 mesalamine、sulfasalazine）為 UC 輕至中度的第一線治療，亦可維持緩解。Washington Manual 明確指出 aminosalicylates（5-ASA）應用於輕至中度 UC 病人以誘導緩解。此患者無發燒、血液正常，符合輕至中度 UC，給予 5-ASA 為現階段標準治療選項。"
       },
       "references": [
         {
@@ -6707,7 +6707,7 @@
       "quick": "高脂食物是胃食道逆流的誘發因子（precipitant），會促進暫時性 LES 鬆弛並延緩胃排空，加重逆流症狀；建議「避免」而非「多攝取」，故選項 C 是不適合的衛教建議。",
       "background": "胃食道逆流疾病（GERD）的核心機轉是食道酸暴露增加，主因暫時性下食道括約肌（LES）鬆弛頻率上升。已知誘發/惡化因子包括：仰臥姿勢、高脂食物（fatty foods）、咖啡因、酒精、抽菸、鈣離子阻斷劑、肥胖及懷孕。高脂食物一方面直接促進 LES 鬆弛，另一方面延遲胃排空，延長胃內容物對食道的暴露時間，因此高脂飲食是應「避免」的誘因，而非用來「延長胃排空時間」的益處。生活型態調整的核心原則為：避免誘發因子（高脂、咖啡因、酒精、香菸）、減重、睡前 2–3 小時不進食、避免暴飲暴食、可墊高床頭。症狀持續或無法單靠生活型態改善時，可加上制酸劑（antacids）、H2 blocker 或 PPI 等藥物治療。",
       "options": {
-        "A": "正確建議。「吃完東西不立即躺平、睡前 2–3 小時不進食、不暴飲暴食」完全符合 GERD 生活型態調整原則：Pocket Medicine 明確列出「避免誘發因子、no eating 2 hrs before bed」；Washington Manual 亦指出夜間 GERD 病人應「避免睡前 2–3 小時內進食」並可墊高床頭，故此選項適合。",
+        "A": "正確建議。「吃完東西不立即躺平、睡前 2–3 小時不進食、不暴飲暴食」完全符合 GERD 生活型態調整原則：Pocket Medicine 明確列出避免誘發因子、睡前 2 小時內不進食；Washington Manual 亦指出夜間 GERD 病人應避免睡前 2–3 小時內進食並可墊高床頭，故此選項適合。",
         "B": "正確建議。戒菸、戒酒、減少咖啡因等刺激性食物均屬 GERD 已知誘發因子，Pocket Medicine 列舉 caffeine、alcohol、cigarettes 為 precipitants，應避免，故此建議適合。",
         "C": "不適合（本題答案）。高脂食物（high-fat foods）是 GERD 的誘發因子，應積極避免；選項中「多攝食高脂食品以有效延長胃排空時間」說法在目的與效果上皆有誤——延長胃排空實際上會增加胃內容物回流的機會，且高纖維與奶類食品並非 GERD 治療中特別推薦「多攝取」的項目，奶類（尤其高脂乳製品）甚至可能加重症狀，故此建議最不適合。",
         "D": "正確建議。症狀嚴重且生活型態調整無法改善時，可使用制酸劑（antacids）、H2 blockers 或 PPI 等藥物治療；Washington Manual 及 Pocket Medicine 均有記載此為標準藥物處置步驟，故此建議適合。"
@@ -6797,7 +6797,7 @@
     },
     "110-common-GI-61": {
       "quick": "腹部隆起＋高音調亢進腸音＋廣泛鼓音是早期機械性腸阻塞的三聯徵，應首先考慮腸阻塞（A）。",
-      "background": "腸阻塞（intestinal obstruction）因腸腔被機械性或功能性因素阻斷，導致腸腔內氣液積聚於梗阻點近端。早期機械性小腸阻塞的典型臨床四徵（cardinal signs）為：①陣痛性腹痛、②腹部膨隆（abdominal distention）、③嘔吐、④排便停止（obstipation）。體檢特徵：（1）聽診——早期出現高音調「音樂性」叮噹音（high-pitched, musical tinkling bowel sounds）及腸蠕動亢進的「轟鳴聲」（borborygmi/peristaltic rushes），代表腸管試圖克服阻力推進內容物；（2）叩診——充氣腸管使腹部呈廣泛鼓音（tympany）；（3）觸診——單純性阻塞常見廣泛輕度壓痛，若出現反跳痛或局限性腹膜刺激，則須警覺腸絞窄/壞死。腸穿孔（B）通常呈腸音消失、板狀腹；腸壞死（C）本身是阻塞延誤的併發症、非初步診斷；腸發炎（D）可有腸音亢進，但以發燒、血便、局限性壓痛為主。本例無腹膜刺激徵象，高音調亢進腸音＋廣泛鼓音最符合早期腸阻塞。",
+      "background": "腸阻塞（intestinal obstruction）因腸腔被機械性或功能性因素阻斷，導致腸腔內氣液積聚於梗阻點近端。早期機械性小腸阻塞的典型臨床四徵（cardinal signs）為：①陣痛性腹痛、②腹部膨隆（abdominal distention）、③嘔吐、④排便停止（obstipation）。體檢特徵：（1）聽診——早期出現高音調「音樂性」叮噹音及腸蠕動亢進的「轟鳴聲」（borborygmi/peristaltic rushes），代表腸管試圖克服阻力推進內容物；（2）叩診——充氣腸管使腹部呈廣泛鼓音（tympany）；（3）觸診——單純性阻塞常見廣泛輕度壓痛，若出現反跳痛或局限性腹膜刺激，則須警覺腸絞窄/壞死。腸穿孔（B）通常呈腸音消失、板狀腹；腸壞死（C）本身是阻塞延誤的併發症、非初步診斷；腸發炎（D）可有腸音亢進，但以發燒、血便、局限性壓痛為主。本例無腹膜刺激徵象，高音調亢進腸音＋廣泛鼓音最符合早期腸阻塞。",
       "options": {
         "A": "正確。腹部隆起、高音調亢進腸音（high-pitch hyperactive bowel sound）、廣泛鼓音是早期機械性腸阻塞的典型表現；近端腸管積氣積液，腸管試圖克服阻力而收縮產生高調金屬音及亢進蠕動音，叩診因充氣呈鼓音，符合教科書對SBO早期的描述（Harrison Ch.341；Sleisenger Ch.123）。",
         "B": "錯誤。腸穿孔（intestinal perforation）通常繼發於腸壞死或潰瘍穿孔；表現為突發劇烈腹痛、腸音消失、腹肌緊繃（板狀腹）、腹膜刺激陽性，與本例廣泛輕度壓痛＋亢進腸音不符。腸穿孔是梗阻的嚴重後期併發症，非早期初步診斷。",
@@ -6824,7 +6824,7 @@
         "A": "錯誤（非必要）。anti-HAV IgM 陰性已排除急性 A 型肝炎；anti-HAV IgG 陽性僅代表過去曾感染或接種，不能提供本次 HBsAg 陽性肝炎急性發作的診斷訊息，屬非必要加驗項目。Pocket Medicine 指出：「past exposure = ⊕ IgG anti-HAV (⊖IgM)」，即 IgG anti-HAV 是過去暴露指標而非急性感染指標。",
         "B": "正確（必要）。anti-HBc IgM 是首個出現的抗 HBc 抗體，陽性代表急性 HBV 感染；此外在「窗期」（HBsAg 已消、anti-HBs 未出現）時為唯一線索。本題 HBsAg 仍陽性，加驗 anti-HBc IgM 可判斷是急性原發感染還是慢性 HBV 急性再活化（chronic 期 IgM anti-HBc 多為陰性），具重要鑑別價值，屬必要檢查。",
         "C": "正確（必要）。HBeAg 陽性代表病毒活躍複製及傳染力增高。本題 HBsAg 陽性、病人有明顯轉胺酶上升，需了解目前處於免疫活躍期（HBeAg 陽性）還是 precore 突變株（HBeAg 陰性但 HBV DNA 仍高），以指引後續監測與治療決策，屬必要檢查。",
-        "D": "正確（必要）。HDV（D 型肝炎）須依附 HBV 才能複製，所有 HBV 感染病人都應至少篩查一次 anti-HDV。Pocket Medicine 明確指出：「✓ total anti-HDV once in all HBV-infected patients」。HDV 共感染/重複感染可加重肝炎嚴重度，本題轉胺酶明顯升高，更需排除 HDV，屬必要檢查。"
+        "D": "正確（必要）。HDV（D 型肝炎）須依附 HBV 才能複製，所有 HBV 感染病人都應至少篩查一次 anti-HDV。HDV 共感染/重複感染可加重肝炎嚴重度，本題轉胺酶明顯升高，更需排除 HDV，屬必要檢查。"
       },
       "references": [
         {
@@ -7044,7 +7044,7 @@
       "background": "主動脈剝離（aortic dissection）是急診常見的致命性胸痛之一，其疼痛特徵為突發、劇烈、具「撕裂感」或「撕扯感」，且在發作當下即達到最高強度（maximal at onset），有別於心絞痛的漸進性加劇（crescendo）。高血壓是最重要的危險因子，超過 70% 的主動脈剝離病人有高血壓病史。疼痛位置依撕裂延伸方向而異：近端（Stanford A 型）常表現前胸及後背痛，有時放射至頸部及上肢；遠端（Stanford B 型）則以背部及腹部為主。\n\n胸痛鑑別診斷包括四大類：（1）心血管—急性冠心症（壓迫感、放射至左臂/下巴）、心包炎（體位變化影響）、主動脈剝離（撕裂感）、肺栓塞（突發性胸膜炎樣胸痛）；（2）肺部—氣胸（突發銳痛）；（3）消化道—胃食道逆流（胸骨下燒灼感，伴酸味）、食道痙攣、消化性潰瘍；（4）肌肉骨骼。\n\n本題病人具有「高血壓病史未規則服藥」加上「撕裂感胸痛由前胸放射至頸部及背部」，這一組合高度指向主動脈剝離，而非胃食道逆流（燒灼感）、肺栓塞（突發胸膜炎樣）或氣胸（單純急性銳痛）。",
       "options": {
         "A": "錯誤。胃食道逆流（GERD）的胸痛特徵是胸骨下燒灼感（heartburn），伴有口腔酸苦味，並與進食有關（飯後增加）；不會呈現「撕裂感」且不典型地放射至頸部及背部。此選項不符合題目臨床圖像。",
-        "B": "正確。主動脈剝離的「主動脈痛」特徵是突發、劇烈、具撕裂感或撕扯感（abrupt, severe, tearing or ripping quality），在發作當下即達最高強度（maximal at onset），可向頸部、背部或腹部放射。高血壓（未受控的高血壓是最重要危險因子，見於逾 70% 的主動脈剝離）為本例的關鍵風險背景。近端型（Stanford A）常表現為前胸痛加後背痛，符合本題描述。",
+        "B": "正確。主動脈剝離的「主動脈痛」特徵是突發、劇烈、具撕裂感或撕扯感，在發作當下即達最高強度（maximal at onset），可向頸部、背部或腹部放射。高血壓（未受控的高血壓是最重要危險因子，見於逾 70% 的主動脈剝離）為本例的關鍵風險背景。近端型（Stanford A）常表現為前胸痛加後背痛，符合本題描述。",
         "C": "錯誤。肺栓塞（PE）的胸痛呈突發性胸膜炎樣胸痛（pleuritic chest pain），同時伴有呼吸急促、心跳加快、血氧下降；疼痛性質為「尖銳、與呼吸相關」，而非「撕裂感放射至頸部及背部」。",
         "D": "錯誤。氣胸（pneumothorax）表現為突發急性尖銳胸膜炎樣胸痛，通常單側，伴有呼吸困難；不具「撕裂感」且不放射至頸部及背部。"
       },
@@ -7099,10 +7099,10 @@
       "quick": "甲狀腺功能低下不會直接引起胸痛，而帶狀疱疹、胃食道逆流、主動脈剝離皆可在心電圖無缺血變化下呈現胸痛，故心電圖正常時最不考慮的診斷是甲狀腺功能低下（C）。",
       "background": "胸痛的鑑別診斷範圍廣，涵蓋心血管、消化道、呼吸、肌骨骼及其他系統。當心電圖正常且無心肌缺血證據時，可縮小診斷至非心因性原因。帶狀疱疹（varicella-zoster virus 再活化）侵犯胸神經皮節時，疼痛劇烈且呈單側性，可在皮疹出現前數天即有胸痛，ECG 自然正常。胃食道逆流（GERD）的胸骨後灼熱感可完全模擬心絞痛，且 ECG 無異常；Washington Manual 明確指出 GERD 與食道痙攣可模擬心絞痛（responsive to NTG），在 GI 評估前應先排除心臟來源。主動脈剝離亦可出現 ECG 正常（未波及冠狀動脈時），同時為急性胸痛的致命原因之一。甲狀腺功能亢進症（Thyrotoxicosis）可因心肌耗氧需求大增而引發心肌缺血型胸痛；但甲狀腺功能低下（Hypothyroidism）並不直接造成胸痛——其 ECG 表現為低電位或心跳減緩，而非缺血性變化，且在標準胸痛鑑別診斷表中不列入。因此，ECG 正常且無缺血時，最不需考慮甲狀腺功能低下作為胸痛診斷。",
       "options": {
-        "A": "錯誤（帶狀疱疹是正確的考慮診斷）。帶狀疱疹侵犯胸神經皮節時，表現為強烈單側性胸部疼痛，疼痛可在皮疹出現前即有，此時 ECG 無任何缺血變化。Pocket Medicine 胸痛鑑別診斷表即列出「Zoster: Intense unilateral pain. Pain may precede dermatomal rash.」，故 ECG 正常時仍應考慮此診斷。",
+        "A": "錯誤（帶狀疱疹是正確的考慮診斷）。帶狀疱疹侵犯胸神經皮節時，表現為強烈單側性胸部疼痛，疼痛可在皮疹出現前即有，此時 ECG 無任何缺血變化。Pocket Medicine 胸痛鑑別診斷表即列出帶狀疱疹會引起強烈單側疼痛、且疼痛可早於皮節分布的皮疹出現，故 ECG 正常時仍應考慮此診斷。",
         "B": "錯誤（胃食道逆流是正確的考慮診斷）。GERD 的胸骨後灼熱感或非典型胸痛可高度模擬心絞痛，且 ECG 完全正常。Washington Manual 明確列出 esophageal disease（包含 GERD）為胸痛鑑別診斷，並指出其可模擬心絞痛；GERD topic 頁亦指出表現為胸痛時「GI 評估前應先排除心臟來源」，反映 GERD 的胸痛表現十分真實。",
         "C": "正確（標準答案）。甲狀腺功能低下本身不直接引起胸痛，其典型表現為疲倦、體重增加、怕冷、心跳緩慢、低電位 ECG 等，不屬於急性胸痛的主要原因。Washington Manual 胸痛鑑別診斷表列出的是 Thyrotoxicosis（甲狀腺功能亢進），而非 hypothyroidism，強調「增加心肌耗氧需求」機制。甲狀腺功能低下在心電圖正常且無缺血時最不需優先考慮為胸痛診斷。",
-        "D": "錯誤（主動脈剝離是正確的考慮診斷）。主動脈剝離可出現 ECG 正常（當剝離未累及冠狀動脈時），典型表現為突發撕裂性劇痛放射至背部，是必須快速排除的致命性胸痛原因。Pocket Medicine 胸痛鑑別診斷表列出「Aortic dissection: Sudden severe tearing pain...」；Washington Manual Table 4-3 亦列入 Aortic dissection 為胸痛鑑別診斷（「May mimic anginal pain and/or involve the coronary arteries」）。"
+        "D": "錯誤（主動脈剝離是正確的考慮診斷）。主動脈剝離可出現 ECG 正常（當剝離未累及冠狀動脈時），典型表現為突發撕裂性劇痛放射至背部，是必須快速排除的致命性胸痛原因。Pocket Medicine 胸痛鑑別診斷表將主動脈剝離描述為突發、嚴重的撕裂性疼痛；Washington Manual Table 4-3 亦列入 Aortic dissection 為胸痛鑑別診斷，並指出其可模擬心絞痛及/或侵犯冠狀動脈。"
       },
       "references": [
         {
@@ -7123,11 +7123,11 @@
     },
     "110-inad_im-GI-3": {
       "quick": "fentanyl 為強效嗎啡類止痛劑，可經靜脈、經皮及口腔黏膜等多途徑給藥，因此選 D 正確。",
-      "background": "嗎啡類止痛劑（opioid analgesics）主要透過 μ-receptor 達到止痛效果，但 μ-receptor 活化的典型副作用為瞳孔縮小（miosis）與心搏過慢，**不是**瞳孔放大或心搏過快，故選項 A 錯誤。meperidine（Demerol®）的代謝物 normeperidine 具有神經興奮毒性，可導致癲癇發作，且腎衰竭時 normeperidine 累積風險更高；目前急性胰臟炎止痛首選為 IV opioids（morphine、hydromorphone 等），meperidine 已不建議用於急性胰臟炎，且成癮風險與其他 opioids 相近，並非「少見」，故選項 B 錯誤。腎衰竭病人使用 morphine 時，其活性代謝物（morphine-6-glucuronide）會蓄積，必須調整劑量，故選項 C 錯誤（Pocket Medicine 明確指出「renal impairment 需 adjust dosing」）。fentanyl 為高效 opioid，可由靜脈注射（IV）、經皮貼片（transdermal patch）及口腔黏膜（buccal/sublingual）等途徑給藥，適用於無法口服的病人，故選項 D 正確。",
+      "background": "嗎啡類止痛劑（opioid analgesics）主要透過 μ-receptor 達到止痛效果，但 μ-receptor 活化的典型副作用為瞳孔縮小（miosis）與心搏過慢，**不是**瞳孔放大或心搏過快，故選項 A 錯誤。meperidine（Demerol®）的代謝物 normeperidine 具有神經興奮毒性，可導致癲癇發作，且腎衰竭時 normeperidine 累積風險更高；目前急性胰臟炎止痛首選為 IV opioids（morphine、hydromorphone 等），meperidine 已不建議用於急性胰臟炎，且成癮風險與其他 opioids 相近，並非「少見」，故選項 B 錯誤。腎衰竭病人使用 morphine 時，其活性代謝物（morphine-6-glucuronide）會蓄積，必須調整劑量，故選項 C 錯誤（Pocket Medicine 明確指出腎功能不全時須調整劑量）。fentanyl 為高效 opioid，可由靜脈注射（IV）、經皮貼片（transdermal patch）及口腔黏膜（buccal/sublingual）等途徑給藥，適用於無法口服的病人，故選項 D 正確。",
       "options": {
         "A": "錯誤。μ-receptor 活化產生的典型副作用為「瞳孔縮小（miosis）」而非瞳孔放大（mydriasis），且心搏通常減慢或無明顯改變，不是心搏過快。Harrison 指出大多數商業化 opioids 主要作用於 μ-receptor，但其副作用包括縮瞳、呼吸抑制、鎮靜等，並無散瞳或心搏過快。",
         "B": "錯誤。meperidine 的代謝物 normeperidine 可累積導致癲癇發作（normeperidine 蓄積尤見於腎衰竭），且其成癮性與其他 opioids 相同，並非「臨床上少見成癮」。現行急性胰臟炎指引以 IV opioids（如 morphine、hydromorphone）為首選，meperidine 不再被推薦用於急性胰臟炎。",
-        "C": "錯誤。腎衰竭病人使用 morphine 時，活性代謝物 morphine-6-glucuronide 因腎臟清除減少而蓄積，可加重鎮靜與呼吸抑制，**必須**調整劑量。Pocket Medicine 明確寫明急性胰臟炎止痛時需「adjust dosing if renal impairment」。",
+        "C": "錯誤。腎衰竭病人使用 morphine 時，活性代謝物 morphine-6-glucuronide 因腎臟清除減少而蓄積，可加重鎮靜與呼吸抑制，**必須**調整劑量。Pocket Medicine 明確寫明急性胰臟炎止痛時若有腎功能不全須調整劑量。",
         "D": "正確。fentanyl 為高效 opioid，可經靜脈注射（IV）、靜脈持續輸注、經皮貼片（transdermal patch）及口腔黏膜（buccal/oral mucosa）等多種途徑吸收給藥。Harrison 明確列舉 fentanyl 可經皮（transdermally）及口腔黏膜（through the oral mucosa）給藥，適合無法口服之病人。"
       },
       "references": [
@@ -7270,7 +7270,7 @@
         "A": "錯誤。膽囊炎（cholecystitis）主要表現為右上腹疼痛，可伴隨 Murphy's sign，疼痛通常不放射至背部正中，也不會造成臍周皮膚瘀斑（Cullen's sign）或腸音消失。此題患者無典型右上腹局限疼痛表現，不符。",
         "B": "錯誤。消化性潰瘍（peptic ulcer）雖可造成上腹痛，但臍周藍色瘀斑（Cullen's sign）並非消化性潰瘍的典型體徵；穿孔性潰瘍可造成腹膜炎，但不會呈現臍周出血性瘀斑。此外，酒癮合併放射至背部的上腹痛更高度提示胰臟來源。",
         "C": "錯誤。腸阻塞（bowel obstruction）可有腹痛與腸音消失（麻痺性腸阻塞）或腸音亢進（機械性），但不會造成臍周藍色瘀斑（Cullen's sign），且放射至背部的上腹痛也不是腸阻塞的典型表現。",
-        "D": "正確。本例集結了急性胰臟炎的多項典型特徵：(1) 酒癮病史（酒精為第二大病因，占 30%）；(2) 上腹痛放射至背部（Pocket Medicine: 'Epigastric abdominal or LUQ pain (90%), only ½ w/ bandlike pain radiating to back'）；(3) 噁心嘔吐；(4) Cullen's sign（臍周藍色瘀斑，出血性胰臟炎的徵象，Pocket Medicine: 'periumbilical or flank (Cullen or Grey Turner signs) bruising'）；(5) 腸音消失；(6) 發燒＋低血壓＋心跳加速（重度急性胰臟炎的全身性反應）。"
+        "D": "正確。本例集結了急性胰臟炎的多項典型特徵：(1) 酒癮病史（酒精為第二大病因，占 30%）；(2) 上腹痛放射至背部（Pocket Medicine 指出約 90% 表現上腹或左上腹痛，僅約半數有放射至背部的束帶狀疼痛）；(3) 噁心嘔吐；(4) Cullen's sign（臍周藍色瘀斑，出血性胰臟炎的徵象，Pocket Medicine 描述為臍周或側腹的瘀斑，即 Cullen 或 Grey Turner sign）；(5) 腸音消失；(6) 發燒＋低血壓＋心跳加速（重度急性胰臟炎的全身性反應）。"
       },
       "references": [
         {
@@ -7749,8 +7749,8 @@
       "options": {
         "A": "錯誤。誘發因子包括術後麻醉性鎮痛藥（opiates/narcotics）、鈣離子通道阻斷劑、抗膽鹼藥，以及嚴重疾病、感染、電解質異常等；「瀉劑」並非 Ogilvie 症候群的誘發因子，選項中將其列入且說「大部分」發生於此類病人，描述不正確。",
         "B": "錯誤。Ogilvie 症候群的結腸擴張主要發生於盲腸（cecum）及右側（近端）結腸，而非「橫結腸及左側結腸」。無機械性阻塞的描述正確，但部位描述有誤。",
-        "C": "錯誤。根據 Washington Manual，neostigmine 應在大腸鏡減壓前優先嘗試（「A trial of neostigmine may be warranted before colonoscopic decompression」），而非大腸鏡減壓優於 neostigmine 且復發率更低；選項倒置了兩者的優先順序，且「比靜脈注射 neostigmine 復發率低」在教科書中無相應支持。",
-        "D": "正確。直腸管（rectal tube）僅能減壓遠端結腸；Ogilvie 症候群的擴張主要在近端結腸（盲腸），因此直腸管處置對此症「很少有效」——當近端結腸擴張明顯時，需大腸鏡減壓而非直腸管。Washington Manual 明確指出：「Rectal tubes help decompress the distal colon; more proximal colonic distension may necessitate colonoscopic decompression」。"
+        "C": "錯誤。根據 Washington Manual，neostigmine 應在大腸鏡減壓前優先嘗試，而非大腸鏡減壓優於 neostigmine 且復發率更低；選項倒置了兩者的優先順序，且「比靜脈注射 neostigmine 復發率低」在教科書中無相應支持。",
+        "D": "正確。直腸管（rectal tube）僅能減壓遠端結腸；Ogilvie 症候群的擴張主要在近端結腸（盲腸），因此直腸管處置對此症「很少有效」——當近端結腸擴張明顯時，需大腸鏡減壓而非直腸管。Washington Manual 明確指出，直腸管可協助遠端結腸減壓，但較近端的結腸脹大可能就需要大腸鏡減壓。"
       },
       "references": [
         {
@@ -7797,7 +7797,7 @@
       "options": {
         "A": "錯誤。目前證據不支持常規放置鼻胃管可降低食道切除術後肺炎風險；Sleisenger 明確指出術後最常見的兩大併發症是吻合口瘻與術後肺炎，並非因鼻胃管放置與否決定，且多數高容量中心已不再常規留置鼻胃管。",
         "B": "正確。心房顫動（atrial fibrillation）是食道切除術後最常見的心臟併發症，與開胸刺激心包膜及縱膈腔有關，臨床上需注意監測。",
-        "C": "錯誤。Sleisenger 明確記載：「Patients with a history of lye ingestion have a 1000-fold increased risk of developing esophageal cancer」，即腐蝕性（鹼性）灼傷使食道癌風險增加約 1000 倍，而非題目所稱的 5 倍。潛伏期約 40 年，食道癌類型為鱗狀上皮癌（ESCC）。",
+        "C": "錯誤。Sleisenger 明確記載，有腐蝕性鹼劑（lye）吞食病史者，日後罹患食道癌的風險增加約 1000 倍，而非題目所稱的 5 倍。潛伏期約 40 年，食道癌類型為鱗狀上皮癌（ESCC）。",
         "D": "錯誤。Sleisenger 的資料顯示術前同步放化療的病理完全緩解率（pCR）：EAC（腺癌）約 23%，ESCC（鱗狀上皮癌）約 49%。故食道鱗狀上皮癌對放射線治療的反應優於食道腺癌，D 選項的敘述方向相反。"
       },
       "references": [
@@ -7840,7 +7840,7 @@
       "background": "傾倒徵候群（dumping syndrome）常見於胃手術後（迷走神經切斷術合併引流術、Billroth I/II 胃空腸吻合術）：因喪失幽門括約肌功能，胃內容物快速排入小腸。分早期與晚期兩型：\n\n早期傾倒（early dumping）：飯後 15–30 分鐘發生，因高滲食糜快速進入小腸，腸腔液體急速移入使血漿量縮減並促進血管活性激素釋放，表現為痙攣性腹痛、噁心、腹瀉、心跳加速、盜汗及頭暈；注意：早期傾倒「有腹痛」（crampy abdominal discomfort）。\n\n晚期傾倒（late dumping）：飯後 90 分鐘至 3 小時發生，因碳水化合物快速吸收造成高血糖，誘發過量胰島素分泌，隨後血糖驟降出現反應性低血糖（hypoglycemia），表現以血管運動症狀為主（頭暈、盜汗、心悸、心跳過速，偶有暈厥）。\n\n治療以飲食調整為主（少量多餐、避免單醣、用餐時不大量喝液體）；藥物可用 acarbose（延緩碳水化合物吸收）或 octreotide（抑制腸激素）；手術難治者可考慮 Roux-en-Y 胃空腸吻合術轉換，而非 Billroth II → Billroth I 轉換。",
       "options": {
         "A": "錯誤。早期傾倒徵候群確實在飯後 15–30 分鐘發生，但「通常不合併腹痛」一說有誤：Harrison 明確記載早期傾倒包含 crampy abdominal discomfort（痙攣性腹痛）。躺著休息（臥位）可減輕血管運動症狀，但並非早期傾倒的典型處置說明；故本選項敘述錯誤。",
-        "B": "正確。後期傾倒徵候群發生於飯後 90 分鐘至 3 小時（選項稱「2～3 小時」符合此範圍），主因碳水化合物快速吸收後誘發過量胰島素釋放導致低血糖（hypoglycemia from excessive insulin release），與高胰島素血症一致。",
+        "B": "正確。後期傾倒徵候群發生於飯後 90 分鐘至 3 小時（選項稱「2～3 小時」符合此範圍），主因碳水化合物快速吸收後誘發過量胰島素釋放導致低血糖，與高胰島素血症一致。",
         "C": "錯誤。維生素 B12 缺乏及脂肪代謝障礙（吸收不良）屬於胃部切除術後消化吸收不良（maldigestion/malabsorption）之併發症，並非傾倒徵候群本身的特徵；兩者成因不同（B12 缺乏主因細菌過度繁殖競爭或胃酸低下無法分解蛋白結合型 B12，脂肪吸收不良因胃排空加速與胰液膽汁不同步），不應歸因於傾倒徵候群。",
         "D": "錯誤。手術治療難治性傾倒徵候群的標準術式是將 Billroth II 轉換為 Roux-en-Y 胃空腸吻合術，而非轉換為 Billroth I；Billroth I（胃十二指腸吻合）並不能有效緩解傾倒症狀。"
       },
@@ -7863,12 +7863,12 @@
     },
     "111-common-GI-52": {
       "quick": "Cullen's sign（臍周瘀血）源自腹膜後或腹腔內出血沿筋膜平面向臍部滲入，急性腸繫膜缺血合併腸壞死本身並不產生此類出血路徑，故為最不可能的診斷。",
-      "background": "Cullen's sign 是臍周皮膚出現藍紫色瘀血斑，病理機制為大量血液沿腹膜後間隙或腹腔內筋膜平面向前滲入臍周皮下脂肪組織。最經典的成因包括：(1) 急性壞死性胰臟炎：胰臟周圍組織出血進入腹膜後間隙，再沿鐮狀韌帶、臍內側韌帶滲向臍部；(2) 腹部主動脈瘤破裂：大量腹膜後血腫沿筋膜向前蔓延；(3) 肝癌破裂：腫瘤破入腹腔造成腹腔內積血，血液沿鐮狀韌帶或圓韌帶追蹤至臍部。以上三種均能產生「血液沿筋膜平面向臍部滲入」的共同機制。急性腸繫膜缺血（acute mesenteric ischemia, AMI）的病理核心是腸壁因缺血而壞死，主要表現為「疼痛程度與腹部觸診不相符（pain out of proportion to exam）」、大便潛血陽性（約75%），即使進展到腸壁破裂，外洩的主要是腸道內容物（造成腹膜炎），而非來自腹膜後或血管的大量出血，因此不會產生 Cullen's sign 的腹膜後出血沿筋膜滲入機制。本題患者有酗酒（胰臟炎高危）、高血壓（AAA及肝癌高危）、慢性肝炎（HCC高危），且出現臍周瘀血（Cullen's sign）和腹痛超過一日；在所有選項中，唯有急性腸繫膜缺血合併腸壞死破裂不具備「腹膜後或腹腔大量出血沿筋膜達臍部」的機制，為最不可能的診斷。",
+      "background": "Cullen's sign 是臍周皮膚出現藍紫色瘀血斑，病理機制為大量血液沿腹膜後間隙或腹腔內筋膜平面向前滲入臍周皮下脂肪組織。最經典的成因包括：(1) 急性壞死性胰臟炎：胰臟周圍組織出血進入腹膜後間隙，再沿鐮狀韌帶、臍內側韌帶滲向臍部；(2) 腹部主動脈瘤破裂：大量腹膜後血腫沿筋膜向前蔓延；(3) 肝癌破裂：腫瘤破入腹腔造成腹腔內積血，血液沿鐮狀韌帶或圓韌帶追蹤至臍部。以上三種均能產生「血液沿筋膜平面向臍部滲入」的共同機制。急性腸繫膜缺血（acute mesenteric ischemia, AMI）的病理核心是腸壁因缺血而壞死，主要表現為「疼痛程度與腹部觸診不相符」、大便潛血陽性（約75%），即使進展到腸壁破裂，外洩的主要是腸道內容物（造成腹膜炎），而非來自腹膜後或血管的大量出血，因此不會產生 Cullen's sign 的腹膜後出血沿筋膜滲入機制。本題患者有酗酒（胰臟炎高危）、高血壓（AAA及肝癌高危）、慢性肝炎（HCC高危），且出現臍周瘀血（Cullen's sign）和腹痛超過一日；在所有選項中，唯有急性腸繫膜缺血合併腸壞死破裂不具備「腹膜後或腹腔大量出血沿筋膜達臍部」的機制，為最不可能的診斷。",
       "options": {
         "A": "正確選項之一（非答案，但可能）。肝癌破裂是肝癌（HCC）高危患者（慢性肝炎 + 酗酒病史）發生腫瘤自發破裂的已知急症；腫瘤破入腹腔後，腹腔內積血可沿鐮狀韌帶或圓韌帶追蹤至臍部，造成 Cullen's sign。因此肝癌破裂可合理解釋本題的臍周瘀血，是可能的診斷，不是「最不可能」。",
-        "B": "正確選項之一（非答案，但可能）。急性壞死性胰臟炎是 Cullen's sign 最經典的成因之一，教科書明載：「unexplained shock, periumbilical or flank (Cullen or Grey Turner signs) bruising」時應檢測 lipase（Pocket Medicine, p.204）。本患者有酗酒病史（胰臟炎重要病因，30%），高度符合。急性壞死性胰臟炎可能出現 Cullen's sign，是可能的診斷，不是「最不可能」。",
+        "B": "正確選項之一（非答案，但可能）。急性壞死性胰臟炎是 Cullen's sign 最經典的成因之一，教科書明載：遇到原因不明的休克、臍周或腰脇部瘀血（即 Cullen's sign 或 Grey Turner's sign）時應檢測 lipase（Pocket Medicine, p.204）。本患者有酗酒病史（胰臟炎重要病因，30%），高度符合。急性壞死性胰臟炎可能出現 Cullen's sign，是可能的診斷，不是「最不可能」。",
         "C": "正確選項之一（非答案，但可能）。腹部主動脈瘤破裂（ruptured AAA）是大量腹膜後血腫的重要急症；高血壓為 AAA 的危險因子，腹膜後大量出血沿筋膜向前滲可造成 Cullen's sign。因此 AAA 破裂是可能診斷，不是「最不可能」。",
-        "D": "官方正解。急性腸繫膜缺血合併腸壞死破裂最不可能出現 Cullen's sign。急性腸繫膜缺血的核心機制是腸壁缺血壞死，典型表現為「疼痛不成比例（pain out of proportion to exam）」及大便潛血陽性（~75%）；即使進展為腸壁穿孔/破裂，外洩的主要是腸道內容物引發腹膜炎，而非大量動脈性出血沿筋膜滲入腹膜後間隙或腹腔形成腹膜後血腫。腹膜後出血/腹腔大量積血追蹤至臍部的路徑在腸繫膜缺血中不存在，故不會出現臍周瘀血（Cullen's sign），為最不可能的診斷。"
+        "D": "官方正解。急性腸繫膜缺血合併腸壞死破裂最不可能出現 Cullen's sign。急性腸繫膜缺血的核心機制是腸壁缺血壞死，典型表現為「疼痛不成比例」及大便潛血陽性（~75%）；即使進展為腸壁穿孔/破裂，外洩的主要是腸道內容物引發腹膜炎，而非大量動脈性出血沿筋膜滲入腹膜後間隙或腹腔形成腹膜後血腫。腹膜後出血/腹腔大量積血追蹤至臍部的路徑在腸繫膜缺血中不存在，故不會出現臍周瘀血（Cullen's sign），為最不可能的診斷。"
       },
       "references": [
         {
@@ -7992,9 +7992,9 @@
       "background": "腰大肌徵象（psoas sign / iliopsoas sign）是急性闌尾炎重要的輔助體徵之一，但敏感度低（約 3–5%）。檢查方式有二：(1) 病人仰臥，主動屈曲右髖對抗阻力；(2) 病人左側臥，由檢查者被動屈伸其右髖。任一動作引發右下腹或後外側腰臀疼痛即為陽性，機轉為發炎的後腹膜位置（retrocecal / retroperitoneal）闌尾刺激下方的腰大肌。相對地，閉孔肌徵象（obturator sign）是內外旋轉屈曲的右髖，反映骨盆腔位置的闌尾刺激閉孔內肌。所有這些附加體徵陽性時有診斷價值，但陰性並不能排除急性闌尾炎。Psoas sign 陽性提示闌尾位於盲腸後方（retrocecal）或後腹膜，而非盲腸前方。",
       "options": {
         "A": "錯誤。將髖關節及膝關節彎曲 90 度後再內外旋轉是閉孔肌徵象（obturator sign）的檢查方式，不是腰大肌徵象。Psoas sign 的標準手法是主動屈曲右髖對抗阻力，或於左側臥位被動屈伸右髖。",
-        "B": "正確。腰大肌徵象陽性表示檢查時腹痛加劇，原因是發炎的闌尾（位於後腹膜）刺激其下方的腰大肌（irritation of the underlying psoas muscle by an inflamed retroperitoneal appendix）。",
+        "B": "正確。腰大肌徵象陽性表示檢查時腹痛加劇，原因是發炎的闌尾（位於後腹膜）刺激其下方的腰大肌。",
         "C": "錯誤。Psoas sign 陽性提示闌尾位於盲腸後方（retrocecal）或後腹膜位置，而非盲腸前方。Harrison 21e Table 342-4 明載 iliopsoas sign 陽性「suggesting retrocecal appendicitis」。",
-        "D": "錯誤。Psoas sign 等附加體徵陽性時有助診斷，但「陰性並不能排除急性闌尾炎」（their absence does not exclude appendicitis）。急性闌尾炎的臨床診斷需綜合多項資訊。"
+        "D": "錯誤。Psoas sign 等附加體徵陽性時有助診斷，但「陰性並不能排除急性闌尾炎」。急性闌尾炎的臨床診斷需綜合多項資訊。"
       },
       "references": [
         {
@@ -8097,7 +8097,7 @@
     },
     "111-inad_im-GI-21": {
       "quick": "從直腸向近端連續延伸、全大腸黏膜充血易碎合併假性息肉，加上血便與裏急後重，是潰瘍性大腸炎（UC）的典型大腸鏡表現，故答案為 A。",
-      "background": "潰瘍性大腸炎（Ulcerative Colitis, UC）是發炎性腸道疾病（IBD）之一，病變侷限於結腸黏膜層（mucosa），且呈連續性（contiguous）從直腸向近端延伸。臨床上以明顯血便（grossly bloody diarrhea）、下腹絞痛及裏急後重（tenesmus）為主要表現，排便次數多但量少。大腸鏡可見血管紋理消失、黏膜脆弱易出血（friable mucosa）、瀰漫性潰瘍及假性息肉（pseudopolyps，慢性化後出現）；侵犯直腸比例高達 95%，且病灶在大腸內連續延伸（circumferential and contiguous within colon）。侵犯範圍：直腸炎（proctitis）30–60%、左側型 15–45%、廣泛型/全結腸炎（pancolitis）15–35%，本題描述整段大腸皆受累，即屬 pancolitis。與此相對，克隆氏症（CD）為全層（transmural）發炎、跳躍性病灶（skip lesions），腹瀉常為非血性；大腸激躁症（IBS）無黏膜病變；憩室炎主要表現為左下腹痛與局部感染，不會造成全大腸連續炎症或假性息肉。",
+      "background": "潰瘍性大腸炎（Ulcerative Colitis, UC）是發炎性腸道疾病（IBD）之一，病變侷限於結腸黏膜層（mucosa），且呈連續性（contiguous）從直腸向近端延伸。臨床上以明顯血便（grossly bloody diarrhea）、下腹絞痛及裏急後重（tenesmus）為主要表現，排便次數多但量少。大腸鏡可見血管紋理消失、黏膜脆弱易出血（friable mucosa）、瀰漫性潰瘍及假性息肉（pseudopolyps，慢性化後出現）；侵犯直腸比例高達 95%，且病灶在大腸內呈環周性、連續性延伸。侵犯範圍：直腸炎（proctitis）30–60%、左側型 15–45%、廣泛型/全結腸炎（pancolitis）15–35%，本題描述整段大腸皆受累，即屬 pancolitis。與此相對，克隆氏症（CD）為全層（transmural）發炎、跳躍性病灶（skip lesions），腹瀉常為非血性；大腸激躁症（IBS）無黏膜病變；憩室炎主要表現為左下腹痛與局部感染，不會造成全大腸連續炎症或假性息肉。",
       "options": {
         "A": "正確。潰瘍性大腸炎（UC）：題幹描述從直腸延伸至整段大腸的連續黏膜充血、易碎、炎症變化及許多偽息肉（假性息肉），正是 UC 大腸鏡的典型所見；每天 4–5 次血便合併裏急後重亦完全符合 UC 的臨床表現。UC 定義即「結腸黏膜連續性發炎，由直腸開始」，本題所有特徵均指向 UC pancolitis。",
         "B": "錯誤。大腸激躁症（IBS）：IBS 是功能性腸道疾病，無器質性黏膜病變，大腸鏡下黏膜外觀正常，不出現血便、黏膜易碎或假性息肉。題幹有明顯血便、大腸鏡可見黏膜充血易碎及假性息肉，完全排除 IBS。",
@@ -8163,10 +8163,10 @@
       "quick": "COPD 急性惡化且意識清楚是 NIPPV 的首選適應症（答案 D）；其他三個選項均符合 NIPPV 禁忌症（血行動力學不穩、誤吸高風險、大量出血性分泌物、顱面外傷）。",
       "background": "非侵入性正壓呼吸器（NIPPV/NIV）在 COPD 急性惡化中是第一線通氣支持，可降低插管率、改善呼吸性酸中毒、降低呼吸速率並縮短住院天數。其主要適應症為：中重度呼吸困難合併呼吸功增加、急性呼吸性酸中毒（pH ≤7.35 且/或 PaCO₂ >45 mmHg）、呼吸速率 >25 次/分。NIPPV 禁忌症依據 GOLD 指引（由 Washington Manual 引用）分為三大類：（1）血行動力學不穩（hemodynamic instability）、呼吸停止、意識改變或無法合作；（2）誤吸高風險、分泌物多且黏稠、近期顏面/胃食道手術；（3）顱面外傷（craniofacial trauma）、固定性鼻咽異常、燒傷、極度肥胖。上消化道出血合併休克同時滿足「血行動力學不穩」與「誤吸高風險（嘔血）」兩項禁忌；支氣管擴張症大量咳血屬「大量血性分泌物」禁忌；嚴重顱面外傷術後直接列為禁忌症。只有 COPD 急性惡化且意識清楚的患者符合使用 NIPPV 的條件。Harrison 亦明確指出 NIPPV 在 COPD 急性惡化中已被證實有益，但在「血行動力學不穩、無法保護呼吸道、呼吸停止、大量氣道分泌物、顯著誤吸風險」等情況下屬禁忌。",
       "options": {
-        "A": "錯誤。支氣管擴張症合併大量咳血屬於 NIPPV 禁忌症。大量血性分泌物（viscous or copious secretions）使面罩密封困難、痰液清除受阻，且誤吸風險極高；強行使用 NIPPV 可能加重出血並導致窒息，應改用侵入性插管保護呼吸道。",
-        "B": "錯誤。上消化道出血合併休克同時具備兩項 NIPPV 禁忌：（1）血行動力學不穩（hemodynamic instability）——休克病人循環衰竭，NIPPV 無法解決灌流問題；（2）嘔血導致誤吸高風險（high risk of aspiration）——正壓通氣可能將胃內容物壓入呼吸道。此類患者若有呼吸衰竭指徵應優先侵入性插管並保護呼吸道。GI 出血復甦原則亦強調：大量嘔血且意識遲鈍者需氣管內插管（Washington Manual §18, p.624）。",
+        "A": "錯誤。支氣管擴張症合併大量咳血屬於 NIPPV 禁忌症。大量黏稠血性分泌物使面罩密封困難、痰液清除受阻，且誤吸風險極高；強行使用 NIPPV 可能加重出血並導致窒息，應改用侵入性插管保護呼吸道。",
+        "B": "錯誤。上消化道出血合併休克同時具備兩項 NIPPV 禁忌：（1）血行動力學不穩——休克病人循環衰竭，NIPPV 無法解決灌流問題；（2）嘔血導致誤吸高風險——正壓通氣可能將胃內容物壓入呼吸道。此類患者若有呼吸衰竭指徵應優先侵入性插管並保護呼吸道。GI 出血復甦原則亦強調：大量嘔血且意識遲鈍者需氣管內插管（Washington Manual §18, p.624）。",
         "C": "錯誤。嚴重顱面外傷術後是 NIPPV 的明確禁忌症。Washington Manual Table 9-8（引用 GOLD 2021）直接將 Craniofacial trauma 列為禁忌，因顏面骨折/手術傷口使面罩無法形成有效密封，且氣道結構破壞增加誤吸與通氣失效風險。",
-        "D": "正確。COPD 急性惡化且意識清楚是 NIPPV 最具證據支持的適應症。Washington Manual 明確指出「NIV should be considered the first mode of ventilator support」於 COPD 急性惡化，可降低插管率、改善呼吸性酸中毒、縮短住院天數。意識清楚代表病人能配合、可保護呼吸道、無禁忌，符合 NIV 使用條件。"
+        "D": "正確。COPD 急性惡化且意識清楚是 NIPPV 最具證據支持的適應症。Washington Manual 明確指出，在 COPD 急性惡化時 NIV 應視為第一線的呼吸器支持模式，可降低插管率、改善呼吸性酸中毒、縮短住院天數。意識清楚代表病人能配合、可保護呼吸道、無禁忌，符合 NIV 使用條件。"
       },
       "references": [
         {
@@ -8191,7 +8191,7 @@
     },
     "111-inad_im-GI-4": {
       "quick": "Celecoxib 屬選擇性 COX-2 抑制劑，對胃黏膜保護性優於非選擇性 NSAIDs，可減少胃腸道出血副作用，故答案為 B。",
-      "background": "NSAIDs 透過抑制 cyclooxygenase（COX）來減少 prostaglandin 合成而發揮止痛與抗發炎效果。COX 分兩型：COX-1 為構成性表現（constitutively expressed），主責維持胃黏膜保護性 prostaglandin 及血小板凝集；COX-2 則在炎症狀態下被誘發（induced in the inflammatory state），主要介導疼痛與發炎反應。傳統（非選擇性）NSAIDs 同時抑制 COX-1 與 COX-2，因而在止痛同時也破壞胃黏膜保護機制，導致潰瘍與消化道出血風險增加。選擇性 COX-2 抑制劑（如 celecoxib）主要抑制 COX-2，對 COX-1 影響較小，故胃黏膜刺激較少、GI 出血風險較低。然而，COX-2 抑制劑會增加心血管事件風險（含心肌梗塞、中風、心衰竭），此為 NSAIDs（排除 aspirin）的 class effect。在癌症疼痛的 WHO 三步止痛階梯中，NSAIDs 屬第一階（輕度疼痛）；嚴重疼痛須用強效 opioids（如 morphine），NSAIDs 具 ceiling effect，無法取代強效 opioids。",
+      "background": "NSAIDs 透過抑制 cyclooxygenase（COX）來減少 prostaglandin 合成而發揮止痛與抗發炎效果。COX 分兩型：COX-1 為構成性表現（constitutively expressed），主責維持胃黏膜保護性 prostaglandin 及血小板凝集；COX-2 則在炎症狀態下被誘發，主要介導疼痛與發炎反應。傳統（非選擇性）NSAIDs 同時抑制 COX-1 與 COX-2，因而在止痛同時也破壞胃黏膜保護機制，導致潰瘍與消化道出血風險增加。選擇性 COX-2 抑制劑（如 celecoxib）主要抑制 COX-2，對 COX-1 影響較小，故胃黏膜刺激較少、GI 出血風險較低。然而，COX-2 抑制劑會增加心血管事件風險（含心肌梗塞、中風、心衰竭），此為 NSAIDs（排除 aspirin）的 class effect。在癌症疼痛的 WHO 三步止痛階梯中，NSAIDs 屬第一階（輕度疼痛）；嚴重疼痛須用強效 opioids（如 morphine），NSAIDs 具 ceiling effect，無法取代強效 opioids。",
       "options": {
         "A": "錯誤。傳統 NSAIDs 為非選擇性 COX 抑制劑，同時抑制 COX-1 與 COX-2，並非「主要抑制 COX-1」。COX-1 是構成性表現（constitutively expressed）、負責胃黏膜保護；COX-2 才是炎症狀態下被誘發的酵素，介導疼痛。傳統 NSAIDs 的止痛效果主要來自 COX-2 抑制，而其胃腸道副作用來自 COX-1 的同時受抑。",
         "B": "正確。Celecoxib 為選擇性 COX-2 抑制劑，對胃黏膜的保護性較傳統 NSAIDs 好，臨床上考慮以其替換非選擇性 NSAIDs 可降低 PUD 及上消化道出血（UGIB）風險（但需注意心血管風險，故宜於低心血管風險、未使用 ASA 的病人）。",
@@ -8363,12 +8363,12 @@
     },
     "111-inad_im-GI-47": {
       "quick": "King's College Criteria (KCC) 是用於急性肝衰竭（Acute Liver Failure, ALF）的肝移植評估工具，不是酒精性肝炎的風險分層或治療反應評估工具；Maddrey's DF、GAHS、Lille model 三者才是專門用於酒精性肝炎的評分系統。",
-      "background": "酒精性肝炎（Alcohol-associated Hepatitis）嚴重度評估有多個專用評分工具，Washington Manual 明確指出：「A number of classification systems have been developed to risk-stratify patients with alcoholic hepatitis and assess response to treatment」，所列工具為 Maddrey's discriminant function (DF)、Glasgow Alcoholic Hepatitis Score (GAHS) 與 Lille model。Maddrey's DF = 4.6 × (PT patient − PT control) + serum bilirubin，分數 ≥32 提示嚴重，1 個月死亡率 30–50%，用於決定是否給予類固醇。GAHS 納入年齡、白血球、血尿素、PT/INR、膽紅素等五項，分數 >9 者方有類固醇短期存活效益（1 個月存活率 78% vs 52%）。Lille model 納入治療第 7 天膽紅素變化，分數 ≥0.45 預測對類固醇無反應、6 個月存活率僅 25%，是評估「治療反應」最直接的工具。反觀 King's College Criteria（KCC）是用於「急性肝衰竭（ALF）」的肝移植候選評估，尤其針對乙醯胺酚（acetaminophen）引起的 ALF，評估指標包含動脈 pH <7.30 或三聯（Grade III/IV 腦病變 + INR >6.5 + Cr >3.4）；KCC 的適應對象是 ALF，與酒精性肝炎的風險分層及治療反應監測「在功能上不重疊」，因此本題答案為 C。",
+      "background": "酒精性肝炎（Alcohol-associated Hepatitis）嚴重度評估有多個專用評分工具，Washington Manual 明確指出，已發展出多套分類系統，用於對酒精性肝炎病人進行風險分層並評估治療反應，所列工具為 Maddrey's discriminant function (DF)、Glasgow Alcoholic Hepatitis Score (GAHS) 與 Lille model。Maddrey's DF = 4.6 × (PT patient − PT control) + serum bilirubin，分數 ≥32 提示嚴重，1 個月死亡率 30–50%，用於決定是否給予類固醇。GAHS 納入年齡、白血球、血尿素、PT/INR、膽紅素等五項，分數 >9 者方有類固醇短期存活效益（1 個月存活率 78% vs 52%）。Lille model 納入治療第 7 天膽紅素變化，分數 ≥0.45 預測對類固醇無反應、6 個月存活率僅 25%，是評估「治療反應」最直接的工具。反觀 King's College Criteria（KCC）是用於「急性肝衰竭（ALF）」的肝移植候選評估，尤其針對乙醯胺酚（acetaminophen）引起的 ALF，評估指標包含動脈 pH <7.30，或三聯指標（Grade III/IV 腦病變 + INR >6.5 + Cr >3.4）；KCC 的適應對象是 ALF，與酒精性肝炎的風險分層及治療反應監測「在功能上不重疊」，因此本題答案為 C。",
       "options": {
-        "A": "錯誤選項（Maddrey's discriminant function 是酒精性肝炎的標準評分工具）。Maddrey's DF ≥32 代表嚴重酒精性肝炎，1 個月死亡率 30–50%，Washington Manual 明列其為用於「risk-stratify patients with alcoholic hepatitis and assess response to treatment」的工具之一；Pocket Medicine 亦記載 MDF ≥32 時應考慮類固醇治療。Maddrey's DF 符合題目所述「專門用於酒精性肝炎風險分層與治療反應評估」，非本題答案。",
+        "A": "錯誤選項（Maddrey's discriminant function 是酒精性肝炎的標準評分工具）。Maddrey's DF ≥32 代表嚴重酒精性肝炎，1 個月死亡率 30–50%，Washington Manual 明列其為用於對酒精性肝炎病人進行風險分層並評估治療反應的工具之一；Pocket Medicine 亦記載 MDF ≥32 時應考慮類固醇治療。Maddrey's DF 符合題目所述「專門用於酒精性肝炎風險分層與治療反應評估」，非本題答案。",
         "B": "錯誤選項（GAHS 是酒精性肝炎的標準評分工具）。Glasgow Alcoholic Hepatitis Score 納入年齡、白血球、血尿素、PT/INR、血清膽紅素，分數 >9 提示嚴重且能從類固醇治療中獲益（短期存活率明顯差異），Washington Manual 明列其為酒精性肝炎的風險分層與治療反應評估工具之一。GAHS 符合題目所述功能，非本題答案。",
-        "C": "正確選項（KCC 不是酒精性肝炎的評分工具）。King's College Criteria 是用於「急性肝衰竭（ALF）」的肝移植評估準則，Pocket Medicine p.225 明確記載：「King's College Criteria for Liver Transplantation consideration: Acetaminophen ALF: arterial pH <7.30 or Grade III/IV enceph + INR >6.5 + Cr >3.4」；Washington Manual p.700 亦記載 KCC 為 acetaminophen-induced ALF 的 poor prognostic indicators。KCC 的適應對象是 ALF（而非酒精性肝炎），在酒精性肝炎的 risk stratification 或 response to treatment 評估上並無角色，因此是本題「不是」題的正確答案。",
-        "D": "錯誤選項（Lille model 是酒精性肝炎的標準評分工具）。Lille model 納入年齡、腎功能、白蛋白、PT、膽紅素及第 0 天 vs. 第 7 天膽紅素差值，專門預測接受類固醇治療的嚴重酒精性肝炎病人之 6 個月死亡率，分數 ≥0.45 提示對類固醇無反應（6 個月存活率 25% vs 85%）；Washington Manual 明列其為酒精性肝炎的 risk stratification 與 treatment response 評估工具之一。Lille model 符合題目所述功能，非本題答案。"
+        "C": "正確選項（KCC 不是酒精性肝炎的評分工具）。King's College Criteria 是用於「急性肝衰竭（ALF）」的肝移植評估準則，Pocket Medicine p.225 明確記載，KCC 用於考慮肝移植時，乙醯胺酚引起的 ALF 採動脈 pH <7.30，或 Grade III/IV 腦病變 + INR >6.5 + Cr >3.4 為指標；Washington Manual p.700 亦記載 KCC 為 acetaminophen-induced ALF 的不良預後指標。KCC 的適應對象是 ALF（而非酒精性肝炎），在酒精性肝炎的風險分層或治療反應評估上並無角色，因此是本題「不是」題的正確答案。",
+        "D": "錯誤選項（Lille model 是酒精性肝炎的標準評分工具）。Lille model 納入年齡、腎功能、白蛋白、PT、膽紅素及第 0 天 vs. 第 7 天膽紅素差值，專門預測接受類固醇治療的嚴重酒精性肝炎病人之 6 個月死亡率，分數 ≥0.45 提示對類固醇無反應（6 個月存活率 25% vs 85%）；Washington Manual 明列其為酒精性肝炎的風險分層與治療反應評估工具之一。Lille model 符合題目所述功能，非本題答案。"
       },
       "references": [
         {
@@ -8443,9 +8443,9 @@
       "quick": "選項 D 錯誤：Barrett 食道的癌變風險是食道「腺癌（adenocarcinoma）」，而非鱗狀細胞癌（SCC）。",
       "background": "胃食道逆流疾病（GERD）的典型食道症狀為 heartburn 與 regurgitation，也可呈現非典型胸痛；胸痛時在啟動腸胃道評估前，應先排除心臟來源。食道外症狀包括咳嗽、laryngitis、asthma 及牙齒侵蝕。診斷上，PPI 治療性試驗（PPI test）有助於臨床診斷，但陰性反應「不能」排除 GERD。長期 GERD 的重要併發症是 Barrett 食道（Barrett esophagus, BE）：正常鱗狀食道上皮轉變為特化性腸化生（specialized intestinal metaplasia），每年約帶 0.1–0.3%（Pocket）/ 0.5%（Washington）的「食道腺癌（esophageal adenocarcinoma）」進展風險——與鱗狀細胞癌（squamous cell carcinoma, SCC）完全無關。高風險病人（長期 GERD 症狀、≥50 歲、男性、白人）應考慮內視鏡篩檢；無 dysplasia 者每 3–5 年監測；若發現 dysplasia，以內視鏡根除治療（射頻消融）為優先，而非監測或手術。",
       "options": {
-        "A": "正確。GERD 典型症狀為 heartburn 與 acid regurgitation，也可表現為胸痛；Washington Manual 明確指出胸痛時在啟動 GI 評估前應先排除心臟來源（「it is important to exclude a cardiac source before initiating GI evaluation」）。",
+        "A": "正確。GERD 典型症狀為 heartburn 與 acid regurgitation，也可表現為胸痛；Washington Manual 明確指出胸痛時在啟動 GI 評估前應先排除心臟來源。",
         "B": "正確。食道外症狀（extraesophageal manifestations）包括 cough、laryngitis、asthma 及牙齒侵蝕，均有 textbook 依據。",
-        "C": "正確。PPI 試驗對 GERD 有診斷參考價值，但 Washington Manual 明確指出「a negative response does not exclude GERD」——即使無反應，也不能排除 GERD。",
+        "C": "正確。PPI 試驗對 GERD 有診斷參考價值，但 Washington Manual 明確指出，即使治療無反應，也不能排除 GERD。",
         "D": "錯誤（本題答案）。Barrett 食道是 GERD 的長期併發症，確實需要定期內視鏡監測，但其癌變風險是「食道腺癌（esophageal adenocarcinoma）」，而非選項所述的「鱗狀細胞癌（squamous cell carcinoma, SCC）」。SCC 與慢性菸酒、飲食等危險因子相關，並非 Barrett 食道的後續演變。此為本題的錯誤敘述。"
       },
       "references": [
@@ -8720,7 +8720,7 @@
           "display": "📚 Pocket 8e (2022) Ch.Antibiotics — Cephalosporins, p.611"
         }
       ],
-      "discordance": "Washington Manual（s023 Treatment of Infectious Diseases, p.507）在「腹腔感染治療」段落中提及「Avoid clindamycin, cefoxitin, and moxifloxacin due to increased resistance among B. fragilis」。此警語針對「已確立的腹腔感染治療」情境，因 B. fragilis 對 cefoxitin 耐藥率上升（部分中心）；然而，Washington Manual（s024 Antimicrobials, p.549）和 Sleisenger（p.434–435，引 IDSA/SIS 指引）均明確列 cefoxitin 為腹腔或婦科手術之「外科預防性抗生素」及輕中度社區型腹腔感染之合適單藥。本題問的是「術後最佳經濟效益的抗生素」，在台灣臨床情境與護理師甄審課綱下，cefoxitin 作為闌尾切除術圍術期抗生素之地位仍屬主流教學知識；官方標準答案為 B（cefoxitin），本解析以官方答案為準。",
+      "discordance": "Washington Manual（s023 Treatment of Infectious Diseases, p.507）在「腹腔感染治療」段落中提及：因 B. fragilis 耐藥率上升，應避免使用 clindamycin、cefoxitin 與 moxifloxacin。此警語針對「已確立的腹腔感染治療」情境，因 B. fragilis 對 cefoxitin 耐藥率上升（部分中心）；然而，Washington Manual（s024 Antimicrobials, p.549）和 Sleisenger（p.434–435，引 IDSA/SIS 指引）均明確列 cefoxitin 為腹腔或婦科手術之「外科預防性抗生素」及輕中度社區型腹腔感染之合適單藥。本題問的是「術後最佳經濟效益的抗生素」，在台灣臨床情境與護理師甄審課綱下，cefoxitin 作為闌尾切除術圍術期抗生素之地位仍屬主流教學知識；官方標準答案為 B（cefoxitin），本解析以官方答案為準。",
       "no_source": false
     },
     "111-inad_surgery-GI-4": {
@@ -8865,7 +8865,7 @@
       "quick": "克隆氏症的主要病因是遺傳易感性與環境因子（吸菸、黏膜屏障缺陷）導致 T 細胞調節失常；「腸道菌群失調為主要原因」（選項 B）錯誤。",
       "background": "克隆氏症（Crohn's disease, CD）是發炎性腸道疾病（IBD）的一型，特徵為沿整段 GI tract 任何位置出現全層（transmural）發炎，表現為跳躍性病灶（skip lesions），與潰瘍性結腸炎（UC）黏膜層、連續性發炎相對。\n\n病因（Pocket Medicine p.194）：遺傳易感性（高加索人/猶太人風險↑）+ 環境風險因子（吸菸↑ CD 風險、黏膜屏障缺陷）→ T 細胞調節失常（T cell dysregulation）→ 發炎。腸道菌群失調（gut dysbiosis）確實在 IBD 的免疫調節中扮演角色，但「主要原因」之說不符合 IBD 的多因子病生理框架；教科書明確列出的核心機制是 T 細胞調節失常，而非單純菌群失調。\n\n疾病分布（Pocket p.196）：迴結腸型（ileocolonic，~50%）最常見，其次小腸/迴腸炎（~25%）與結腸型（~25%）；「最常見的疾病部位」為末端迴腸（terminal ileum），因其同時參與迴腸炎及迴結腸型，累積比例最高。\n\n組織病理：全層發炎 + 非乾酪性肉芽腫（noncaseating granulomas，<25% 黏膜切片可見）；內視鏡可見鵝卵石樣外觀、深長裂溝（fissures）。",
       "options": {
-        "A": "正確。家族史（遺傳易感性）與吸菸等環境因素確實增加克隆氏症風險（Pocket p.194：「Genetic predisposition + environmental risk factors (smoking ↑ risk for CD)」）。",
+        "A": "正確。家族史（遺傳易感性）與吸菸等環境因素確實增加克隆氏症風險（Pocket p.194）。",
         "B": "錯誤（本題答案）。腸道菌群失調並非克隆氏症的「主要原因」。Pocket Medicine p.194 明載病生理核心為：遺傳易感性 + 環境風險因子 → T 細胞調節失常（T cell dysregulation）→ 發炎；腸道菌群失調雖被研究探討，但非教科書所列的決定性主要機制。",
         "C": "正確。Pocket p.196 列出分布：迴結腸型（~50%）+ 小腸/迴腸炎型（~25%）＝約 75% 患者有小腸侵犯，加上迴結腸型亦含大腸，大多數患者確實同時涉及小腸與大腸；末端迴腸（terminal ileum）因被迴腸炎型與迴結腸型共同包含，是最常見的單一受侵犯部位，此述正確。",
         "D": "正確。克隆氏症的腸道病變為跳躍性病變（skip lesions），不同於潰瘍性結腸炎的連續性（contiguous）黏膜發炎；此為 IBD 兩型的核心鑑別特徵之一（Pocket p.194）。"
@@ -8891,9 +8891,9 @@
       "quick": "膽胰分流術（BPD）的超額體重減輕率（70.1%）優於 Roux-en-Y 胃旁路術（RYGB，61.6%），選項 D 所稱「減肥效果比 RYGB 差」為錯誤陳述，故答案為 D。",
       "background": "病態肥胖的手術治療依機轉分為三類：（1）限制型（Restrictive）：調節胃束帶（LAGB）、袖狀胃切除術（SG）——縮小胃容量、延緩胃排空，不影響腸道吸收；（2）混合型（Restrictive-Malabsorptive）：Roux-en-Y 胃旁路術（RYGB）——兼具胃容量限制與十二指腸/近端空腸繞道；（3）強吸收不良型（Malabsorptive-dominant）：膽胰分流術（BPD/BPD+DS）——造成大範圍小腸繞道，吸收不良最嚴重。\n\n依體重減輕結果排序（超額體重減輕 %EWL）：BPD+DS（70.1%）> VBG（68.2%）> RYGB（61.6%）> LAGB（47.5%）。BPD 是所有術式中減重效果最佳、但吸收不良風險最高者，包括脂溶性維生素、鋅、鈣、鎂缺乏。RYGB 的減重效果優於純限制型手術，且因改變腸道荷爾蒙環境而有效緩解 GERD；主要缺乏風險為 B12 和鐵（十二指腸繞道所致）。袖狀胃切除術保留幽門功能，傾倒症候群（Dumping syndrome）發生率低；最常見的外科併發症為胃出口梗阻（incisura 處）及吻合口漏。",
       "options": {
-        "A": "正確。調節胃束帶（LAGB）屬純限制型，不切除或繞道腸段，代謝/營養缺乏風險最低（是所有術式中「least likely to cause nutritional problems」者）。LAGB 增加 GERD 的機制在於束帶阻力使食道及賁門壓力上升，已知可加重胃食道逆流，為其主要副作用之一。此陳述正確。",
+        "A": "正確。調節胃束帶（LAGB）屬純限制型，不切除或繞道腸段，代謝/營養缺乏風險最低（是所有術式中最不易造成營養問題者）。LAGB 增加 GERD 的機制在於束帶阻力使食道及賁門壓力上升，已知可加重胃食道逆流，為其主要副作用之一。此陳述正確。",
         "B": "正確。腹腔鏡袖狀胃切除術（LSG）技術相對簡單（無需腸道吻合），保留幽門，傾倒症候群（Dumping syndrome）風險極低（主要為 RYGB 的併發症）。然而 incisura 處的管腔狹窄確實存在胃出口梗阻風險，此陳述正確。（注意：LSG 術後 GERD 反而可能加重，與選項 A 的胃束帶同為 GERD 加重術式；此不影響本選項真偽。）",
-        "C": "正確。RYGB 與限制型手術相比體重減輕較多（RYGB 61.6% vs LAGB 47.5% EWL）。RYGB 是肥胖合併難治型 GERD 的建議術式（「RYGB is a suggested treatment for recalcitrant GERD in morbidly obese patients」）。由於繞道十二指腸及近端空腸，鐵和維生素 B12 的吸收位點被繞過，原發性鐵和 B12 缺乏是 RYGB 最常見的營養缺乏。此陳述正確。",
+        "C": "正確。RYGB 與限制型手術相比體重減輕較多（RYGB 61.6% vs LAGB 47.5% EWL）。RYGB 是病態肥胖合併難治型 GERD 的建議術式。由於繞道十二指腸及近端空腸，鐵和維生素 B12 的吸收位點被繞過，原發性鐵和 B12 缺乏是 RYGB 最常見的營養缺乏。此陳述正確。",
         "D": "錯誤（官方答案）。選項稱「BPD 的減肥效果與維持程度比 RYGB 差」，但文獻數據相反：BPD+DS 超額體重減輕率 70.1%，RYGB 為 61.6%，BPD 的減重效果優於 RYGB。BPD 確實有嚴重吸收不良，包括脂溶性維生素、鋅、鈣、鎂等缺乏（脂肪缺乏包含脂溶性維生素 A/D/E/K）；吸收不良導致脂肪相關缺乏的陳述為真，但「減肥效果比 RYGB 差」為錯誤。"
       },
       "references": [
@@ -8927,7 +8927,7 @@
       "options": {
         "A": "正確。出血（UGIB）是 PUD 最常見的併發症，亦是複雜性消化性潰瘍死亡的主要原因，文獻記載嚴重 UGI 出血死亡率長期維持在 5–10%，雖因現代 ICU 與內視鏡治療而有所下降，但出血仍居死因之首位。",
         "B": "正確。內視鏡下觀察到可見血管（NBVV/sentinel clot）再出血率約 50%，附著性血塊（adherent clot）再出血率約 33%，兩者均屬高風險徵象（Forrest IIa、IIb），需進行內視鏡止血治療。",
-        "C": "正確。十二指腸潰瘍出血通常來自球部後壁（posterior wall of the duodenal bulb），該處緊鄰胃十二指腸動脈（gastroduodenal artery），位置位於幽門近端約 2 公分範圍內。後壁潰瘍是再出血預後不良的獨立危險因子（OR 9.2）。",
+        "C": "正確。十二指腸潰瘍出血通常來自球部後壁，該處緊鄰胃十二指腸動脈（gastroduodenal artery），位置位於幽門近端約 2 公分範圍內。後壁潰瘍是再出血預後不良的獨立危險因子（OR 9.2）。",
         "D": "錯誤。複雜性消化性潰瘍手術（如穿孔修補術）後，若為 H. pylori 相關潰瘍，仍須積極根除 H. pylori。一項香港 RCT 顯示，99 名穿孔修補術後病患中，接受 Hp 根除者 1 年潰瘍復發率僅 4.8%，而僅接受 PPI 治療者高達 38.1%；5 項 RCT 的 meta-analysis 亦顯示根除後復發率 5.2% vs 未根除 35.2%。因此，術後「不需再治療 H. pylori」的敘述是錯誤的。"
       },
       "references": [
@@ -9085,10 +9085,10 @@
       "quick": "上腸系膜靜脈血栓（SMV thrombosis）的側枝循環侷限於腸繫膜內部，不會形成橫跨胸腹壁的表淺靜脈擴張，故答案為 D。",
       "background": "表淺軀幹靜脈曲張（superficial truncal venous collaterals）的形成機制取決於靜脈阻塞的位置：\n\n1. **上腔靜脈（SVC）阻塞**：上半身靜脈回流受阻，側枝由頭頸部向下引流，沿前胸壁及上腹壁形成肉眼可見的表淺靜脈擴張（由頭向足方向流動，「downhill」方向）。\n\n2. **慢性下腔靜脈（IVC）血栓**：下半身靜脈回流受阻，側枝經腰靜脈（lumbar veins）與奇靜脈系統（azygos system）向上引流，沿腹壁及胸壁皮下走行，形成明顯表淺靜脈擴張（由足向頭方向流動，「uphill」方向）。\n\n3. **肝靜脈阻塞性疾病（hepatic veno-occlusive disease, SOS）**：肝竇與肝小靜脈阻塞 → 肝靜脈壓力升高 → 門脈高壓（portal hypertension）→ 側枝包括臍周靜脈擴張（caput medusae 或 paraumbilical collaterals），可延伸至腹壁。\n\n4. **上腸系膜靜脈（SMV）血栓**：阻塞部位在腸繫膜靜脈系統，急性期側枝沿腸繫膜內部發展，呈腸繫膜內擴張靜脈（intra-mesenteric collaterals）；慢性期若延伸至門靜脈，可造成食道胃靜脈曲張（gastroesophageal varices）和脾門靜脈側枝，但不經過皮下組織到達胸腹壁表面。表淺軀幹皮下靜脈（胸腹壁靜脈 thoracoepigastric veins）不在 SMV 引流範圍，故 SMV 血栓最不可能形成橫跨胸腹壁的表淺靜脈擴張。",
       "options": {
-        "A": "（錯）慢性上腔靜脈症候群可形成橫跨胸腹壁的表淺靜脈曲張。SVC 阻塞使上半身靜脈回流受阻，側枝沿前胸壁向下走行，Harrison 明載「an increased number of collateral veins covering the anterior chest wall」為 SVC syndrome 的特徵理學發現，故選項 A 確實可有此徵象，不是「最不可能」。",
-        "B": "（錯）慢性下腔靜脈血栓可形成橫跨胸腹壁的表淺靜脈曲張。IVC 阻塞使下半身靜脈回流受阻，側枝經腰靜脈與奇靜脈皮下走行，Sleisenger 載明「When the IVC is obstructed, collaterals form from the lumbar and azygos veins. Such collaterals, coursing subcutaneously」，形成肉眼可見的腹壁至胸壁表淺靜脈擴張，故選項 B 確實可有此徵象。",
-        "C": "（錯）肝臟靜脈阻塞性疾病（SOS，即舊稱 hepatic veno-occlusive disease）造成門脈高壓，門脈高壓側枝包括臍周靜脈（paraumbilical veins）擴張，可沿腹壁延伸形成表淺靜脈擴張（caput medusae 型），Pocket Medicine 亦列「dilated venous collaterals」為 Budd-Chiari/肝靜脈流出阻塞的表現，故選項 C 可有此徵象。",
-        "D": "（正解）上腸系膜靜脈血栓最不可能出現橫跨胸腹壁的表淺靜脈擴張。SMV thrombosis 的側枝循環發生在腸繫膜內（intra-mesenteric），CT 影像所見為「dilated collateral vessels within a thickened mesentery」，而非皮下組織。慢性 SMV 血栓若延伸至門靜脈，可出現食道胃靜脈曲張與脾門側枝，但胸腹壁表淺皮下靜脈（thoracoepigastric 系統）不在 SMV 引流範圍，故不形成橫跨胸腹壁的表淺靜脈擴張。"
+        "A": "（錯）慢性上腔靜脈症候群可形成橫跨胸腹壁的表淺靜脈曲張。SVC 阻塞使上半身靜脈回流受阻，側枝沿前胸壁向下走行，Harrison 明載前胸壁覆蓋著數量增多的側枝靜脈，為 SVC syndrome 的特徵理學發現，故選項 A 確實可有此徵象，不是「最不可能」。",
+        "B": "（錯）慢性下腔靜脈血栓可形成橫跨胸腹壁的表淺靜脈曲張。IVC 阻塞使下半身靜脈回流受阻，側枝經腰靜脈與奇靜脈皮下走行，Sleisenger 載明當 IVC 阻塞時，側枝由腰靜脈（lumbar veins）與奇靜脈（azygos veins）形成，並於皮下走行，形成肉眼可見的腹壁至胸壁表淺靜脈擴張，故選項 B 確實可有此徵象。",
+        "C": "（錯）肝臟靜脈阻塞性疾病（SOS，即舊稱 hepatic veno-occlusive disease）造成門脈高壓，門脈高壓側枝包括臍周靜脈（paraumbilical veins）擴張，可沿腹壁延伸形成表淺靜脈擴張（caput medusae 型），Pocket Medicine 亦列擴張的靜脈側枝為 Budd-Chiari/肝靜脈流出阻塞的表現，故選項 C 可有此徵象。",
+        "D": "（正解）上腸系膜靜脈血栓最不可能出現橫跨胸腹壁的表淺靜脈擴張。SMV thrombosis 的側枝循環發生在腸繫膜內（intra-mesenteric），CT 影像所見為增厚腸繫膜內擴張的側枝血管，而非皮下組織。慢性 SMV 血栓若延伸至門靜脈，可出現食道胃靜脈曲張與脾門側枝，但胸腹壁表淺皮下靜脈（thoracoepigastric 系統）不在 SMV 引流範圍，故不形成橫跨胸腹壁的表淺靜脈擴張。"
       },
       "references": [
         {
@@ -9109,7 +9109,7 @@
     },
     "112-common-GI-56": {
       "quick": "腰側（側腹）瘀青稱為 Grey Turner sign，代表出血滲入後腹腔（retroperitoneal hemorrhage），而非腹腔內出血（intraperitoneal/hemoperitoneum），故答案為 B。",
-      "background": "Grey Turner sign 與 Cullen sign 是兩個須嚴格區分的身體診察發現：\n\n• **Grey Turner sign**：側腹（flank）出現藍紫色或青褐色瘀青，由後腹腔（retroperitoneal space）出血滲出後在皮下顯色所致，最常見於嚴重壞死性胰臟炎（acute necrotizing pancreatitis with hemorrhage）；主動脈瘤破裂等後腹腔出血亦可出現。兩者皆罕見（佔急性胰臟炎 <1%），出現時代表病情嚴重、預後較差。\n\n• **Cullen sign**：臍周（periumbilical）出現藍色/瘀青，代表血液滲入腹腔（hemoperitoneum）後沿腹壁筋膜到達臍周。\n\n本題病人有高血壓、慢性 B 型肝炎、抽菸喝酒史，早上突發左上腹劇痛合併噁心冒冷汗，且出現「左邊腰側瘀青」，符合 Grey Turner sign 之呈現，臨床上須高度懷疑急性胰臟炎（含壞死出血性）或後腹腔其他出血（如主動脈瘤破裂）。\n\n**轉移性濁音（shifting dullness）** 代表腹腔內有足量游離液體（腹水/腹腔積血），是腹膜腔內（intraperitoneal）的發現；後腹腔出血為固定空間出血，不產生轉移性濁音。",
+      "background": "Grey Turner sign 與 Cullen sign 是兩個須嚴格區分的身體診察發現：\n\n• **Grey Turner sign**：側腹（flank）出現藍紫色或青褐色瘀青，由後腹腔（retroperitoneal space）出血滲出後在皮下顯色所致，最常見於急性壞死出血性胰臟炎；主動脈瘤破裂等後腹腔出血亦可出現。兩者皆罕見（佔急性胰臟炎 <1%），出現時代表病情嚴重、預後較差。\n\n• **Cullen sign**：臍周（periumbilical）出現藍色/瘀青，代表血液滲入腹腔（hemoperitoneum）後沿腹壁筋膜到達臍周。\n\n本題病人有高血壓、慢性 B 型肝炎、抽菸喝酒史，早上突發左上腹劇痛合併噁心冒冷汗，且出現「左邊腰側瘀青」，符合 Grey Turner sign 之呈現，臨床上須高度懷疑急性胰臟炎（含壞死出血性）或後腹腔其他出血（如主動脈瘤破裂）。\n\n**轉移性濁音（shifting dullness）** 代表腹腔內有足量游離液體（腹水/腹腔積血），是腹膜腔內（intraperitoneal）的發現；後腹腔出血為固定空間出血，不產生轉移性濁音。",
       "options": {
         "A": "錯誤。Cullen sign 才是臍周（periumbilical）瘀青，代表腹腔內出血（hemoperitoneum）滲至臍周。Grey Turner sign（腰側瘀青）與 Cullen sign 須明確區分，兩者部位與出血來源（後腹腔 vs. 腹腔內）皆不同。",
         "B": "正確。Grey Turner sign（側腹/腰側瘀青）代表後腹腔出血（retroperitoneal hemorrhage）滲出後顯色於側腹皮下，最常見於急性壞死出血性胰臟炎，偶見於主動脈瘤破裂等後腹腔出血性病變。",
@@ -9139,8 +9139,8 @@
       "options": {
         "A": "正確。闌尾炎最可能，但鑑別診斷應涵蓋大腸憩室炎（diverticulitis）與子宮外孕（ectopic pregnancy）。Harrison 明確指出對育齡女性須透過骨盆腔檢查及驗孕排除 PID、子宮外孕等，Sleisenger 亦將此列為鑑別診斷。本選項敘述正確。",
         "B": "錯誤（本題答案）。Rovsing sign 的正確定義：觸診**左**下腹部時，右下腹部產生疼痛（RLQ pain），即為陽性。選項 B 誤稱「左下腹部有疼痛感則為陽性」，實際上陽性是右下腹疼痛，而非左下腹疼痛。",
-        "C": "正確。Psoas sign（iliopsoas sign）陽性表示發炎的闌尾位於後腹腔（retroperitoneal/retrocecal），即盲腸後方（behind the cecum）。Harrison Table 342-4 記載：「Iliopsoas sign: Extending the right hip causes pain along posterolateral back and hip, suggesting retrocecal appendicitis」。Sleisenger 亦描述此徵象源於炎症刺激其下方的腰肌（psoas muscle）。",
-        "D": "正確。McBurney point 位於肚臍（umbilicus）與右髂前上棘（right ASIS）連線，由 ASIS 起算三分之一處，即相對 ASIS 端的外側三分之一。Harrison 敘述：「approximately one-third of the way along a line originating at the anterior iliac spine and running to the umbilicus」。Sleisenger 原始描述：「one half to 2 inches inside the right anterior spinous process of the ilium on a line drawn from the umbilicus」，二者均指連線的外側（靠 ASIS）三分之一。本選項敘述正確。"
+        "C": "正確。Psoas sign（iliopsoas sign）陽性表示發炎的闌尾位於後腹腔（retroperitoneal/retrocecal），即盲腸後方（behind the cecum）。Harrison Table 342-4 記載：伸展右側髖關節會引發後外側背部與髖部疼痛，提示盲腸後位（retrocecal）闌尾炎。Sleisenger 亦描述此徵象源於炎症刺激其下方的腰肌（psoas muscle）。",
+        "D": "正確。McBurney point 位於肚臍（umbilicus）與右髂前上棘（right ASIS）連線，由 ASIS 起算三分之一處，即相對 ASIS 端的外側三分之一。Harrison 敘述：此點約位於自髂前上棘至臍之連線的三分之一處。Sleisenger 原始描述：位於自臍畫向右髂前上棘的連線上、距該棘約半英吋至 2 英吋內側處，二者均指連線的外側（靠 ASIS）三分之一。本選項敘述正確。"
       },
       "references": [
         {
@@ -9225,7 +9225,7 @@
     },
     "112-inad_im-GI-41": {
       "quick": "站姿腹部 X 光見橫膈下游離氣體（pneumoperitoneum）是消化性潰瘍穿孔的病理性徵象，結合腹壁僵硬、腹膜刺激三聯徵，確診為消化性潰瘍合併穿孔（答案 B）。",
-      "background": "消化性潰瘍穿孔（peptic ulcer perforation）為急腹症，臨床三聯徵為：（1）腹膜炎徵象—腹壁僵硬（board-like rigidity）、反彈痛、不自主肌衛（involuntary guarding），病人常雙膝屈起以減輕腹膜刺激；（2）持續性劇烈腹痛；（3）站姿腹部 X 光出現橫膈下游離氣體（free air under the diaphragm），此為穿孔後腸道氣體進入腹腔的直接影像證據，具診斷性。本題病人患淋巴瘤同時接受類固醇（corticosteroid）治療，再加上 NSAID 止痛，這兩者「合用」是已知的 PUD 高危組合（類固醇單獨使用並非獨立風險因子，但與 NSAID 合用則大幅提高黏膜損傷風險）；淋巴瘤本身亦列於 PUD 病因中。穿孔少見但危及生命，通常須緊急外科手術；即使無先前 PUD 病史，穿孔亦可突然發生。CT 掃描通常具確診性。",
+      "background": "消化性潰瘍穿孔（peptic ulcer perforation）為急腹症，臨床三聯徵為：（1）腹膜炎徵象—腹壁僵硬（board-like rigidity）、反彈痛、不自主肌衛（involuntary guarding），病人常雙膝屈起以減輕腹膜刺激；（2）持續性劇烈腹痛；（3）站姿腹部 X 光出現橫膈下游離氣體，此為穿孔後腸道氣體進入腹腔的直接影像證據，具診斷性。本題病人患淋巴瘤同時接受類固醇（corticosteroid）治療，再加上 NSAID 止痛，這兩者「合用」是已知的 PUD 高危組合（類固醇單獨使用並非獨立風險因子，但與 NSAID 合用則大幅提高黏膜損傷風險）；淋巴瘤本身亦列於 PUD 病因中。穿孔少見但危及生命，通常須緊急外科手術；即使無先前 PUD 病史，穿孔亦可突然發生。CT 掃描通常具確診性。",
       "options": {
         "A": "錯。上消化道出血（UGIB）的典型表現為嘔血、黑便或血便及血液動力學不穩；腹部 X 光不會見到橫膈下游離氣體，亦不會引起腹壁僵硬等腹膜炎徵象，故不符。",
         "B": "正確。本題具備消化性潰瘍穿孔的完整診斷三聯徵：腹膜炎徵象（腹壁僵硬、壓痛、病人雙膝屈起減輕腹膜刺激、翻身加劇腹痛）、持續性上腹痛（NSAID 未緩解），以及站姿 X 光見橫膈下游離氣體（pneumoperitoneum）。患者同時使用類固醇＋NSAID 是已知高危組合，淋巴瘤亦為 PUD risk factor，高度支持此診斷。",
@@ -9415,7 +9415,7 @@
     },
     "112-inad_im-GI-48": {
       "quick": "Bilirubin 2.8（2分）、Albumin 3.0（2分）、INR 1.6（1分）、腹脹推定腹水可控制（2分）、無腦病（1分）共 8 分，落在 Child-Pugh class B（7–9 分）。",
-      "background": "Child-Pugh（Modified Child-Turcotte-Pugh，CPS）評分系統用五項指標評估肝硬化嚴重度：臨床項目為腹水（none=1, easily controlled=2, poorly controlled=3）與肝性腦病（none=1, Grade 1–2=2, Grade 3–4=3）；實驗室項目為 Bilirubin mg/dL（<2=1, 2–3=2, >3=3）、Albumin g/dL（>3.5=1, 2.8–3.5=2, <2.8=3）、INR（<1.7=1, 1.8–2.3=2, >2.3=3）。總分 5–6 = Class A（1 年存活 100%）；7–9 = Class B（80%）；10–15 = Class C（45%）。本題病人：Bilirubin 2.8 mg/dL 落在 2–3 區間得 2 分；Albumin 3.0 g/dL 落在 2.8–3.5 區間得 2 分；INR 1.6 < 1.7 得 1 分；腹脹代表腹水存在，題幹未言難以控制，按 easily controlled 計 2 分；題幹未提及腦病，計 1 分（none）。合計 8 分，歸 Class B。Child-Pugh 分級是肝硬化預後評估與外科手術風險分層的重要工具，與 MELD-Na 並用。",
+      "background": "Child-Pugh（Modified Child-Turcotte-Pugh，CPS）評分系統用五項指標評估肝硬化嚴重度：臨床項目為腹水（無=1分、易控制=2分、難控制=3分）與肝性腦病（無=1分、Grade 1–2=2分、Grade 3–4=3分）；實驗室項目為 Bilirubin mg/dL（<2=1, 2–3=2, >3=3）、Albumin g/dL（>3.5=1, 2.8–3.5=2, <2.8=3）、INR（<1.7=1, 1.8–2.3=2, >2.3=3）。總分 5–6 = Class A（1 年存活 100%）；7–9 = Class B（80%）；10–15 = Class C（45%）。本題病人：Bilirubin 2.8 mg/dL 落在 2–3 區間得 2 分；Albumin 3.0 g/dL 落在 2.8–3.5 區間得 2 分；INR 1.6 < 1.7 得 1 分；腹脹代表腹水存在，題幹未言難以控制，按 easily controlled 計 2 分；題幹未提及腦病，計 1 分（none）。合計 8 分，歸 Class B。Child-Pugh 分級是肝硬化預後評估與外科手術風險分層的重要工具，與 MELD-Na 並用。",
       "options": {
         "A": "錯。Class A 需總分 5–6 分。本題三項實驗值加腹水已得 7 分（INR 1分 + Bili 2分 + Alb 2分 + 腹水 2分），未達 class A 標準。",
         "B": "正確。總分 8 分（Bili 2 + Alb 2 + INR 1 + 腹水 2 + 腦病 0→1 = 8），落在 Class B（7–9 分）區間，1 年存活率約 80%。",
@@ -9461,10 +9461,10 @@
       "quick": "ALP 主要反映膽汁鬱積（cholestatic）病變，而非肝細胞損傷；能反映肝細胞損傷的是 AST（和 ALT），因此選項 C「AST 及 ALP 都能反映肝細胞損傷」為錯誤敘述。",
       "background": "肝功能檢驗（LFTs）可依作用機制分成兩大類：(1) 肝細胞損傷指標——以 ALT、AST 為代表，兩者在肝細胞壞死或滲漏時顯著升高；(2) 膽汁鬱積指標——以 ALP、GGT（GGTP）及總膽紅素為代表，在膽管阻塞或膽汁流出受阻時明顯升高。ALP 的主要臨床意義在於識別膽汁鬱積性疾病（biliary obstruction、PBC、PSC 等），與 AST/ALT 的升高不等比例是區分肝細胞型（hepatocellular）和膽汁鬱積型（cholestatic）肝病的關鍵。GGT 在酒精性肝炎中升高，原因是酒精可誘導 GGT 合成（並非 GGT 等同於肝細胞損傷指標）。PT/INR 由肝臟合成的凝血因子（II、V、VII、X）決定，在急性肝衰竭時因肝臟合成功能下降而延長（PT 值越大 = 越長 = 肝功能越差）。膽管結石（choledocholithiasis）造成膽道阻塞，導致膽汁排出受阻，conjugated bilirubin 逆流入血，使 total bilirubin 升高。",
       "options": {
-        "A": "正確。GGT（GGTP）在酒精性肝炎病人中確實常常升高。Sleisenger（肝功能檢驗章節）明確指出「Serum GGTP levels are also elevated in patients who drink alcohol」，並說明 GGT 對酒精使用的敏感度為 52%–94%。此選項敘述正確，不是答案。",
+        "A": "正確。GGT（GGTP）在酒精性肝炎病人中確實常常升高。Sleisenger（肝功能檢驗章節）明確指出，飲酒者血清 GGTP 濃度亦會升高，並說明 GGT 對酒精使用的敏感度為 52%–94%。此選項敘述正確，不是答案。",
         "B": "正確。有膽管結石時，膽道阻塞導致膽汁鬱積，conjugated bilirubin 無法排入腸道，逆流入血，使 total bilirubin 升高。Washington Manual 指出 ALP 及 bilirubin 常見於 biliary obstruction；Harrison 章節亦將 choledocholithiasis 列為最常見的肝外膽汁鬱積原因，伴隨 bilirubin 升高。此選項敘述正確，不是答案。",
-        "C": "錯誤（正確答案）。AST 升高確實反映肝細胞損傷；但 ALP 主要反映膽汁鬱積（cholestatic）病變，而非肝細胞損傷。Washington Manual 明確區分：「Elevations primarily in AST and ALT suggest hepatocellular injury」，而「ALP is often elevated in biliary obstruction...and conditions causing intrahepatic cholestasis」。Sleisenger 肝功能章節亦強調：ALP 升高的主要臨床意義在於「recognition of a cholestatic disorder」，即阻塞或膽汁鬱積，而非肝炎或肝細胞損傷。Harrison 章節亦指出：肝細胞型病變表現為 aminotransferase（AST/ALT）升高超過 ALP；膽汁鬱積型病變則相反。因此，將 ALP 與 AST 並列為「反映肝細胞損傷的肝炎指標」是錯誤的。",
-        "D": "正確。PT（prothrombin time）由肝臟合成的凝血因子決定；在肝臟衰竭時，凝血因子合成功能下降，PT 延長（值越高）。Sleisenger 指出 PT 在急性肝衰竭（acetaminophen 及非 acetaminophen 相關）中具有預後價值。Harrison 亦說明：「An elevated prothrombin time indicates...significant hepatocellular dysfunction」，且「The failure of the prothrombin time to correct with parenteral administration of vitamin K indicates severe hepatocellular injury」。換言之，PT 越高（越延長）= 肝臟合成功能越差。此選項敘述正確，不是答案。"
+        "C": "錯誤（正確答案）。AST 升高確實反映肝細胞損傷；但 ALP 主要反映膽汁鬱積（cholestatic）病變，而非肝細胞損傷。Washington Manual 明確區分：以 AST 與 ALT 為主的升高提示肝細胞損傷，而 ALP 常見於膽道阻塞及造成肝內膽汁鬱積的疾病。Sleisenger 肝功能章節亦強調：ALP 升高的主要臨床意義在於辨識膽汁鬱積性疾病，即阻塞或膽汁鬱積，而非肝炎或肝細胞損傷。Harrison 章節亦指出：肝細胞型病變表現為 aminotransferase（AST/ALT）升高超過 ALP；膽汁鬱積型病變則相反。因此，將 ALP 與 AST 並列為「反映肝細胞損傷的肝炎指標」是錯誤的。",
+        "D": "正確。PT（prothrombin time）由肝臟合成的凝血因子決定；在肝臟衰竭時，凝血因子合成功能下降，PT 延長（值越高）。Sleisenger 指出 PT 在急性肝衰竭（acetaminophen 及非 acetaminophen 相關）中具有預後價值。Harrison 亦說明：PT 延長代表顯著的肝細胞功能障礙；而給予非經腸道（parenteral）vitamin K 後 PT 仍無法矯正，則表示嚴重的肝細胞損傷。換言之，PT 越高（越延長）= 肝臟合成功能越差。此選項敘述正確，不是答案。"
       },
       "references": [
         {
@@ -9499,9 +9499,9 @@
       "quick": "懷疑顱底骨折時，鼻胃管插入是禁忌，因胃管可能經骨折部位（篩板）進入顱腔造成顱內置管，故選項B「一直嘔吐應插鼻胃管做引流」是錯誤的。",
       "background": "本題病人有「熊貓眼」（眶周瘀血，raccoon eyes）及粉紅色液體（含血 CSF）從鼻孔與耳道流出，此三者（periorbital ecchymosis、CSF otorrhea/rhinorrhea）加上Battle's sign，均為顱底骨折（basilar skull fracture）的典型臨床徵象。顱底骨折最常見損傷部位包括前顱窩底之篩板（cribriform plate）及中顱窩底；當篩板骨折時，鼻胃管插入可能沿著骨折缺口直接進入顱腔，造成顱內置管（intracranial NGT misplacement）並導致嚴重腦損傷。因此，對懷疑顱底骨折的病人，鼻胃管為相對禁忌，臨床上應改以口胃管（orogastric tube）代替，或以其他方式處理嘔吐（姿勢、止吐藥）。此外，病人 GCS 為 E1V2M4 = 7分，屬嚴重頭部外傷（GCS ≤8 定義），意識嚴重受損，需立即插管（endotracheal intubation）保護呼吸道；頭部電腦斷層（CT）是評估外傷性顱內出血的首選，對於 GCS <15 或懷疑顱骨骨折的病人均有適應症。嘔吐在頭部外傷後常見，本身不是立刻置放鼻胃管的適應症，何況還有顱底骨折的禁忌。",
       "options": {
-        "A": "正確。病人有熊貓眼（raccoon eyes）及含血 CSF 從鼻孔耳道流出，正是顱底骨折的典型表現，診斷合理。Washington Manual 明載：「periorbital ecchymosis (raccoon eyes), and CSF otorrhea/rhinorrhea are indicative of a basilar skull fracture」（p.985）。",
-        "B": "錯誤（本題答案）。此題要求選「錯誤」敘述。顱底骨折（疑有篩板骨折）時，鼻胃管插入有進入顱腔的風險；Washington Manual 明確記載：「Intracranial placement can occur in patients with skull fractures」（p.46）。嘔吐並非立刻插鼻胃管的理由，更不得在懷疑顱底骨折時使用鼻胃管；若需胃腸減壓，應改置口胃管。",
-        "C": "正確。GCS E1V2M4 = 7分，屬重度頭部外傷（severe TBI，GCS ≤8）；意識極度低下、保護性反射消失，需立即插管（endotracheal intubation）以維持呼吸道暢通並防止誤吸。Washington Manual 指出：「Endotracheal intubation is usually performed to enable hyperventilation」在顱壓升高的頭部外傷處置中（p.958）。",
+        "A": "正確。病人有熊貓眼（raccoon eyes）及含血 CSF 從鼻孔耳道流出，正是顱底骨折的典型表現，診斷合理。Washington Manual 明載：眶周瘀血（raccoon eyes）及 CSF otorrhea/rhinorrhea 是顱底骨折（basilar skull fracture）的指標性徵象（p.985）。",
+        "B": "錯誤（本題答案）。此題要求選「錯誤」敘述。顱底骨折（疑有篩板骨折）時，鼻胃管插入有進入顱腔的風險；Washington Manual 明確記載：顱骨骨折病人可能發生管路顱內置入（p.46）。嘔吐並非立刻插鼻胃管的理由，更不得在懷疑顱底骨折時使用鼻胃管；若需胃腸減壓，應改置口胃管。",
+        "C": "正確。GCS E1V2M4 = 7分，屬重度頭部外傷（severe TBI，GCS ≤8）；意識極度低下、保護性反射消失，需立即插管（endotracheal intubation）以維持呼吸道暢通並防止誤吸。Washington Manual 指出：在顱壓升高的頭部外傷處置中，通常會施行氣管內插管（endotracheal intubation）以便進行過度換氣（hyperventilation）（p.958）。",
         "D": "正確。Washington Manual 指出：頭部外傷後 GCS <15、懷疑顱骨骨折、反覆嘔吐等均為頭部 CT 的適應症（p.985-986）。本題病人已有顱底骨折徵象，若血壓穩定且呼吸道已保護，安排頭部 CT 是合理且必要的，無誤。"
       },
       "references": [
@@ -9635,11 +9635,11 @@
     },
     "112-inad_surgery-GI-45": {
       "quick": "肝臟腺瘤（hepatic adenoma）出血頻率高，使用類固醇（anabolic androgenic steroid）的男性及孕婦發生破裂的風險尤高，故選 C。",
-      "background": "肝臟腺瘤（hepatocellular adenoma, HCA）是好發於 35–40 歲女性的良性肝細胞腫瘤，女男比約 10:1。主要危險因子為女性長期使用口服避孕藥（oral contraceptive pills, OCP）（年發生率 30–40 per million，非使用者僅 1–1.3 per million），以及男性使用合成代謝類固醇（anabolic androgenic steroids）。病理特徵：腫瘤由外觀接近正常的肝細胞板或索排列而成，無真正被膜（僅假性被膜 pseudocapsule），膽管（bile ducts）明顯缺失。出血與壞死灶常見（foci of hemorrhage or necrosis are frequent）。最危急的表現為腺瘤破裂引發血腹（hemoperitoneum），破裂風險與腫瘤直徑 >5 cm、表淺位置有關；與 OCP 使用及懷孕相關。惡性轉化率約 4.4%，主要見於 >5 cm 的腺瘤及具 β-catenin 活化突變者，並非普遍高危。治療建議：停止外源性雌激素、若 >5 cm 或有症狀則手術切除；出血時先行動脈栓塞再考慮切除。",
+      "background": "肝臟腺瘤（hepatocellular adenoma, HCA）是好發於 35–40 歲女性的良性肝細胞腫瘤，女男比約 10:1。主要危險因子為女性長期使用口服避孕藥（oral contraceptive pills, OCP）（年發生率 30–40 per million，非使用者僅 1–1.3 per million），以及男性使用合成代謝類固醇（anabolic androgenic steroids）。病理特徵：腫瘤由外觀接近正常的肝細胞板或索排列而成，無真正被膜（僅假性被膜 pseudocapsule），膽管（bile ducts）明顯缺失。出血與壞死灶常見。最危急的表現為腺瘤破裂引發血腹（hemoperitoneum），破裂風險與腫瘤直徑 >5 cm、表淺位置有關；與 OCP 使用及懷孕相關。惡性轉化率約 4.4%，主要見於 >5 cm 的腺瘤及具 β-catenin 活化突變者，並非普遍高危。治療建議：停止外源性雌激素、若 >5 cm 或有症狀則手術切除；出血時先行動脈栓塞再考慮切除。",
       "options": {
-        "A": "錯誤。「通常是單個、圓形、界限明確」大體上符合（Most tumors are solitary），但「具包膜」不正確：腺瘤只有因周圍肝組織受壓形成的假性被膜（pseudocapsule），並無真正被膜（does not have a true capsule）。此外，與腺瘤高度相關的激素為雌激素（estrogen）/OCP，文獻並未強調黃體酮（progesterone）；且常見分子亞型分析所引用的危險因子是 OCP（雌激素主導）及合成代謝類固醇，並非「合成雌激素和黃體酮」兩者並列。",
-        "B": "錯誤。選項描述「正常肝細胞與膽小管被擴張的肝竇隔開」不符合肝腺瘤病理：肝腺瘤的顯著特徵之一是膽管明顯缺失（bile ducts are conspicuously absent）。上述描述（有膽小管、擴張肝竇、纖維隔）更貼近局灶性結節性增生（focal nodular hyperplasia, FNH）的組織學表現（fibrous septa contain numerous bile ductules）。",
-        "C": "正確。肝腺瘤出血與壞死灶常見（foci of hemorrhage or necrosis are frequent）；最嚴重的臨床表現為破裂引發血腹。破裂與 OCP 使用密切相關，懷孕時亦可發生（rupture may also occur during pregnancy）；使用合成代謝類固醇的男性也是高風險族群（anabolic androgenic steroid use in male body builders）。",
+        "A": "錯誤。「通常是單個、圓形、界限明確」大體上符合（Most tumors are solitary），但「具包膜」不正確：腺瘤只有因周圍肝組織受壓形成的假性被膜（pseudocapsule），並無真正被膜。此外，與腺瘤高度相關的激素為雌激素（estrogen）/OCP，文獻並未強調黃體酮（progesterone）；且常見分子亞型分析所引用的危險因子是 OCP（雌激素主導）及合成代謝類固醇，並非「合成雌激素和黃體酮」兩者並列。",
+        "B": "錯誤。選項描述「正常肝細胞與膽小管被擴張的肝竇隔開」不符合肝腺瘤病理：肝腺瘤的顯著特徵之一是膽管明顯缺失。上述描述（有膽小管、擴張肝竇、纖維隔）更貼近局灶性結節性增生（focal nodular hyperplasia, FNH）的組織學表現——其纖維隔內含眾多膽小管。",
+        "C": "正確。肝腺瘤出血與壞死灶常見；最嚴重的臨床表現為破裂引發血腹。破裂與 OCP 使用密切相關，懷孕時亦可發生；使用合成代謝類固醇（anabolic androgenic steroid）的男性健美者也是高風險族群。",
         "D": "錯誤。「惡性機率高」不正確：系統性回顧估計肝腺瘤惡性轉化率約 4.4%，主要侷限於 >5 cm（佔 96%）及 β-catenin 活化突變者，整體並非高惡性機率。因此，手術並非所有肝腺瘤的首選治療——目前建議針對 >5 cm、有症狀、男性或已知 β-catenin 突變者手術切除；<5 cm 的無症狀女性可先停用 OCP 並定期追蹤影像，不一定需要手術。"
       },
       "references": [
@@ -9677,7 +9677,7 @@
       "options": {
         "A": "正確。乙狀結腸鏡（包含硬式或軟式）進行非手術復位是首選初步處置，可轉化為擇期手術，降低緊急手術風險；留置肛管有助減壓並預防再扭轉。",
         "B": "錯誤（本題答案）。成功的內視鏡復位後，應安排「擇期（elective）」手術切除乙狀結腸，而非緊急手術。緊急手術保留給腹膜炎、復位失敗或腸黏膜壞死等情況。",
-        "C": "正確。出現腹膜炎徵象提示腸缺血或穿孔，必須立即進行手術；此與 Sleisenger 所述「signs of sepsis or peritonitis … require urgent laparotomy」一致。",
+        "C": "正確。出現腹膜炎徵象提示腸缺血或穿孔，必須立即進行手術；此與 Sleisenger 所述「出現敗血症或腹膜炎徵象者需緊急剖腹手術」一致。",
         "D": "正確。腸梗阻病人的支持性處置包含禁食（NPO）、靜脈輸液補充及抗生素預防感染，是手術前後的標準照護。"
       },
       "references": [
@@ -9735,9 +9735,9 @@
       "quick": "上消化道內視鏡陰性、仍持續嚴重血便且輸血 ≥2 單位，應安排 CT 血管攝影（CTA）以定位活動性出血（偵測速率 >0.3 mL/min），是狀況未改善時的最佳下一步。",
       "background": "本題患者：75 歲男性，有冠心病（5 支血管支架）、長期服用抗凝血劑；連續兩天由黑便（柏油色）轉為暗紅色血便（hematochezia），代表出血加速或來源在下消化道。上消化道內視鏡（EGD）陰性排除 UGIB，24 小時內輸血 2 單位符合「嚴重 GIB」定義（需輸血 ≥2U PRBCs）。\n\n診斷流程原則：\n1. LGIB 首選 colonoscopy（找出病因 >70%），但仍持續出血、不穩定或無法立即清腸的患者，需先做影像定位。\n2. CT angiography（CTA）可偵測 ≥0.3 mL/min 的活動性出血，速度快於 tagged RBC scan，且在「無法緊急 colonoscopy 的不穩定活動性出血」時特別有用（Washington p.624）。\n3. Pocket Medicine 亦明載：不穩定或反覆出血時考慮 tagged RBC scan 或 CTA，速度優於 tagged RBC scan，偵測率 ≥0.3 mL/min（p.176）。\n4. Capsule endoscopy 適用於 EGD + colonoscopy 皆陰性後懷疑小腸出血，非活動性 LGIB 的優先工具。\n5. 抗凝血劑於活動性 GIB 時應暫停至止血，而非「考慮高風險繼續使用」，但待出血控制後應個別化儘早恢復以防血栓事件。",
       "options": {
-        "A": "【錯誤】雖然高心肌梗塞風險需注意，但在活動性 GIB 時，抗凝血劑/抗血小板藥物應「暫停至止血」（Pocket Medicine p.177：「Hold anticoag & antiplatelet Rx until hemostasis; can resume after hemostasis & PPI on board」）；不是完全不停用。Washington p.627 亦指出重啟時機應個別化，但仍以「儘早重啟」而非「持續不停」為原則，因血栓事件可能比再出血更具破壞性——此為重啟邏輯，不代表不停用。選項 A 主張「暫不考慮停用」，與 guideline 相反。",
+        "A": "【錯誤】雖然高心肌梗塞風險需注意，但在活動性 GIB 時，抗凝血劑/抗血小板藥物應暫停至止血（Pocket Medicine p.177：止血並開始 PPI 後才可恢復用藥）；不是完全不停用。Washington p.627 亦指出重啟時機應個別化，但仍以「儘早重啟」而非「持續不停」為原則，因血栓事件可能比再出血更具破壞性——此為重啟邏輯，不代表不停用。選項 A 主張「暫不考慮停用」，與 guideline 相反。",
         "B": "【部分正確但非最佳】仍持續血便時，colonoscopy 確是 LGIB 的重要診斷工具，24 小時內執行診斷率最高。然而本題患者出血仍在持續、狀況未改善，在未先評估血行動力學穩定性與定位出血的情況下，直接「立即清腸安排腸鏡」風險較高；且 Washington 指出治療性 colonoscopy 雖可減少輸血需求，但預後（mortality）不一定改善。在活動性快速出血時，CTA 先定位出血部位再決定是否 colonoscopy 或 IR 介入，流程更合理。此外，「仍續解血便」且需持續輸血的患者，腸鏡前清腸可能危及血行動力學。",
-        "C": "【正確】患者 EGD 陰性、仍持續嚴重血便（柏油色→暗紅色）、需輸血 ≥2 單位，符合「狀況未改善」。CTA 可在 catheter angiography 之前定位 >0.3 mL/min 的出血，且在「無法緊急 colonoscopy 的不穩定活動性出血」特別有用（Washington p.624）；Pocket Medicine p.176 亦載：CTA 「faster to obtain than RBC scan, detects bleeding ≥0.3 mL/min」。安排 CTA 是此臨床情境的正確下一步。",
+        "C": "【正確】患者 EGD 陰性、仍持續嚴重血便（柏油色→暗紅色）、需輸血 ≥2 單位，符合「狀況未改善」。CTA 可在 catheter angiography 之前定位 >0.3 mL/min 的出血，且在無法緊急 colonoscopy 的不穩定活動性出血特別有用（Washington p.624）；Pocket Medicine p.176 亦載：CTA 取得速度快於 tagged RBC scan，可偵測 ≥0.3 mL/min 的出血。安排 CTA 是此臨床情境的正確下一步。",
         "D": "【錯誤】Capsule endoscopy 的適應症是：上消化道與結腸已徹底檢查後，懷疑出血來源在小腸時最有用（Washington p.624；Pocket Medicine p.179 obscure GIB 流程）。本題 colonoscopy 尚未做，主動出血仍持續，此時用 capsule endoscopy 既無法治療、也非第一步診斷工具，且活動性出血時 capsule 可能被血液遮蔽視野或有嵌頓風險。不應「優先採用」。"
       },
       "references": [
@@ -9817,10 +9817,10 @@
       "quick": "Portal venous gas（門靜脈積氣）是腸管壁壞死/梗塞的晚期影像警訊，與膽道感染無關，故選項 C 的描述錯誤。",
       "background": "小腸阻塞（SBO）的病因依病史而異：有腹部手術史的成人，最常見原因是腸粘黏（adhesions）；從未手術的小孩和成人，則以疝氣嵌頓（incarcerated hernia）、腸套疊（intussusception）或腸扭轉（volvulus）居多。\n\n影像判讀上，腹部平片與 CT 可顯示多種 SBO 相關徵象。CT 對於辨識「是否有腸缺血或壞死」尤為重要。Portomesenteric venous gas（門靜脈腸系膜靜脈積氣）、pneumatosis intestinalis linearis（線性腸壁積氣）及 pneumoperitoneum（腹腔游離氣體）是腸管絞窄性阻塞自然病程末期的影像發現，代表大範圍的腸管壞死（extensive intestinal necrosis），需緊急外科介入。這些徵象與膽道（biliary tract）感染無關；膽道感染的影像重點在膽管擴張、膽管積氣（pneumobilia）或影像導引引流等，是完全不同的臨床情境。\n\n選項 D 的 pneumatosis intestinalis 同樣是腸缺血/壞死的高危徵象，文獻明確指出其對應「transmural infarction」，需立即外科會診。",
       "options": {
-        "A": "正確。有腹部手術病史的病人，小腸粘黏（intra-abdominal adhesions from prior surgery）是急性 SBO 最常見的原因；Sleisenger 明確記載「The most common cause of acute SBO in adults is adhesions from prior surgery」。",
-        "B": "正確。在小孩與沒有腹部手術史的族群中，疝氣嵌頓（incarcerated hernia）、腸套疊（intussusception）及先天性腸旋轉不良引起的腸扭轉（midgut volvulus due to congenital malrotation）是最常見的原因。Sleisenger 記載「incarcerated hernia are the most frequent causes in children with no history of prior abdominal surgery」。",
+        "A": "正確。有腹部手術病史的病人，先前手術造成的腹腔內粘黏是急性 SBO 最常見的原因；Sleisenger 明確記載，成人急性小腸阻塞最常見的原因即為先前手術造成的粘黏。",
+        "B": "正確。在小孩與沒有腹部手術史的族群中，疝氣嵌頓（incarcerated hernia）、腸套疊（intussusception）及先天性腸旋轉不良引起的中腸扭轉（midgut volvulus）是最常見的原因。Sleisenger 記載，在沒有腹部手術史的兒童中，嵌頓性疝氣是最常見的原因。",
         "C": "錯誤（官方答案）。腹部 X 光或 CT 發現 portal venous gas（門靜脈積氣）提示的是「腸管壁壞死／梗塞（transmural infarction / extensive intestinal necrosis）」，是絞窄性腸阻塞晚期的危急徵象，需緊急外科介入。它並非膽道感染的指標；題目將其與「膽道同時有感染」連結，屬於錯誤描述。（正確的膽道積氣是 pneumobilia，見膽腸瘻或 Oddi 括約肌切開術後，與 portal venous gas 分布位置不同。）",
-        "D": "正確。CT 發現 pneumatosis intestinalis（腸壁積氣）是腸缺血壞死（transmural infarction）的高危影像徵象，Washington Manual 明確指出「Pneumatosis or portal venous gas indicates transmural infarction and necessitates surgical consultation」，應懷疑腸壁壞死並即時外科會診。"
+        "D": "正確。CT 發現 pneumatosis intestinalis（腸壁積氣）是腸缺血壞死（transmural infarction）的高危影像徵象，Washington Manual 明確指出腸壁積氣或門靜脈積氣代表全層梗塞（transmural infarction），需外科會診，應懷疑腸壁壞死並即時處理。"
       },
       "references": [
         {
@@ -9877,10 +9877,10 @@
       "quick": "直腸膀胱廔管（enterovesical fistula）的典型表現是氣尿（pneumaturia）、糞尿（fecaluria）及反覆膀胱感染，並非血尿，故選項C為「不適當」的血尿原因。",
       "background": "血尿（hematuria）的常見原因包括：泌尿道感染（UTI）、尿路結石（urolithiasis）、腫瘤（neoplasm）、結核病、外傷及攝護腺炎等。急性膀胱炎或尿道炎亦可引起明顯血尿。直腸膀胱廔管（rectovesical fistula）通常由克隆氏症（Crohn's disease）回盲腸區穿通性發炎或憩室炎（diverticulitis）進展所致，形成腸道與膀胱之間的異常通道。此類廔管特徵性表現為：排尿困難（dysuria）、反覆膀胱感染（recurrent bladder infections）、氣尿（pneumaturia，排尿時帶氣泡）及糞尿（fecaluria，尿液含糞便成分）；血尿並非其主要或典型表現。因此，在「常見血尿原因」的題目中，直腸膀胱廔管為「不適當」的選項。",
       "options": {
-        "A": "正確選項（適當的血尿原因）。泌尿道感染（UTI）是血尿的常見原因，感染引起膀胱或泌尿道黏膜發炎出血；急性膀胱炎在女性可引起明顯（gross）血尿。Harrison 22e 明確指出「Hematuria with pyuria and bacteriuria is typical of infection」。",
-        "B": "正確選項（適當的血尿原因）。尿路結石（urolithiasis/nephrolithiasis）是血尿的常見原因，結石通過尿道時刮傷黏膜可引起血尿（microscopic 或 gross）。Harrison 22e 將 stones 列為「common causes of isolated hematuria」之一；Washington Manual 亦指出結石患者可出現 hematuria。",
-        "C": "本題答案（不適當的血尿原因）。直腸膀胱廔管（rectovesical fistula）形成後，腸內容物（氣體、糞便）進入膀胱，典型表現為氣尿（pneumaturia）、糞尿（fecaluria）及反覆膀胱感染，並非以血尿為主要症狀。Harrison 22e 明確描述：「Enterovesical fistulas typically present as dysuria or recurrent bladder infections or, less commonly, as pneumaturia or fecaluria」，血尿不在此列。",
-        "D": "正確選項（適當的血尿原因）。腫瘤（如膀胱癌、腎細胞癌、攝護腺癌等）是血尿的重要原因，尤其是無痛性血尿（painless hematuria）為泌尿道惡性腫瘤的典型警示症狀。Harrison 22e 將 neoplasms 列為「common causes of isolated hematuria」之一。"
+        "A": "正確選項（適當的血尿原因）。泌尿道感染（UTI）是血尿的常見原因，感染引起膀胱或泌尿道黏膜發炎出血；急性膀胱炎在女性可引起明顯（gross）血尿。Harrison 22e 明確指出，血尿合併膿尿與菌尿是感染的典型表現。",
+        "B": "正確選項（適當的血尿原因）。尿路結石（urolithiasis/nephrolithiasis）是血尿的常見原因，結石通過尿道時刮傷黏膜可引起血尿（microscopic 或 gross）。Harrison 22e 將結石列為孤立性血尿的常見原因之一；Washington Manual 亦指出結石患者可出現 hematuria。",
+        "C": "本題答案（不適當的血尿原因）。直腸膀胱廔管（rectovesical fistula）形成後，腸內容物（氣體、糞便）進入膀胱，典型表現為氣尿（pneumaturia）、糞尿（fecaluria）及反覆膀胱感染，並非以血尿為主要症狀。Harrison 22e 明確描述，腸膀胱廔管的典型表現為排尿困難（dysuria）或反覆膀胱感染，較少見的是氣尿（pneumaturia）或糞尿（fecaluria），血尿不在此列。",
+        "D": "正確選項（適當的血尿原因）。腫瘤（如膀胱癌、腎細胞癌、攝護腺癌等）是血尿的重要原因，尤其是無痛性血尿（painless hematuria）為泌尿道惡性腫瘤的典型警示症狀。Harrison 22e 將腫瘤列為孤立性血尿的常見原因之一。"
       },
       "references": [
         {
@@ -9961,8 +9961,8 @@
       "options": {
         "A": "【錯誤—本題答案】對於無症狀膽結石，臨床指引原則上不建議常規預防性切除；只有特定高風險指徵（膽囊鈣化、息肉 >10 mm、結石 >3 cm、減重手術前、心臟移植候選、鐮刀型細胞貧血等）才考慮手術。「通常可考慮預防性切除」敘述有誤。",
         "B": "【正確】高脂食物（fatty foods）會誘發膽囊收縮、造成膽道絞痛，此為膽道疼痛的典型誘發因子。",
-        "C": "【正確】膽道疼痛可放射至右肩胛骨（scapula）或右肩，Washington Manual 明載「radiating to the back or right shoulder」。",
-        "D": "【正確】Pocket Medicine 明載膽道疼痛「lasts 30 min–3 h」，符合「30 分鐘至數小時」的描述。"
+        "C": "【正確】膽道疼痛可放射至右肩胛骨（scapula）或右肩，Washington Manual 明載可放射至背部或右肩。",
+        "D": "【正確】Pocket Medicine 明載膽道疼痛持續 30 分鐘至 3 小時，符合「30 分鐘至數小時」的描述。"
       },
       "references": [
         {
@@ -9983,11 +9983,11 @@
     },
     "113-common-GI-10": {
       "quick": "面對無法接受診斷結果的病人，應先以同理心承認其感受，再以開放式問句邀請釐清疑問（P-SPIKES 的「E」步驟：Empathy），故答案選 C。",
-      "background": "當病人獲知嚴重診斷（如胰臟癌第三期）後出現無法接受（denial/disbelief）的情緒反應，醫療人員應採用「壞消息溝通框架」。Harrison's 22e 第 13 章介紹了 P-SPIKES 六步驟方法（Preparation、Setting、Patient's perception、Invitation、Knowledge、Empathy/Exploration、Summary）。其中第五步「E — Empathy and exploration」的核心原則為：第一步先承認病人的情緒感受（acknowledge feelings），第二步才用開放式問句（open-ended questions）探詢病人的需求，給予充分時間回應，並提醒病人這樣的強烈情緒反應完全正常。不應在病人情緒尚未獲承認時立即要求趕緊開始治療、強調療程辛苦、或直接叫病人尋求其他意見，這些回應都跳過了先「同理→探問」的程序。選項 C「我理解聽到這樣結果真的很難接受，您現在有什麼需要釐清的問題嗎」完整呈現：①先同理（acknowledge the difficulty of hearing the news）→②再開放式探問（invite clarification）。此即 P-SPIKES E 步驟的最佳實踐。",
+      "background": "當病人獲知嚴重診斷（如胰臟癌第三期）後出現無法接受（denial/disbelief）的情緒反應，醫療人員應採用「壞消息溝通框架」。Harrison's 22e 第 13 章介紹了 P-SPIKES 六步驟方法（Preparation、Setting、Patient's perception、Invitation、Knowledge、Empathy/Exploration、Summary）。其中第五步「E — Empathy and exploration」的核心原則為：第一步先承認病人的情緒感受（acknowledge feelings），第二步才用開放式問句（open-ended questions）探詢病人的需求，給予充分時間回應，並提醒病人這樣的強烈情緒反應完全正常。不應在病人情緒尚未獲承認時立即要求趕緊開始治療、強調療程辛苦、或直接叫病人尋求其他意見，這些回應都跳過了先「同理→探問」的程序。選項 C「我理解聽到這樣結果真的很難接受，您現在有什麼需要釐清的問題嗎」完整呈現：①先同理、承認病人聽到此消息的難受→②再以開放式問句邀請病人釐清疑問。此即 P-SPIKES E 步驟的最佳實踐。",
       "options": {
         "A": "錯。「所有報告都很清楚，一定要趕快把握時間開始治療」屬於直接跳到治療計畫（P-SPIKES 的 S 步驟），完全跳過了對病人情緒的承認與探索。病人此刻需要的是感受被接納，而非被催促行動；這種回應可能強化病人的防衛反應與焦慮。",
         "B": "錯。「治療過程可能很辛苦，我們會把症狀控制做好」雖有安慰意圖，但仍預設病人已接受診斷並進入治療準備階段，未先承認病人「無法接受結果」的當下情緒。此外「一定能緩解治療的不適」帶有過度保證（false reassurance）的問題。",
-        "C": "正確。「我理解聽到這樣結果真的很難接受」＝先以同理心承認情緒（Empathy）；「您現在有什麼需要釐清的問題嗎」＝開放式問句邀請病人表達需求（Exploration）。符合 P-SPIKES E 步驟：Acknowledge what the patient and family are feeling，再 Give them time to respond。此回應讓病人感到被傾聽，也為後續再次說明（re-explanation）開啟空間。",
+        "C": "正確。「我理解聽到這樣結果真的很難接受」＝先以同理心承認情緒（Empathy）；「您現在有什麼需要釐清的問題嗎」＝開放式問句邀請病人表達需求（Exploration）。符合 P-SPIKES E 步驟：先承認病人與家屬的感受，再給予他們時間回應。此回應讓病人感到被傾聽，也為後續再次說明（re-explanation）開啟空間。",
         "D": "錯。「醫師已清楚解釋了，可以考慮尋求其他醫師意見」雖尊重病人的質疑權，但語氣帶有輕微防衛性，且未先同理病人的情緒困難，容易讓病人感到被推拒。真正的需求是「再次被解釋」，應先釐清病人的疑惑所在，再決定是否需要第二意見，而非第一時間就建議轉介。"
       },
       "references": [
@@ -10007,7 +10007,7 @@
       "quick": "裡急後重（tenesmus）是指強烈排便衝動卻幾乎無糞便排出的感覺，直腸炎或盆腔結構病灶（含下段輸尿管結石）均可誘發，答案為 D。",
       "background": "裡急後重（tenesmus）的定義是頻繁出現強烈排便衝動，但每次嘗試排便時幾乎排不出糞便，並非失禁。其機轉為直腸黏膜或周圍組織受刺激，使直腸感受器持續發出排空訊號；常見原因包括直腸炎（感染性、IBD、放射性）、直腸腫瘤及鄰近盆腔器官病灶。選項 A 描述的是「大便失禁」（fecal incontinence）——糞便無法自主控制地流出——與裡急後重截然不同。選項 B 的「腸壁蠕動反射」（peristaltic reflex）是腸道推進食物的正常神經弧，由腸壁黏膜受壓後以 ascending excitation/descending inhibition 模式協調；這與裡急後重無關。選項 C 描述的是「胃結腸反射」（gastrocolic reflex）——進食後胃壁擴張，透過神經（胃腸道副交感）激發結腸蠕動增加——亦與裡急後重無關。選項 D 正確：下段輸尿管（ureterovesical junction, UVJ 附近）結石阻塞時，因下段輸尿管與直腸在盆腔解剖上緊鄰，且二者的內臟傳入神經在盆腔叢及 S2–S4 脊髓節段有共同匯聚，結石的炎性刺激可以誘發直腸相關的裡急後重感。臨床上 UVJ 結石常被誤診為細菌性膀胱炎，也需鑑別腸道病灶。",
       "options": {
-        "A": "錯誤。描述的是「大便失禁」（fecal incontinence）：「無法控制地讓糞便排出」。裡急後重是強烈的排便衝動但幾乎排不出（tenesmus = frequent attempts to defecate but not true diarrhea），二者性質相反。",
+        "A": "錯誤。描述的是「大便失禁」（fecal incontinence）：「無法控制地讓糞便排出」。裡急後重是強烈的排便衝動但幾乎排不出（即頻繁嘗試排便卻非真正腹瀉），二者性質相反。",
         "B": "錯誤。腸壁「蠕動反射」（peristaltic reflex）是由腸黏膜受機械性或化學性刺激後，透過腸神經系統（ascending excitation、descending inhibition）協調腸道推進的正常生理弧，其作用是推送腸內容物向前，並非引發裡急後重。",
         "C": "錯誤。此選項描述的是「胃結腸反射」（gastrocolic reflex）：進食後胃壁擴張刺激結腸蠕動增加（消化期結腸大規模收縮），這是一種正常生理反射，而非裡急後重的定義。",
         "D": "正確。除直腸本身病灶（直腸炎、腫瘤、IBD等）外，下段輸尿管結石阻塞（特別是 ureterovesical junction 附近）因其解剖位置緊鄰直腸，且泌尿道與消化道共享 S2–S4 的內臟傳入路徑，炎性/機械性刺激可引發裡急後重感。臨床上 UVJ 結石患者可出現尿急、頻尿，有時合併類似直腸排便急迫感，為已被文獻認可的跨系統轉介症狀。"
@@ -10099,7 +10099,7 @@
       "options": {
         "A": "錯誤。McBurney點位於「右前腸骨棘（ASIS）與肚臍連線的外側 1/3 處（靠近 ASIS 端）」，而非「肚臍與右側腹股溝連線的下 2/3 處」；參考點為 ASIS，且比例為 1/3（由 ASIS 算），而非 2/3。",
         "B": "錯誤。Psoas sign（iliopsoas sign）的手法是「伸展（extension）右髖關節」或「屈曲右髖對抗阻力」，引發腰大肌刺激症狀；「內翻（internal rotation）」是 obturator sign 的手法，兩者不同。",
-        "C": "正確。Rovsing sign 定義為按壓左下腹時引發右下腹疼痛，反映闌尾周圍腹膜受刺激的徵象。Sleisenger 原文：「Rovsing sign is the finding of RLQ pain during palpation of the left side of the abdomen」；Harrison 亦明確描述：「Palpating in the left lower quadrant causes pain in the right lower quadrant」。",
+        "C": "正確。Rovsing sign 定義為按壓左下腹時引發右下腹疼痛，反映闌尾周圍腹膜受刺激的徵象。Sleisenger 指出，Rovsing sign 即按壓腹部左側時出現右下腹（RLQ）疼痛；Harrison 亦明確描述，按壓左下腹會引發右下腹疼痛。",
         "D": "錯誤。Muscle guarding（腹部肌肉僵硬）是腹膜炎的客觀徵象，反映腹膜受炎症刺激後的反射性腹肌收縮，代表病情需要手術評估；並非病人情緒緊張的表現，也不能據此延緩手術治療。"
       },
       "references": [
@@ -10325,9 +10325,9 @@
       "quick": "多囊性腎疾病（PKD）為基因突變（PKD1/PKD2）所致的遺傳性囊腫病，與代謝症候群的胰島素阻抗/中心型肥胖機轉無關，是四個選項中與代謝症候群最不相關的疾病。",
       "background": "代謝症候群（metabolic syndrome）是以中心型肥胖、胰島素阻抗、高三酸甘油酯、低 HDL、高血糖與高血壓為核心特徵的臨床症候群。第 2 型糖尿病（T2DM）是代謝症候群的核心成份之一；非酒精性脂肪肝病（NAFLD）與 T2DM、肥胖及代謝症候群的盛行率上升密切相關，已成為美國肝臟移植的主要病因。高尿酸血症方面，尿酸結石好發於代謝症候群病人（尿液偏酸），痛風（Gout）亦與代謝症候群存在關聯，腎結石的誘發條件也包括代謝症候群。相對地，多囊性腎疾病（ADPKD）源於 PKD1/PKD2 基因突變，病生理為腎小管囊腫擴張伴 RAAS 活化，其高血壓係由囊腫壓迫腎小球導致，與胰島素阻抗、中心型肥胖、血脂異常等代謝症候群機轉無直接關聯。因此多囊性腎疾病與代謝症候群「最不相關」。",
       "options": {
-        "A": "錯（非最不相關）。高尿酸血症與代謝症候群有關——代謝症候群病人尿液偏酸，易形成尿酸結石；痛風亦常與代謝症候群並存。Washington Manual 明確指出腎結石的誘發條件包括「diabetes mellitus, hypertension, metabolic syndrome ... gout」，且「Uric acid stones develop in conditions that promote an acidic urine, such as what is observed in patients with the metabolic syndrome.」",
+        "A": "錯（非最不相關）。高尿酸血症與代謝症候群有關——代謝症候群病人尿液偏酸，易形成尿酸結石；痛風亦常與代謝症候群並存。Washington Manual 明確指出腎結石的誘發條件包括糖尿病、高血壓、代謝症候群與痛風等，且尿酸結石好發於尿液偏酸的情況，正如代謝症候群病人所見。",
         "B": "錯（非最不相關）。第 2 型糖尿病（T2DM）是代謝症候群的核心定義成份，兩者高度相關，不符合「最不相關」。",
-        "C": "錯（非最不相關）。NAFLD 與代謝症候群關係密切。Washington Manual 明確指出「NAFLD is associated with an increasing prevalence of type 2 diabetes, obesity, and the metabolic syndrome in the US population.」NAFLD 可視為代謝症候群在肝臟的表現。",
+        "C": "錯（非最不相關）。NAFLD 與代謝症候群關係密切。Washington Manual 明確指出，在美國族群中 NAFLD 的盛行與第 2 型糖尿病、肥胖及代謝症候群的盛行率上升相關。NAFLD 可視為代謝症候群在肝臟的表現。",
         "D": "正確。多囊性腎疾病（ADPKD）為常染色體顯性遺傳病，病因是 PKD1/PKD2 基因突變導致腎小管囊腫，合併症包括腦動脈瘤、肝囊腫、二尖瓣脫垂等，其高血壓是囊腫壓迫腎小球活化 RAAS 所致，與代謝症候群的胰島素阻抗或中心型肥胖機轉無關。四個選項中，ADPKD 與代謝症候群最不相關。"
       },
       "references": [
@@ -10374,8 +10374,8 @@
       "background": "本題病人呈現：(1) 發燒 39°C、(2) 右上腹痛合併右下胸廓 knocking pain（叩診肝區時有壓痛，為肝膿瘍典型表現）、(3) 肝腫大、(4) 白血球 13,300/μL 並有明顯核左移（band 34%、seg 49%）→ 符合細菌性感染，(5) AST/ALT 輕度上升，(6) 血小板偏低（38,000/μL，可見於嚴重感染或 DIC）。糖尿病為肝膿瘍已知危險因子之一。\n\n肝膿瘍（pyogenic liver abscess）的初步影像學工具為腹部超音波（US）與電腦斷層（CT）。兩者皆可偵測直徑 1 cm 以上之膿腔；US 便宜、可即時操作、可引導穿刺，是「初始優先選擇」。CT 敏感度雖接近 100%，但費用較高，通常作為次選或用於更精確評估。腹部 X 光對肝膿瘍敏感度低，僅能看到間接徵象（如右側橫膈上升）。腹部血管攝影（angiography）罕用於膿瘍診斷，主要用於區分腫瘤與膿瘍、或介入性治療。腹部磁振造影（MRI）雖對小膿瘍更敏感，但急診情境下耗時且費用高，非優先選擇。因此在急性發燒性肝病合併肝腫大的緊急評估中，腹部超音波是最合理的「第一步」。",
       "options": {
         "A": "錯誤。腹部 X 光（plain film）對肝膿瘍診斷價值有限，只能顯示間接徵象（如右側橫膈抬高、右下肺野肺底炎），無法直接看到膿腔，敏感度低，不適合作為優先檢查。",
-        "B": "錯誤。腹部血管攝影（angiography）屬侵入性檢查，主要用途為區分膿瘍與血管性腫瘤（如 hemangioma），或在介入治療時使用，不作為急性肝膿瘍的首選診斷工具。Sleisenger 原文指出「Rarely, arteriography may be of value in distinguishing an abscess from a tumor」，明確說明為罕用情境。",
-        "C": "正確。腹部超音波（US）是肝膿瘍診斷的初始首選影像工具。US 廉價、無輻射、可在床邊即時操作，可偵測直徑 1 cm 以上的膿腔，並可直接引導穿刺（needle aspiration）以取得培養檢體。Sleisenger 明載「US and CT are the initial imaging modalities of choice」，而 US 具備引導穿刺的額外優勢。",
+        "B": "錯誤。腹部血管攝影（angiography）屬侵入性檢查，主要用途為區分膿瘍與血管性腫瘤（如 hemangioma），或在介入治療時使用，不作為急性肝膿瘍的首選診斷工具。Sleisenger 指出血管攝影僅在罕見情況下對鑑別膿瘍與腫瘤有價值，明確說明為罕用情境。",
+        "C": "正確。腹部超音波（US）是肝膿瘍診斷的初始首選影像工具。US 廉價、無輻射、可在床邊即時操作，可偵測直徑 1 cm 以上的膿腔，並可直接引導穿刺（needle aspiration）以取得培養檢體。Sleisenger 明載超音波與電腦斷層為肝膿瘍的初始首選影像工具，而 US 具備引導穿刺的額外優勢。",
         "D": "錯誤。腹部磁振造影（MRI）雖對偵測小膿瘍較 CT 敏感，但在急性發燒需緊急評估的情況下，MRI 耗時較長、費用高、急診普及性差，不作為優先選擇。MRI 通常在 US/CT 診斷不確定時使用。"
       },
       "references": [
@@ -10509,7 +10509,7 @@
     },
     "113-inad_im-GI-6": {
       "quick": "慢性胃炎合併血小板低下的病人需退燒時，應選擇 acetaminophen：它不抑制 COX、不傷胃黏膜前列腺素保護機制，也不額外抑制血小板功能，為 ASA 與 NSAIDs 的唯一安全替代。",
-      "background": "退燒藥的作用機制是抑制下視丘前列腺素 E2（PGE2）合成，進而降低體溫設定點。Aspirin（ASA）與 NSAIDs（ibuprofen、naproxen 等）均藉由抑制 cyclooxygenase（COX）發揮退燒效果，但同時帶來兩個重要副作用：\n1. 胃腸毒性：COX 抑制 → ↓ prostaglandin 合成 → 胃黏膜保護機制受損 → 胃炎、糜爛、潰瘍及上消化道出血（GIB）風險顯著上升（regular use a/w 5–6× ↑ odds of GIB）。慢性胃炎病人黏膜已受損，進一步抑制 prostaglandin 將加重病情。\n2. 血小板功能抑制：ASA 不可逆抑制 COX-1/COX-2（效果持續 7–10 天，直到新血小板生成）；其他 NSAIDs（ibuprofen、naproxen）可逆性抑制 COX，效果持續數天。本案病人原本已有血小板低下，若再使用 ASA 或 NSAIDs 造成血小板功能進一步抑制，將顯著增加出血風險。\nAcetaminophen 退燒效果與 aspirin 相當，但作用於中樞 COX（腦內 CYP450 氧化活化），對周邊 COX 抑制甚弱，故：不影響胃黏膜 prostaglandin 保護機制、不具抗血小板活性，是本案最適合的退燒藥。Harrison 22e 明確指出：「Oral aspirin and NSAIDs effectively reduce fever but can adversely affect platelets and the gastrointestinal tract. Therefore, acetaminophen is preferred as an antipyretic.」",
+      "background": "退燒藥的作用機制是抑制下視丘前列腺素 E2（PGE2）合成，進而降低體溫設定點。Aspirin（ASA）與 NSAIDs（ibuprofen、naproxen 等）均藉由抑制 cyclooxygenase（COX）發揮退燒效果，但同時帶來兩個重要副作用：\n1. 胃腸毒性：COX 抑制 → ↓ prostaglandin 合成 → 胃黏膜保護機制受損 → 胃炎、糜爛、潰瘍及上消化道出血（GIB）風險顯著上升（regular use a/w 5–6× ↑ odds of GIB）。慢性胃炎病人黏膜已受損，進一步抑制 prostaglandin 將加重病情。\n2. 血小板功能抑制：ASA 不可逆抑制 COX-1/COX-2（效果持續 7–10 天，直到新血小板生成）；其他 NSAIDs（ibuprofen、naproxen）可逆性抑制 COX，效果持續數天。本案病人原本已有血小板低下，若再使用 ASA 或 NSAIDs 造成血小板功能進一步抑制，將顯著增加出血風險。\nAcetaminophen 退燒效果與 aspirin 相當，但作用於中樞 COX（腦內 CYP450 氧化活化），對周邊 COX 抑制甚弱，故：不影響胃黏膜 prostaglandin 保護機制、不具抗血小板活性，是本案最適合的退燒藥。Harrison 22e 明確指出，口服 aspirin 與 NSAIDs 雖能有效退燒，但可能對血小板與腸胃道造成不良影響，因此較傾向選用 acetaminophen 作為退燒藥。",
       "options": {
         "A": "錯。Aspirin 為水楊酸類，不可逆性抑制 COX-1 與 COX-2，其抗血小板效果持續 7–10 天（直到新血小板生成）。本案已有血小板低下，使用 aspirin 將使血小板功能雪上加霜，大幅增加出血風險；同時 ASA 抑制胃黏膜 prostaglandin 合成，對已有慢性胃炎的病人會加重黏膜損傷與 GIB 風險。應避免使用。",
         "B": "正確。Acetaminophen 退燒效果與 aspirin 相當，但主要作用於中樞 COX（對周邊 COX 活性甚弱），不影響胃黏膜的 prostaglandin 保護機制，亦無臨床顯著的抗血小板作用。對慢性胃炎合併血小板低下的病人，是最安全的退燒選擇。使用時仍應注意避免超量（>4 g/day），以防肝毒性。",
@@ -10545,10 +10545,10 @@
       "quick": "不需用氧但具重症風險因子的病人，可給予口服 nirmatrelvir/ritonavir（Paxlovid）以降低住院率與死亡率；選項 A 誤列女性為風險因子，選項 C 誤將機械通氣病人的主要輔助用藥組合設為 dexamethasone+remdesivir。",
       "background": "COVID-19（SARS-CoV-2）重症風險因子包括年齡 ≥65 歲、心血管疾病、糖尿病、腦中風、肺疾病、慢性腎病、肥胖及男性；肝硬化亦被臺灣指引等多份文件列入高風險條件。女性並非獨立重症風險因子（男性反而死亡率較高）。\n\nNirmatrelvir 是 SARS-CoV-2 主蛋白酶抑制劑，與 ritonavir 合用（ritonavir 為 CYP3A 抑制劑，用於 PK 增強）；適用於輕至中度 COVID-19、具進展至重症高風險的成人，須在症狀出現 5 天內開始使用。國際指引（NIH、CDC）與臺灣指引均建議此藥為不需用氧的高風險病人的第一線口服抗病毒選擇，可降低住院率約 50%。\n\n住院且需補充氧氣的病人：dexamethasone ± remdesivir。需機械通氣或 ECMO 的病人：dexamethasone 合併抗 IL-6（tocilizumab/sarilumab）或抗 JAK（baricitinib/tofacitinib）；remdesivir 在此族群的單獨加成效益有限，不是機械通氣病人的標準組合核心。Dexamethasone（6 mg IV/PO daily）對需要氧療（包括機械通氣）的病人可降低 28 天死亡率。",
       "options": {
-        "A": "錯。重症風險因子應為男性（而非女性）、年齡 ≥65 歲、肝硬化、癌症、糖尿病、心血管疾病、失智症等；女性列入反而與實證相悖——Harrison 22e 指出男性感染 SARS-CoV-2 更易需機械通氣且死亡率更高。Pocket Medicine 亦明列「age ≥65, CVD, DM, stroke, lung dx, CKD, obesity」，無「female sex」。",
+        "A": "錯。重症風險因子應為男性（而非女性）、年齡 ≥65 歲、肝硬化、癌症、糖尿病、心血管疾病、失智症等；女性列入反而與實證相悖——Harrison 22e 指出男性感染 SARS-CoV-2 更易需機械通氣且死亡率更高。Pocket Medicine 亦明列風險因子為年齡 ≥65 歲、心血管疾病、糖尿病、腦中風、肺疾病、慢性腎病與肥胖，並未納入女性性別。",
         "B": "錯。住院病人進行病毒核酸檢驗時，插管病人的氣管內抽取液（endotracheal aspirate）是可接受且高效的標本；臺灣衛福部與 WHO 指引均指出鼻咽/咽喉擦拭液及下呼吸道標本（含氣管內抽取液）皆適用。「避免使用氣管內抽取液」的說法不正確。",
-        "C": "錯。針對插管使用呼吸器（機械通氣）的 COVID-19 病人，標準治療核心為 dexamethasone 合併抗 IL-6（tocilizumab/sarilumab）或抗 JAK（baricitinib/tofacitinib），而非 dexamethasone + remdesivir。Remdesivir 主要適用於需補充氧氣但尚未插管的住院病人；Pocket Medicine 明確將「dexamethasone ± remdesivir」歸於「Hospitalized w/ suppl O₂」，而「dexamethasone + anti-IL6 or anti-JAK」歸於「Hospitalized w/ mechanical ventilation or ECMO」。",
-        "D": "正確。不需使用氧氣（即輕至中度疾病）但具重症風險因子的病人，給予口服 nirmatrelvir/ritonavir 複方藥物（Paxlovid）可降低住院及死亡風險。Harrison 22e 確認此藥「approved for treatment of mild to moderate COVID-19 in adults at high risk for progression to severe COVID-19」；Pocket Medicine 亦指出「Non-hospitalized: mAb, paxlovid and molnupiravir if risk factors for severe disease」。臺灣指引第二十五版同樣建議此族群使用 nirmatrelvir/ritonavir 以降低死亡率。"
+        "C": "錯。針對插管使用呼吸器（機械通氣）的 COVID-19 病人，標準治療核心為 dexamethasone 合併抗 IL-6（tocilizumab/sarilumab）或抗 JAK（baricitinib/tofacitinib），而非 dexamethasone + remdesivir。Remdesivir 主要適用於需補充氧氣但尚未插管的住院病人；Pocket Medicine 明確將 dexamethasone ± remdesivir 歸於需補充氧氣的住院病人，而 dexamethasone 合併抗 IL-6 或抗 JAK 則歸於需機械通氣或 ECMO 的住院病人。",
+        "D": "正確。不需使用氧氣（即輕至中度疾病）但具重症風險因子的病人，給予口服 nirmatrelvir/ritonavir 複方藥物（Paxlovid）可降低住院及死亡風險。Harrison 22e 確認此藥已核准用於治療具進展至重症高風險的成人輕至中度 COVID-19；Pocket Medicine 亦指出，非住院且具重症風險因子的病人可使用單株抗體、paxlovid 與 molnupiravir。臺灣指引第二十五版同樣建議此族群使用 nirmatrelvir/ritonavir 以降低死亡率。"
       },
       "references": [
         {
@@ -10628,7 +10628,7 @@
       "background": "賁門失弛緩症（achalasia）是最重要的食道運動障礙，特徵為吞嚥時下食道括約肌（LES）鬆弛不完全，且食道體缺乏蠕動收縮。鋇劑吞食攝影（timed upright barium swallow）典型呈現：擴張的胸內食道、排空受損、遠端食道漸縮成「鳥嘴狀（bird's beak appearance）」；食道高解析度測壓（HRM）為診斷金標準，可見 LES 鬆弛不完全並將 achalasia 分為三亞型。治療方面：（1）藥物：平滑肌鬆弛劑（nitrates 或 calcium channel blockers）餐前服用可短暫緩解症狀，但效果次佳；**內視鏡下注射肉毒桿菌素**可改善 dysphagia 數週至數月，適用於高手術風險的老年或衰弱病人或作為橋接治療。（2）確定性治療：pneumatic dilation 或 Heller myotomy，兩者症狀緩解效果相當；POEM 為微創選項但術後逆流發生率較高。硬皮症（scleroderma）引起的食道病變屬於低動力障礙（hypomotility），表現為 LES 張力下降（開放的 LES）+ 食道體蠕動喪失，鋇劑攝影為擴張食道伴 LES 開放與自由胃食道逆流，而非鳥嘴狀收縮。食道支架（esophageal stent）適用於因無法手術的腫瘤造成的吞嚥困難，不用於 achalasia。",
       "options": {
         "A": "錯誤。鈣離子通道阻斷劑（CCBs）屬於平滑肌鬆弛劑，餐前服用可對 achalasia 提供短暫症狀緩解（雖效果次佳且副作用可能限制使用），並非禁忌。Washington Manual 明確指出 nitrates 或 calcium channel blockers 可提供短暫緩解，故「不適合使用」的說法錯誤。",
-        "B": "正確。內視鏡下注射肉毒桿菌素（botulinum toxin injection at endoscopy）可在 achalasia 及 LES 鬆弛不完全的痙攣性疾患中改善吞嚥困難長達數週至數月；適用於不適合手術的老年、衰弱病人，或作為更確定性治療（pneumatic dilation / Heller myotomy）的橋接治療。這是本題官方答案。",
+        "B": "正確。內視鏡下注射肉毒桿菌素可在 achalasia 及 LES 鬆弛不完全的痙攣性疾患中改善吞嚥困難長達數週至數月；適用於不適合手術的老年、衰弱病人，或作為更確定性治療（pneumatic dilation / Heller myotomy）的橋接治療。這是本題官方答案。",
         "C": "錯誤。硬皮症（scleroderma/systemic sclerosis）影響食道的機轉是造成「低動力障礙（hypomotility disorder）」：食道體蠕動喪失（absent/ineffective peristalsis）加上 LES 張力下降，鋇劑攝影表現為食道擴張伴 LES 開放與自由胃食道逆流，而非鳥嘴狀外觀。本題典型鳥嘴狀外觀合併 LES 無法放鬆，是 achalasia 的特徵，而非硬皮症。",
         "D": "錯誤。食道支架（esophageal stent placement）適用於因無法手術之腫瘤（inoperable neoplasia）造成的吞嚥困難，並非 achalasia 的治療選項。對 achalasia 放置支架無法解決 LES 鬆弛不完全的根本問題，且非標準治療。"
       },
@@ -10780,7 +10780,7 @@
         "A": "錯誤。腹部常規 X 光確實有時可見右下象限鈣化糞石（radiopaque RLQ coprolith），但此發現並不常見：糞石僅存在於 3.6%–27% 的急性闌尾炎病例，且腹部 X 光整體上對診斷闌尾炎的貢獻有限，改變臨床決策的機率僅約 6%，因此「常可見到」的說法不正確。",
         "B": "錯誤。氣腹（pneumoperitoneum）確實可發生於闌尾穿孔後，但氣腹最常見的原因是消化性潰瘍穿孔，而非闌尾穿孔；氣腹並非闌尾破裂的專屬表現。Sleisenger 指出，因闌尾炎引發的瀰漫性腹膜炎，在術前難以與其他原因的瀰漫性腹膜炎鑑別，氣腹不能用來確診闌尾破裂。",
         "C": "部分正確但表述有誤。靜脈注射顯影劑（IV contrast）確實能提升 CT 對闌尾炎的診斷準確性，最佳結果出現在同時給予口服及直腸腸內顯影劑時；敏感性約 94%、特異性約 95%。然而，本選項的核心問題在於：CT 屬於首選影像，懷孕病人應優先 US，US 不確定時才用 MRI（而非 CT），且「靜脈注射合併腸內顯影劑 CT」這項描述本身在技術上正確，但與其他選項比較後，選項 D 對懷孕病人使用 MRI 的描述更為精確且符合本題問法。",
-        "D": "正確。MRI 對急性闌尾炎的診斷準確性與 CT 相當（高敏感性與特異性），且因不使用游離輻射，被推薦用於懷孕病人（超音波結果不確定時的後續影像）。懷孕病人行 MRI 時，通常不施打釓類顯影劑，以避免顯影劑穿越胎盤對胎兒造成潛在影響。Sleisenger 明確指出：「In pregnant patients with equivocal findings on US study, follow-up imaging with MRI has been shown to be as accurate as CT scanning and should be the next study to confirm the diagnosis of appendicitis.」"
+        "D": "正確。MRI 對急性闌尾炎的診斷準確性與 CT 相當（高敏感性與特異性），且因不使用游離輻射，被推薦用於懷孕病人（超音波結果不確定時的後續影像）。懷孕病人行 MRI 時，通常不施打釓類顯影劑，以避免顯影劑穿越胎盤對胎兒造成潛在影響。Sleisenger 明確指出：對於超音波結果不確定的懷孕病人，以 MRI 進行後續影像檢查已證實與 CT 一樣準確，應作為確認闌尾炎診斷的下一步檢查。"
       },
       "references": [
         {
@@ -10883,10 +10883,10 @@
     },
     "113-inad_surgery-GI-43": {
       "quick": "ABO 血型不合並非肝臟移植的絕對禁忌症，緊急情況下可使用 ABO 不相容的肝臟（約佔 5%），其餘三個選項均為公認的絕對禁忌症。",
-      "background": "肝臟移植（liver transplantation, LT）的絕對禁忌症（absolute contraindications）是指預後極差、不應提供移植的情況；相對禁忌症（relative contraindications）則是預後次佳、但部分病人仍可考慮移植。根據 Sleisenger Chapter 97 的 BOX 97.2，LT 的絕對禁忌症包括：無法控制的膿毒症（uncontrolled sepsis）、AIDS、持續酒精／藥物濫用、晚期心肺疾病（advanced cardiac or pulmonary disease）、解剖構造異常使移植技術上不可行、肝外惡性腫瘤、持續不遵醫囑等。嚴重腦血管病變導致日常生活完全依賴且無法重建，使病人無法從移植中獲益，屬於功能性障礙使移植無意義，在臨床上視同絕對禁忌。ABO 血型不合則不同：雖然約 70% 的肝臟 ABO 相同，但約 5% 為血型不相容（ABO-incompatible）的肝臟仍被使用，尤其在急性肝衰竭等緊急情況、等待時間壓力下。因此 ABO 血型不合是配型考量，但非禁止移植的絕對條件，屬於本題唯一「不是絕對禁忌症」的選項。",
+      "background": "肝臟移植（liver transplantation, LT）的絕對禁忌症（absolute contraindications）是指預後極差、不應提供移植的情況；相對禁忌症（relative contraindications）則是預後次佳、但部分病人仍可考慮移植。根據 Sleisenger Chapter 97 的 BOX 97.2，LT 的絕對禁忌症包括：無法控制的膿毒症（uncontrolled sepsis）、AIDS、持續酒精／藥物濫用、晚期心肺疾病、解剖構造異常使移植技術上不可行、肝外惡性腫瘤、持續不遵醫囑等。嚴重腦血管病變導致日常生活完全依賴且無法重建，使病人無法從移植中獲益，屬於功能性障礙使移植無意義，在臨床上視同絕對禁忌。ABO 血型不合則不同：雖然約 70% 的肝臟 ABO 相同，但約 5% 為血型不相容（ABO-incompatible）的肝臟仍被使用，尤其在急性肝衰竭等緊急情況、等待時間壓力下。因此 ABO 血型不合是配型考量，但非禁止移植的絕對條件，屬於本題唯一「不是絕對禁忌症」的選項。",
       "options": {
         "A": "錯誤（此為絕對禁忌症）。無法控制的感染（uncontrolled sepsis/extrahepatic infection）明確列於 Sleisenger BOX 97.2 的絕對禁忌症清單，亦見於 Washington Manual 的一般禁忌症描述。活動性、無法控制的肝外感染若於移植前未根除，術後免疫抑制將使感染惡化，導致移植後死亡率極高。",
-        "B": "錯誤（此為絕對禁忌症）。晚期心肺功能障礙（advanced cardiac or pulmonary disease）明確列於 Sleisenger BOX 97.2。嚴重心臟病（如冠狀動脈疾病、嚴重心肌病）或肺疾病（如嚴重 COPD、肺纖維化）使病人無法承受移植手術的血動力學壓力，術後存活率極低。",
+        "B": "錯誤（此為絕對禁忌症）。晚期心肺功能障礙明確列於 Sleisenger BOX 97.2。嚴重心臟病（如冠狀動脈疾病、嚴重心肌病）或肺疾病（如嚴重 COPD、肺纖維化）使病人無法承受移植手術的血動力學壓力，術後存活率極低。",
         "C": "錯誤（此為絕對禁忌症）。嚴重腦血管病變導致日常生活無法自理且無法接受重建手術，代表病人有不可逆的嚴重神經功能損害，移植後難以自我照護、長期服藥及回診，且生活品質無法因移植而改善。雖未逐字出現在 Sleisenger BOX 97.2，但此狀況符合「解剖/功能異常使移植無意義」的精神，臨床上視為絕對禁忌。",
         "D": "正確（此為本題答案，不是絕對禁忌症）。ABO 血型不合並未列入 Sleisenger BOX 97.2 的絕對禁忌症清單。臨床上，在急性肝衰竭等緊急情況下，因等待時間壓力，ABO 不相容的肝臟仍會被使用（佔約 5%）。ABO 血型是器官分配與配型的考量因素，但並非不可克服的絕對障礙，故不是絕對禁忌症。"
       },
@@ -10945,9 +10945,9 @@
       "quick": "大腸水分吸收的主要驅動力是 Na+ 主動轉運，而非 Cl-；選項 D 將驅動力歸因於氯離子吸收，說法錯誤。",
       "background": "大腸每日從迴腸接收約 1.5 公升腸液，正常排便量僅約 0.1 公升，顯示大腸吸收了超過 90% 的進入液體。大腸（尤其遠端結腸）透過上皮鈉離子通道（ENaC）進行電性 Na+ 吸收，再由 Na+/K+-ATPase 將 Na+ 排出至漿膜側，水分沿滲透梯度被動跟隨 Na+ 吸收。在近端結腸，Na+/H+ 與 Cl-/HCO3- 交換偶聯，實現電中性 NaCl 吸收；Cl- 在此過程中是伴隨者而非主動驅動者。至於鉀離子，大腸上皮頂端膜 KCNMA1（MaxiK）通道是大腸主動分泌 K+ 的主要途徑，在慢性腎病患者體內，大腸可代償性增加 K+ 分泌以維持血鉀正常。",
       "options": {
-        "A": "正確。迴腸每日流入大腸的腸液約 1.5 公升，位於 1 至 2 公升的範圍內（Sleisenger Fig. 16.1：「leaving about 1.5 L to pass into the colon each day」）。",
+        "A": "正確。迴腸每日流入大腸的腸液約 1.5 公升，位於 1 至 2 公升的範圍內（Sleisenger Fig. 16.1 指出每日約有 1.5 公升通過進入大腸）。",
         "B": "正確。大腸會透過頂端膜 KCNMA1 通道主動分泌 K+；在慢性腎病情況下，大腸代償性增加 K+ 分泌以協助維持血鉀恆定（Sleisenger Ch.101：「helps maintain normokalemia」）。",
-        "C": "正確。大腸的液體最大吸收容量約可達 5 公升/天（遠超正常進入量 1.5 公升），此為大腸保有龐大吸收儲備容量的體現；Sleisenger 明確指出「the reserve absorptive capacity in the small intestine and colon is large」（p.226）。",
+        "C": "正確。大腸的液體最大吸收容量約可達 5 公升/天（遠超正常進入量 1.5 公升），此為大腸保有龐大吸收儲備容量的體現；Sleisenger 明確指出小腸與大腸的吸收儲備容量相當龐大（p.226）。",
         "D": "錯誤。大腸水分吸收的主要驅動力是 Na+（鈉離子）的轉運，而非 Cl-（氯離子）。Sleisenger Ch.101 明確指出：transepithelial Na+ 從黏膜側移向漿膜側驅動液體吸收（fluid absorption），而 Cl- 向反方向移動才驅動液體分泌（fluid secretion）。遠端結腸透過電性 Na+ 吸收完成最終脫水備糞。大腸確有吸收 Cl-（透過 Cl-/HCO3- 交換），但 Cl- 是伴隨吸收，並非水分吸收的驅動力。"
       },
       "references": [
@@ -10975,8 +10975,8 @@
       "quick": "後中線（posterior midline）是肛裂最常見的位置（>90%），而非最少見；選項 C 敘述相反，故 C 為錯誤答案。",
       "background": "肛裂（anal fissure）是肛門皮膚（anoderm）的線性撕裂傷，好發於肛管後中線，>90% 的肛裂位於後中線，約 10% 位於前中線，側邊肛裂極罕見。後中線血流灌注相對較差（Klosterhalfen 屍體血管造影研究），造成局部相對缺血，這也是後中線肛裂易慢性化並能被血管擴張劑（如 nitroglycerin、diltiazem）促進癒合的原因。急性肛裂最典型的症狀是解便時劇烈尖銳疼痛（如「剃刀割過」或「碎玻璃」感），可持續數分鐘至數小時，常伴隨鮮血。肛裂多因排便用力或大硬便通過，造成 anoderm 撕裂；慢性肛裂（>6 週）與內括約肌高張力及 anodermal 血流減少有關。治療方面：急性肛裂以高纖維、多喝水、坐浴等保守治療為主，慢性肛裂加用局部 nitroglycerin、diltiazem，或 botulinum toxin；外科治療標準術式為側邊內括約肌切開術（lateral internal sphincterotomy, LIS），治癒率可達 92–95%。",
       "options": {
-        "A": "正確。急性肛裂解便時尖銳疼痛（intense pain with passage of stool）確為最常見症狀，Sleisenger 描述患者感覺「如同剃刀或碎玻璃割過」。",
-        "B": "正確。肛裂的病因即為 anoderm 撕裂傷，Sleisenger 明確描述：「An anal fissure is a linear tear of the anoderm」，常因排大硬便或用力解便所致。",
+        "A": "正確。急性肛裂解便時尖銳疼痛確為最常見症狀，Sleisenger 描述患者感覺「如同剃刀或碎玻璃割過」。",
+        "B": "正確。肛裂的病因即為 anoderm 撕裂傷，Sleisenger 明確描述肛裂是 anoderm 的線性撕裂傷，常因排大硬便或用力解便所致。",
         "C": "錯誤（本題答案）。後中線（posterior midline）是肛裂「最常見」的位置（>90%），而非「最少見」。僅約 10% 在前中線；側邊肛裂如非前/後中線，反而需警惕 Crohn disease、結核、梅毒等特殊病因。",
         "D": "正確。側邊內括約肌切開術（lateral internal sphincterotomy, LIS）是慢性肛裂的標準外科治療，Sleisenger 記載治癒率達 92–95%，屬於「將側邊內括約肌部分切開」的手術方式。"
       },
@@ -11038,7 +11038,7 @@
           "display": "🔎 Seidelman JL, Mantyh CR, Anderson DJ. Surgical Site Infection Prevention: A Review. JAMA. 2023;329(3):244-252. doi:10.1001/jama.2022.24075.（經 OpenEvidence 查詢 20260613_1121）"
         }
       ],
-      "discordance": "⚠ 補述：本題官方答案 C（ETCO2 > 38 mmHg）在現有 SSI 系統性文獻（含 JAMA 2023 review、Cochrane 2018、WHO 2016、ASCRS 2024）中並未列為六大 RCT 支持的獨立 SSI 預防指標。OpenEvidence 查詢明確指出「The retrieved evidence does not identify maintaining ETCO2 >38 mmHg as a specific ERAS measure for SSI prevention.」本題答案 C 應以排除法理解：A、B、D 均為已知的 SSI 增加因素，C 為唯一不增加 SSI 風險的選項。若以最佳實證為準，維持 normothermia（>36°C）與血糖 < 150 mg/dL 才是第一線 SSI 預防措施。",
+      "discordance": "⚠ 補述：本題官方答案 C（ETCO2 > 38 mmHg）在現有 SSI 系統性文獻（含 JAMA 2023 review、Cochrane 2018、WHO 2016、ASCRS 2024）中並未列為六大 RCT 支持的獨立 SSI 預防指標。OpenEvidence 查詢明確指出：所檢索之證據並未將「維持 ETCO2 > 38 mmHg」列為 ERAS 中預防 SSI 的特定措施。本題答案 C 應以排除法理解：A、B、D 均為已知的 SSI 增加因素，C 為唯一不增加 SSI 風險的選項。若以最佳實證為準，維持 normothermia（>36°C）與血糖 < 150 mg/dL 才是第一線 SSI 預防措施。",
       "no_source": false
     },
     "113-inad_surgery-GI-6": {
@@ -11077,7 +11077,7 @@
       "options": {
         "A": "錯誤。小腸腺瘤最常見於十二指腸，其次才是空腸，迴腸最少見。Sleisenger 第 125 章指出，49% 的小腸腺癌（adenocarcinoma）位於十二指腸，對於良性腺瘤而言，十二指腸同樣是最好發部位，特別是在 FAP 患者中明確描述。選項 A 的順序（空腸→迴腸→十二指腸）與文獻相反。",
         "B": "正確。小腸腺瘤大多數無症狀（asymptomatic），多為單發性（solitary）；出現症狀時，最常見為腹痛（most frequent symptom），隱性血便佔 25–50% 的病例，阻塞也是主要表現。選項 B 所述「大多數無症狀、單發性，最常見症狀為出血和阻塞」符合 Sleisenger Table 125.1 及本文敘述。",
-        "C": "錯誤。絨毛狀腺瘤（villous adenoma）有更高的惡性化傾向，且直徑相對「較大」（not smaller）。Sleisenger 明確指出：「Tubular adenomas tend to be small, whereas those with villous architecture tend to be larger.」選項 C 描述絨毛狀腺瘤「直徑相對較小」，與教科書描述相反，故錯誤。",
+        "C": "錯誤。絨毛狀腺瘤（villous adenoma）有更高的惡性化傾向，且直徑相對較大。Sleisenger 明確指出，管狀腺瘤（tubular adenoma）通常較小，而具絨毛結構者則傾向較大。選項 C 描述絨毛狀腺瘤「直徑相對較小」，與教科書描述相反，故錯誤。",
         "D": "錯誤。Sleisenger 第 125 章 Endoscopic Therapy 節指出，EMR 與 ESD 是治療散發性小腸腺瘤的可行方式，完整切除率可達 98%，但復發率仍高（散發性患者達 37%，FAP 患者達 100%）。圈套器切除（snare cautery）主要用於個別息肉切除（FAP 監測）；教科書並未描述「圈套器切除 + 熱消融」為 EMR 的等效替代方案（復發風險相似）。選項 D 的說法在 Sleisenger 中無對應支持，且復發風險數據不支持「相似」之說。"
       },
       "references": [
@@ -11101,7 +11101,7 @@
       "quick": "Warfarin（VKA）需於手術前 5 天停藥，以確保術前 INR 降至安全範圍（<1.5），因此選項 B 正確。",
       "background": "全胃切除屬高出血風險手術，術前需仔細管理抗凝藥及口服降血糖藥的停藥時機。Warfarin 為維生素 K 拮抗劑（VKA），半衰期約 36 小時，停藥後 INR 需 4–5 天才能降至安全手術範圍（<1.5），故一般建議術前 5 天停藥；必要時術前一日口服維生素 K 加速 INR 下降。直接口服抗凝劑（DOAC，如 rivaroxaban）半衰期短（rivaroxaban 約 9 小時），一般建議低出血風險手術前停 1 天、高出血風險手術前停 2 天，而非手術當天才停。磺醯脲類（sulfonylureas）及 DPP-4 抑制劑等口服降血糖藥屬「其他口服降血糖藥」，在手術當天停藥即可（並非術前 3 或 7 天）；只有 metformin 需提前 1 天停藥以避免乳酸中毒風險。",
       "options": {
-        "A": "錯誤。Sulfonylureas 應於手術「當天」停藥（withheld on the operative day），並非術前 3 天；提早停藥時間過長，且無根據。",
+        "A": "錯誤。Sulfonylureas 應於手術「當天」停藥，並非術前 3 天；提早停藥時間過長，且無根據。",
         "B": "正確。Warfarin（VKA）對於重大出血風險手術（如全胃切除），需於術前 5 天停藥，以使 INR 降至 <1.5 的安全手術水準。",
         "C": "錯誤。Rivaroxaban 為 Xa 因子直接抑制劑，半衰期約 9 小時。高出血風險手術需停 2 天以上（3–4 個半衰期），手術當天才停藥遠遠不足，術中出血風險顯著增加。",
         "D": "錯誤。DPP-4 抑制劑屬於「其他口服降血糖藥」，手術當天停藥即可，不需提前 7 天停藥；術前 7 天停藥無任何臨床依據。"
@@ -11130,7 +11130,7 @@
         "A": "正確。糞便乳鐵蛋白（lactoferrin）與鈣衛蛋白（calprotectin）反映腸道黏膜活動性發炎程度：急性 flare 時兩者顯著升高（腸道發炎活躍），單純慢性纖維性狹窄則較低。藉此可輔助區分「急性發炎造成的功能性狹窄（可藥物治療）」vs.「慢性纖維化固定狹窄（需手術或內視鏡）」，有助決定初步處置策略。",
         "B": "正確。NOD2（CARD15）、TLR4、CX3CR1 等遺傳標記與 CD 發病機制及疾病表現型相關。在精準醫療的架構下，研究顯示 NOD2 多型性影響免疫反應路徑（如 anti-TNF、生物製劑療效）；CX3CR1 係 Fractalkine 的受體，在 CD 中 IEC 表現增加，也被研究作為藥物反應預測因子。本選項敘述「可用於預測藥物療效」在精準醫療研究脈絡下成立。",
         "C": "正確。狹窄成形術（stricturoplasty）用於局部纖維性狹窄，保留腸道長度，避免短腸症候群風險。Sleisenger 教科書明確指出：此保留腸道手術與切除再吻合術有「相似的長期結果（similar long-term outcomes）」，且對散在多發性狹窄或整體腸道長度不足時尤為適合。",
-        "D": "錯誤（本題答案）。長期 CD 狹窄確實具有惡性轉化風險，手術時（行狹窄成形術）應在狹窄部位取組織切片排除惡性腫瘤，此為正確原則。然而 Washington Manual 明確敘述「biopsies should be obtained to rule out cancer at stricture sites」——此處的「biopsies」指常規活組織切片（forceps biopsy / tissue biopsy，送例行病理）。「冷凍切片（frozen section）」是一種術中即時病理技術（術中 20–30 分鐘出結果），通常用於需要立即改變術式決策時（如確認腫瘤邊緣是否乾淨），並非 CD 狹窄部位排除惡性的標準建議做法。本選項將「常規切片」偷換為「冷凍切片」，使敘述錯誤。"
+        "D": "錯誤（本題答案）。長期 CD 狹窄確實具有惡性轉化風險，手術時（行狹窄成形術）應在狹窄部位取組織切片排除惡性腫瘤，此為正確原則。然而 Washington Manual 明確敘述「應在狹窄部位取 biopsies 以排除惡性腫瘤」——此處的「biopsies」指常規活組織切片（forceps biopsy / tissue biopsy，送例行病理）。「冷凍切片（frozen section）」是一種術中即時病理技術（術中 20–30 分鐘出結果），通常用於需要立即改變術式決策時（如確認腫瘤邊緣是否乾淨），並非 CD 狹窄部位排除惡性的標準建議做法。本選項將「常規切片」偷換為「冷凍切片」，使敘述錯誤。"
       },
       "references": [
         {
@@ -11149,10 +11149,10 @@
       "quick": "選項 B 錯誤：CTA 用於急性消化道出血定位時，標準協定採靜脈注射顯影劑（多相），不使用腸內顯影劑（口服顯影劑會遮蔽活動性出血的顯影劑外滲訊號）；偵測閾值 ≥0.3 mL/min 本身正確，但加入腸內顯影劑的描述有誤。",
       "background": "消化道出血定位影像學包含三大工具：（1）Tc-99m 標記紅血球閃爍掃描（Tagged RBC scan）：偵測閾值最低（Pocket：≥0.04 mL/min；Washington：0.2 mL/min），可在 24 小時內重複取像，但空間解析度差、定位不精確。（2）CT 血管攝影（CTA）：閾值 ≥0.3 mL/min，較 Tagged RBC scan 取得更快，對活動性出血的定位解剖精確度高；標準協定使用多相靜脈注射顯影劑（通常為非顯影前期、動脈期、門靜脈期），不加口服或腸腔內顯影劑，因為腸腔內高密度物質會掩蓋顯影劑外滲的訊號，影響判讀。（3）動脈攝影（Angiography）：閾值 ≥0.5 mL/min，可同步行介入性栓塞治療。鼻胃管灌洗抽吸若僅見膽汁與非血性液體，仍不能排除十二指腸來源出血（NG aspirate 陰性不等於上消化道出血陰性）。CTA 目前公認為小腸出血的首選診斷影像方式（優於 CT enterography），但膠囊內視鏡則更用於反覆不明原因小腸出血（EGD + 大腸鏡均陰性後）。",
       "options": {
-        "A": "正確。NG aspirate 抽到膽汁與非血性液體屬「陰性」，但陰性結果不能排除十二指腸來源的上消化道出血（因 Treitz 韌帶前的十二指腸出血可能未逆流到胃）。Washington Manual 明確指出「A negative NG aspirate does not rule out bleeding from a duodenal source」（[2] p.623），故 A 述正確。",
+        "A": "正確。NG aspirate 抽到膽汁與非血性液體屬「陰性」，但陰性結果不能排除十二指腸來源的上消化道出血（因 Treitz 韌帶前的十二指腸出血可能未逆流到胃）。Washington Manual 明確指出，鼻胃管抽吸液陰性並不能排除十二指腸來源的出血（[2] p.623），故 A 述正確。",
         "B": "錯誤（官方答案）。CTA 偵測閾值 ≥0.3 mL/min 本身正確，但選項描述「腸內顯影劑（intraluminal contrast）」為誤。急性消化道出血 CTA 的標準協定使用多相靜脈注射顯影劑，不加口服或腸腔顯影劑——口服/腸腔高密度顯影劑會遮蔽活動性出血所造成的顯影劑外滲訊號，干擾診斷。",
         "C": "正確。Tc-99m（鎝-99m）標記紅血球閃爍掃描：偵測閾值 ≥0.04 mL/min（Pocket Medicine [1] p.176），掃描影像可在 24 小時內重複取得（此點正確），但其空間解析度較低、定位精確度較差（此點亦正確）。",
-        "D": "正確。CTA 是小腸（中消化道）出血的首選診斷影像方式，優於 CT enterography（Washington Manual [2] p.624 明確提及「CTA…has an advantage over CT enterography」）；在緊急 colonoscopy 無法進行的活動性出血情況下尤為有用。"
+        "D": "正確。CTA 是小腸（中消化道）出血的首選診斷影像方式，優於 CT enterography（Washington Manual [2] p.624 明確指出 CTA 在此較 CT enterography 具優勢）；在緊急 colonoscopy 無法進行的活動性出血情況下尤為有用。"
       },
       "references": [
         {
@@ -11299,12 +11299,12 @@
     },
     "114-common-GI-50": {
       "quick": "機械性腸阻塞早期因腸道用力克服梗阻而產生高亢金屬音（high-pitched tinkling bowel sounds）；麻痺性腸阻塞及腸破裂後腹膜炎則腸音減弱至消失。",
-      "background": "腸阻塞依機制分為機械性（mechanical）與功能性（paralytic/adynamic）兩大類，兩者腸蠕動音的特徵截然相反。機械性腸阻塞（如沾黏、疝氣嵌頓、腫瘤）在早期，梗阻點近端腸管持續收縮企圖推送內容物，產生高亢、音調如金屬敲擊的腸蠕動音（high-pitched 「musical」 tinkling bowel sounds）及陣發性腸鳴（borborygmi/rushes）；隨病程延長腸管疲憊後才逐漸靜音。麻痺性腸阻塞（ileus）因腸蠕動本身受抑，腸音從一開始就缺乏或極度減弱（absent or hypoactive from the beginning）。急性腸胃炎（gastroenteritis）腸蠕動加速，腸音偏活躍，但不具高亢金屬特質。腸破裂（perforation）後引發腹膜炎，腸音通常消失。因此，高亢金屬音是機械性腸阻塞最具鑑別意義的聽診發現，此亦為臨床教科書經典描述。",
+      "background": "腸阻塞依機制分為機械性（mechanical）與功能性（paralytic/adynamic）兩大類，兩者腸蠕動音的特徵截然相反。機械性腸阻塞（如沾黏、疝氣嵌頓、腫瘤）在早期，梗阻點近端腸管持續收縮企圖推送內容物，產生高亢、音調如金屬敲擊的腸蠕動音（high-pitched 「musical」 tinkling bowel sounds）及陣發性腸鳴（borborygmi/rushes）；隨病程延長腸管疲憊後才逐漸靜音。麻痺性腸阻塞（ileus）因腸蠕動本身受抑，腸音從一開始就缺乏或極度減弱。急性腸胃炎（gastroenteritis）腸蠕動加速，腸音偏活躍，但不具高亢金屬特質。腸破裂（perforation）後引發腹膜炎，腸音通常消失。因此，高亢金屬音是機械性腸阻塞最具鑑別意義的聽診發現，此亦為臨床教科書經典描述。",
       "options": {
         "A": "錯。急性腸胃炎（acute gastroenteritis）腸蠕動增加，腸音可活躍，但並非高亢金屬音；金屬音特指腸管在梗阻點近端用力收縮時所發出的特殊聲音，腸胃炎無此病理機制。",
         "B": "正確。機械性腸阻塞（mechanical intestinal obstruction）早期，梗阻近端腸管持續強力收縮以突破梗阻，產生高亢、音調似金屬撞擊聲（high-pitched tinkling/metallic sounds）及腸鳴叢發（borborygmi）。此為機械性腸阻塞的經典聽診表現，是臨床鑑別診斷的關鍵。",
         "C": "錯。腸破裂（perforation）所致腹膜炎時，腸蠕動受腹膜刺激抑制，腸音通常減弱至消失（absent to hypoactive），而非高亢金屬音。",
-        "D": "錯。麻痺性腸阻塞（paralytic ileus）的特徵正是腸蠕動自一開始即消失或極度減弱（absent or hypoactive from the beginning），與機械性阻塞早期腸音亢進呈對比，也是兩者重要的鑑別點。"
+        "D": "錯。麻痺性腸阻塞（paralytic ileus）的特徵正是腸蠕動自一開始即消失或極度減弱，與機械性阻塞早期腸音亢進呈對比，也是兩者重要的鑑別點。"
       },
       "references": [
         {
@@ -11325,7 +11325,7 @@
     },
     "114-common-GI-51": {
       "quick": "無法站立時，左側躺（left lateral decubitus）KUB 是偵測游離腹腔氣體最有效的替代體位：病人側臥於左側，游離空氣因浮力上升至右側，積聚於肝臟與右外側腹壁之間，提供最佳的氣體對比影像。",
-      "background": "消化性潰瘍穿孔（perforated peptic ulcer）為外科急症，游離腹腔氣體（pneumoperitoneum / free air）的偵測是診斷的第一步。標準方式是直立胸部 X 光（upright chest film）或直立腹部平片，可見橫膈下游離空氣（free air under the diaphragm）；然而，長期臥床或無法站立的病人不能完成直立攝影。此時可改用水平光束攝影（horizontal beam radiography）配合側臥體位（decubitus view）。\n\n生理基礎：游離氣體因密度最輕，在任何體位均會浮到最高處。病人左側臥（left lateral decubitus）時，腹腔最高點在右側，游離空氣上升至肝臟右側面與右外側腹壁之間，形成清晰的透亮條（lucent stripe）。這個位置利用肝臟（均勻高密度軟組織）作為天然對比背景，即使少量（1–2 mL）游離氣體亦可顯影。\n\n若改用右側臥（right lateral decubitus），游離空氣移至左側，緊鄰胃泡或腸道氣體，難以區分，影像判讀困難。因此左側臥 KUB 是無法站立病人偵測游離空氣的首選替代體位。\n\n根據 WSES 指引（2020），直立 X 光與左側臥 X 光偵測穿孔游離氣體的診斷準確率相似（約 75%）；CT 的靈敏度最高（約 98%），是條件允許時的首選。",
+      "background": "消化性潰瘍穿孔（perforated peptic ulcer）為外科急症，游離腹腔氣體（pneumoperitoneum / free air）的偵測是診斷的第一步。標準方式是直立胸部 X 光（upright chest film）或直立腹部平片，可見橫膈下游離空氣；然而，長期臥床或無法站立的病人不能完成直立攝影。此時可改用水平光束攝影（horizontal beam radiography）配合側臥體位（decubitus view）。\n\n生理基礎：游離氣體因密度最輕，在任何體位均會浮到最高處。病人左側臥（left lateral decubitus）時，腹腔最高點在右側，游離空氣上升至肝臟右側面與右外側腹壁之間，形成清晰的透亮條（lucent stripe）。這個位置利用肝臟（均勻高密度軟組織）作為天然對比背景，即使少量（1–2 mL）游離氣體亦可顯影。\n\n若改用右側臥（right lateral decubitus），游離空氣移至左側，緊鄰胃泡或腸道氣體，難以區分，影像判讀困難。因此左側臥 KUB 是無法站立病人偵測游離空氣的首選替代體位。\n\n根據 WSES 指引（2020），直立 X 光與左側臥 X 光偵測穿孔游離氣體的診斷準確率相似（約 75%）；CT 的靈敏度最高（約 98%），是條件允許時的首選。",
       "options": {
         "A": "錯誤。平躺胸部 AP view（supine）：病人仰躺時，游離空氣平均分布於腹腔前方，不會集中至易辨識的位置；橫膈下氣體與前方重疊腸氣難以辨別，且橫臥胸部 AP 攝影的幾何放大效應也降低細節清晰度，對游離空氣的偵測率極低，不是正確選擇。",
         "B": "正確。左側躺（left lateral decubitus）KUB：病人左側臥，游離空氣上浮至右側，聚積於肝臟右側面與右外側腹壁之間，以水平光束拍攝可清晰呈現氣體與肝臟之間的透亮線；此為無法站立病人偵測游離腹腔氣體的最佳替代 X 光體位。",
@@ -11351,12 +11351,12 @@
     },
     "114-common-GI-52": {
       "quick": "心包填塞（cardiac tamponade）是獨立的心包急症，並非心臟衰竭本身的常見徵象或症狀，故答案為 C。",
-      "background": "心臟衰竭（heart failure, HF）的症狀可依病生理分為三大群：(1) 低心輸出量症狀——疲勞、乏力、食慾不振（anorexia）、運動耐受力下降；(2) 左側衰竭充血症狀——呼吸困難、端坐呼吸、陣發性夜間呼吸困難；(3) 右側衰竭充血症狀——周邊水腫、肝腫大（congestive hepatomegaly）、腹水、飽脹感。夜間頻尿（nocturia）亦屬公認 HF 症狀，機制為仰臥時心輸出量與腎臟灌流改善，加上利尿劑延遲作用，使夜間尿量增加。心包填塞（cardiac tamponade）則是因心包積液壓迫心腔、靜脈回流受阻所致的心因性休克（cardiogenic shock without pulmonary edema），其三聯徵為遠離性心音、頸靜脈怒張、低血壓（Beck's triad）——此為獨立的心包疾病緊急狀態，並非心臟衰竭的常見表現。",
+      "background": "心臟衰竭（heart failure, HF）的症狀可依病生理分為三大群：(1) 低心輸出量症狀——疲勞、乏力、食慾不振（anorexia）、運動耐受力下降；(2) 左側衰竭充血症狀——呼吸困難、端坐呼吸、陣發性夜間呼吸困難；(3) 右側衰竭充血症狀——周邊水腫、肝腫大（congestive hepatomegaly）、腹水、飽脹感。夜間頻尿（nocturia）亦屬公認 HF 症狀，機制為仰臥時心輸出量與腎臟灌流改善，加上利尿劑延遲作用，使夜間尿量增加。心包填塞（cardiac tamponade）則是因心包積液壓迫心腔、靜脈回流受阻所致的心因性休克（無肺水腫的低血壓型休克），其三聯徵為遠離性心音、頸靜脈怒張、低血壓（Beck's triad）——此為獨立的心包疾病緊急狀態，並非心臟衰竭的常見表現。",
       "options": {
-        "A": "正確（屬 HF 常見症狀）。疲勞與食慾不振均為低心輸出量症狀：心輸出量不足導致骨骼肌與消化道灌流降低，引起全身乏力與食慾下降。Pocket Medicine 明列「Low output: fatigue, weakness, exercise intolerance, anorexia」為 HF 病史特徵（p.46）。此選項確實是 HF 常見徵象，不符題目所問的「不是常見徵象」，故 A 不是正確答案。",
-        "B": "正確（屬 HF 常見症狀）。夜間頻尿是 HF 的認可症狀：仰臥位時心輸出量與腎臟灌流改善，加上利尿劑延遲效應，導致夜間尿量增加，可干擾睡眠。Harrison 明確記載「Nocturia due to improved CO and renal perfusion in the supine position, in addition to delayed diuretic effects」（p.2026）。此選項屬 HF 常見症狀，不符題目所問，故 B 不是正確答案。",
-        "C": "錯誤（不屬 HF 的常見徵象，為正確答案）。心包填塞（cardiac tamponade）是心包積液積聚使心包內壓升高、壓迫心腔，導致靜脈回流受阻與心輸出量驟降，其臨床特徵為 Beck's triad（遠離性心音、頸靜脈怒張、低血壓）及奇脈（pulsus paradoxus）。Pocket Medicine 明確指出其表現為「Cardiogenic shock (hypotension, fatigue) without pulmonary edema」（p.69）——這是獨立的心包急症，病因包括惡性腫瘤、感染、尿毒症等，並非心臟衰竭本身的徵象或症狀。",
-        "D": "正確（屬 HF 常見症狀）。肝腫大（hepatomegaly）是右側心臟衰竭的早期體徵，由體靜脈充血引起；隨右側 HF 進展可出現腹水（ascites）、黃疸（jaundice）。Harrison 記載「Hepatomegaly is an early sign of systemic venous congestion」（p.2027）；Pocket Medicine 列「congestive hepatomegaly, ± ascites and jaundice, peripheral edema」為限制性心肌病及右側 HF 體徵（p.55），並描述「right-sided → peripheral edema, RUQ discomfort, bloating, satiety」（p.46）。此選項確實是 HF 常見徵象，不符題目所問，故 D 不是正確答案。"
+        "A": "正確（屬 HF 常見症狀）。疲勞與食慾不振均為低心輸出量症狀：心輸出量不足導致骨骼肌與消化道灌流降低，引起全身乏力與食慾下降。Pocket Medicine 明列低心輸出量表現包含疲勞、乏力、運動耐受力下降與食慾不振，為 HF 病史特徵（p.46）。此選項確實是 HF 常見徵象，不符題目所問的「不是常見徵象」，故 A 不是正確答案。",
+        "B": "正確（屬 HF 常見症狀）。夜間頻尿是 HF 的認可症狀：仰臥位時心輸出量與腎臟灌流改善，加上利尿劑延遲效應，導致夜間尿量增加，可干擾睡眠。Harrison 明確記載夜間頻尿源於仰臥位時心輸出量與腎臟灌流改善，再加上利尿劑的延遲效應（p.2026）。此選項屬 HF 常見症狀，不符題目所問，故 B 不是正確答案。",
+        "C": "錯誤（不屬 HF 的常見徵象，為正確答案）。心包填塞（cardiac tamponade）是心包積液積聚使心包內壓升高、壓迫心腔，導致靜脈回流受阻與心輸出量驟降，其臨床特徵為 Beck's triad（遠離性心音、頸靜脈怒張、低血壓）及奇脈（pulsus paradoxus）。Pocket Medicine 明確指出其表現為無肺水腫的心因性休克（低血壓、疲勞）（p.69）——這是獨立的心包急症，病因包括惡性腫瘤、感染、尿毒症等，並非心臟衰竭本身的徵象或症狀。",
+        "D": "正確（屬 HF 常見症狀）。肝腫大（hepatomegaly）是右側心臟衰竭的早期體徵，由體靜脈充血引起；隨右側 HF 進展可出現腹水（ascites）、黃疸（jaundice）。Harrison 記載肝腫大是體靜脈充血的早期徵象（p.2027）；Pocket Medicine 列充血性肝腫大、可伴腹水與黃疸、周邊水腫為限制性心肌病及右側 HF 體徵（p.55），並描述右側衰竭會出現周邊水腫、右上腹不適、腹脹與早飽感（p.46）。此選項確實是 HF 常見徵象，不符題目所問，故 D 不是正確答案。"
       },
       "references": [
         {
@@ -11423,7 +11423,7 @@
       "options": {
         "A": "①②：兩敘述均錯誤。①靜脈營養應優先——錯，只要可行應優先選腸道營養（EN 優先於 PN）。②腹瀉時使用止瀉藥及減少纖維素——部分錯，止瀉藥可列為試用選項，但「減少纖維素」並非建議，指引反而可考慮試用纖維補充或富含纖維的配方。故 A 不選。",
         "B": "②③：②已如上分析有誤（「減少纖維素」部分不正確），且 B 配對②③組合；由於②錯誤，B 不可選。",
-        "C": "③④（正確）：③鼻胃管放置錯位（含誤入氣管支氣管樹）在意識不清病人較常見——正確，Washington Manual 明確載明 misplacement including intubation of the tracheobronchial tree occurs more often in unconscious patients。④有長期管灌需求者建議放置胃造廔管——正確，Washington Manual 載明長期（>6 週）管灌通常需要 gastrostomy 或 jejunostomy tube 經內視鏡或放射輔助置入。",
+        "C": "③④（正確）：③鼻胃管放置錯位（含誤入氣管支氣管樹）在意識不清病人較常見——正確，Washington Manual 明確載明管路放置錯位（含誤入氣管支氣管樹）在意識不清病人較常發生。④有長期管灌需求者建議放置胃造廔管——正確，Washington Manual 載明長期（>6 週）管灌通常需要 gastrostomy 或 jejunostomy tube 經內視鏡或放射輔助置入。",
         "D": "①④：①靜脈營養優先——錯（同 A 選項分析），EN 優先於 PN 是基本原則。④雖正確，但①錯誤使整組不成立，故 D 不選。"
       },
       "references": [
@@ -11449,7 +11449,7 @@
     },
     "114-inad_im-GI-10": {
       "quick": "病人有剖腹產與膽囊切除手術病史（腹腔沾黏高風險），KUB 呈現小腸擴張且大腸塌陷的典型影像，最符合沾黏性小腸阻塞（adhesive SBO）。",
-      "background": "沾黏性小腸阻塞（adhesive small bowel obstruction, adhesive SBO）是西方國家急性小腸阻塞最常見的原因。任何腹腔或骨盆手術皆可在癒合過程中形成腹膜沾黏（peritoneal adhesions）；剖腹產（cesarean section）與膽囊切除（cholecystectomy）均為典型的手術誘因，手術史是診斷急性 SBO 最具預測力的單一因素。臨床上以「四大症狀」為特徵：痙攣性腹痛（colicky abdominal pain）、噁心嘔吐、腹脹、排便或排氣停止（constipation/obstipation）。腹部 X 光（KUB）是初步診斷利器，典型影像為多條擴張的氣液充填小腸腸袢（dilated small bowel loops），合併大腸塌陷或無氣（decompressed colon）；不等高的氣液面（air-fluid levels at unequal heights）與「串珠徵（string of pearls）」是高度特異的影像表現。大腸阻塞在 KUB 上主要呈現結腸擴張，臨床上以漸進性排便困難為主，嘔吐為晚期表現；缺血性大腸炎的典型症狀為血便與左下腹痛，無小腸擴張；小腸憩室炎極為罕見，且無典型多段小腸擴張影像。",
+      "background": "沾黏性小腸阻塞（adhesive small bowel obstruction, adhesive SBO）是西方國家急性小腸阻塞最常見的原因。任何腹腔或骨盆手術皆可在癒合過程中形成腹膜沾黏（peritoneal adhesions）；剖腹產（cesarean section）與膽囊切除（cholecystectomy）均為典型的手術誘因，手術史是診斷急性 SBO 最具預測力的單一因素。臨床上以「四大症狀」為特徵：痙攣性腹痛（colicky abdominal pain）、噁心嘔吐、腹脹、排便或排氣停止（constipation/obstipation）。腹部 X 光（KUB）是初步診斷利器，典型影像為多條擴張的氣液充填小腸腸袢（dilated small bowel loops），合併大腸塌陷或無氣（decompressed colon）；不等高的氣液面與「串珠徵（string of pearls）」是高度特異的影像表現。大腸阻塞在 KUB 上主要呈現結腸擴張，臨床上以漸進性排便困難為主，嘔吐為晚期表現；缺血性大腸炎的典型症狀為血便與左下腹痛，無小腸擴張；小腸憩室炎極為罕見，且無典型多段小腸擴張影像。",
       "options": {
         "A": "正確。病人有剖腹產及膽囊切除雙重手術史，為腹腔沾黏的高風險因素；突發腹痛、噁心嘔吐加上 KUB 呈現典型小腸擴張、大腸塌陷影像，高度符合沾黏性 SBO 的診斷。Sleisenger 指出手術史是急性 SBO 最重要的預測因子，且沾黏是急性 SBO 最常見的病因。",
         "B": "錯誤。大腸阻塞（LBO）在 KUB 上主要表現為結腸擴張（colonic dilation），而非小腸多段擴張；臨床上以腹脹與漸進性便秘為主，嘔吐通常為晚期症狀。此病人急性起病、早期嘔吐、以及影像上的小腸特徵，皆不符 LBO。",
@@ -11633,10 +11633,10 @@
       "quick": "大腸直腸癌發生率男女相近（至少在美國），並非男性明顯高於女性，因此選項 A 為錯誤敘述。",
       "background": "大腸直腸癌（CRC）是全球常見惡性腫瘤。根據 Sleisenger（2020），美國 CRC 發生率男女相近，而非男高於女；全球數據雖顯示多數地區男性發生率略高，但差距遠小於許多其他癌症，且在美國此差異不顯著。高脂肪飲食確為重要風險因子（Sleisenger §Fat, Bile Acids, Bacteria）；阿斯匹靈（aspirin）與 NSAIDs 則有保護作用，可降低 CRC 相關死亡率約 40–50%（Sleisenger §Arachidonic Acid, Eicosanoids, COX-2），機制與抑制 COX-2、減少前列腺素合成有關。腺瘤性瘜肉（adenomatous polyp）經多步驟基因突變（APC → K-ras → DCC/p53）演進為腺癌，是大多數 CRC 的前驅病灶（Sleisenger §Predisposing Factors；Pocket Medicine p.193）。",
       "options": {
-        "A": "【錯誤，為本題答案】Sleisenger（p.2598）明確指出「In the USA, CRC incidence rates in men and women are similar（在美國，CRC 發生率男女相近）」，現行美國數據一生罹患風險為男性 1/21、女性 1/23，差距甚微。因此「男性發生率高於女性」的敘述在美國脈絡下不成立，為錯誤選項。",
+        "A": "【錯誤，為本題答案】Sleisenger（p.2598）明確指出，在美國 CRC 發生率男女相近，現行美國數據一生罹患風險為男性 1/21、女性 1/23，差距甚微。因此「男性發生率高於女性」的敘述在美國脈絡下不成立，為錯誤選項。",
         "B": "【正確】臨床研究顯示每日服用 aspirin 或 NSAIDs 者，CRC 相關死亡率降低約 40–50%（Sleisenger p.2603）。機制涉及抑制 COX-2、減少前列腺素合成，進而減少腫瘤細胞增殖並促進凋亡。此為 CRC 化學預防的重要依據。",
-        "C": "【正確】高脂肪飲食為 CRC 明確風險因子。Sleisenger（p.2601）指出「diets containing large percentages of fat predispose to CRC」，機制包括：↑ 膽汁酸分泌 → 腸道細菌轉化為次級膽汁酸 → 促進結腸上皮增殖。Pocket Medicine（p.193）亦將「↑ dietary fat」列為瘜肉與 CRC 風險因子。",
-        "D": "【正確】Sleisenger（p.2614）明確指出「most CRCs arise from pre-existing adenomas（大多數 CRC 源自先前存在的腺瘤）」。APC 基因突變啟動腺瘤形成（tumor initiation），後續 K-ras、DCC、p53 突變推進腺瘤至癌（tumor progression），此即「腺瘤-癌序列（adenoma-carcinoma sequence）」，為 CRC 發生的主要分子機制。"
+        "C": "【正確】高脂肪飲食為 CRC 明確風險因子。Sleisenger（p.2601）指出高脂肪佔比的飲食會增加罹患 CRC 的風險，機制包括：↑ 膽汁酸分泌 → 腸道細菌轉化為次級膽汁酸 → 促進結腸上皮增殖。Pocket Medicine（p.193）亦將「↑ dietary fat」列為瘜肉與 CRC 風險因子。",
+        "D": "【正確】Sleisenger（p.2614）明確指出，大多數 CRC 源自先前存在的腺瘤。APC 基因突變啟動腺瘤形成（tumor initiation），後續 K-ras、DCC、p53 突變推進腺瘤至癌（tumor progression），此即「腺瘤-癌序列（adenoma-carcinoma sequence）」，為 CRC 發生的主要分子機制。"
       },
       "references": [
         {
@@ -11840,7 +11840,7 @@
       "background": "癌症末期病人腸胃道症狀管理遵循「症狀導向、以舒適為目標」原則，與一般急性處置的思維不同。\n\n惡性幽門狹窄（malignant pyloric obstruction）是腫瘤直接壓迫或腫瘤周邊發炎水腫造成胃出口阻塞，臨床以頑固性嘔吐為主訴。Glucocorticoids（如 dexamethasone）可藉減輕腫瘤周邊水腫，降低阻塞程度，同時透過中樞抑制前列腺素合成及調節血清素等機制發揮止吐作用，是惡性腸道梗阻非手術治療的有效輔助選項。\n\n食慾不振在晚期癌症極為普遍，積極高營養補充對預後無益，甚至增加病人負擔；安寧原則是依病人意願少量進食，不強迫。\n\n惡性腹水的病理機轉（腹膜癌病造成的外滲液）與肝硬化腹水（門脈高壓）不同，利尿劑療效有限，現有資料不支持其常規使用，應限制使用而非以「避免脫水」為由一概禁止。\n\n便秘的處理首要是使用刺激型瀉劑（如 senna）並維持足夠液體攝取；減少液體攝取會加重便秘及腸道不適。",
       "options": {
         "A": "錯。積極會診營養師提供高營養食物並不符合安寧緩和原則。晚期癌症積極的營養補充既無法改善腫瘤反應，也無法延長存活，反而可能增加病人負擔（如腹水、水腫加重）。食慾不振應以症狀處理為主，依病人意願提供喜好的少量食物，無需強調高熱量飲食。",
-        "B": "正確。類固醇（glucocorticoids）可減輕惡性幽門狹窄（腫瘤壓迫）造成的局部水腫，同時具有輔助止吐作用，是非手術緩和治療的有效輔助措施。Sleisenger 明確列出：「Glucocorticoids have been suggested to reduce edema and nausea, providing an adjunct in nonoperative treatment」（惡性腸道梗阻）。",
+        "B": "正確。類固醇（glucocorticoids）可減輕惡性幽門狹窄（腫瘤壓迫）造成的局部水腫，同時具有輔助止吐作用，是非手術緩和治療的有效輔助措施。Sleisenger 明確列出：類固醇被認為可減輕水腫與噁心，在惡性腸道梗阻的非手術治療中可作為輔助。",
         "C": "錯。惡性腹水（malignant ascites）的治療以重複治療性腹腔穿刺（therapeutic paracentesis）為主；利尿劑在惡性腹水療效有限，現有資料基礎薄弱，應「受限」使用，而非因「避免脫水」而禁用。此選項理由不正確，且一概禁止利尿劑的說法過於絕對。",
         "D": "錯。緩解便秘的首要步驟是使用刺激型瀉劑（如 senna）並維持或增加液體攝取，以促進腸蠕動及軟化糞便。減少液體攝取會加重便秘，為反方向的處置，明顯錯誤。"
       },
@@ -11871,7 +11871,7 @@
       "options": {
         "A": "錯誤。acetaminophen 500 mg q4h = 每日 3 g，低於成人上限 4 g/d，增量至上限僅在第一階藥物微調，無法達成 WHO 第二階升階效果；若疼痛評分持續 6/10，應改為加上輕型類鴉片，而非單純增加 acetaminophen。",
         "B": "錯誤。celecoxib 屬 COX-2 選擇性抑制劑，仍為 NSAIDs 類；CKD 第三期患者使用 NSAIDs（含 COX-2 抑制劑）會進一步減少前列腺素依賴性腎臟血流，加重腎功能惡化，為明確禁忌。",
-        "C": "正確。tramadol 為 WHO 第二階輕型類鴉片，依指引應「加在」原有 acetaminophen 上，適用於中度癌痛（NRS 4–6）。口服 tramadol 25 mg q6h 起始（最高 400 mg/d），符合 WHO「by mouth, by the ladder, by the clock」原則；CKD 第三期對 tramadol 需注意劑量調整，但仍優於禁忌的 NSAIDs 或非必要的靜脈嗎啡。",
+        "C": "正確。tramadol 為 WHO 第二階輕型類鴉片，依指引應「加在」原有 acetaminophen 上，適用於中度癌痛（NRS 4–6）。口服 tramadol 25 mg q6h 起始（最高 400 mg/d），符合 WHO「口服給藥、按階梯、按時給藥」原則；CKD 第三期對 tramadol 需注意劑量調整，但仍優於禁忌的 NSAIDs 或非必要的靜脈嗎啡。",
         "D": "錯誤。靜脈注射 morphine 屬 WHO 第三階且為非口服途徑，用於嚴重疼痛（NRS ≥7）或無法口服時。目前疼痛為中度（6/10）且病人可口服，應先嘗試第二階口服輕型類鴉片，不宜跳過第二階直接改用 IV morphine。"
       },
       "references": [
@@ -12011,7 +12011,7 @@
       "quick": "HIV 感染本身不是肝臟移植的禁忌症；在有效抗病毒治療後，HIV 病人在符合條件下（病毒量測不到、CD4 達門檻）仍可接受肝臟移植，故選項 A 描述的狀況為「錯誤」的禁忌症。",
       "background": "肝臟移植（LT）的禁忌症隨醫療進步持續演變。目前公認的絕對禁忌症包含：（1）無法控制的肝外感染/敗血症（如真菌血症）；（2）AIDS（不可控制的愛滋病，有別於 HIV 感染）；（3）晚期心肺疾病；（4）肝外惡性腫瘤；（5）多器官衰竭；（6）急性肝衰竭（ALF）合併持續顱內壓（ICP）> 50 mmHg 或腦灌流壓（CPP）< 40 mmHg（即不可逆腦損傷）；（7）無法控制的敗血症。\n\n針對 HIV：自高效能抗反轉錄病毒療法（HAART）問世後，受控制的 HIV 感染（病毒量測不到、CD4⁺ T 細胞 > 100/μL 未曾伺機性感染、或 > 200/μL 曾有伺機性感染）已不再是移植禁忌；移植後整體存活率與 HIV 陰性受者相近。\n\n針對門脈肺動脈高壓（portopulmonary hypertension）：中度（MPAP ≥ 35 mmHg）至重度（MPAP ≥ 45 mmHg）為禁忌，若藥物治療無法改善則不宜移植。選項 B 所提之 MPAP > 50 mmHg 屬重度以上，屬正確的禁忌症。\n\n選項 C「不可逆的神經系統損傷」對應 ALF 時持續 ICP > 50 mmHg 或 CPP < 40 mmHg，代表腦部不可逆損傷，移植後意識恢復機率極低，亦為絕對禁忌。\n\n選項 D「無法控制的敗血症或感染」直接列於絕對禁忌清單，正確。",
       "options": {
-        "A": "錯誤（本題正解）。HIV 感染本身不是肝臟移植的禁忌症。Sleisenger 明載「HIV infection is not a contraindication to LT per se」，條件是移植前病毒量需測不到，且 CD4⁺ T 細胞計數須達門檻（無伺機性感染史者 > 100/μL；有伺機性感染史者 > 200/μL）。AIDS（進展到免疫崩潰階段）才是禁忌，而非單純 HIV 感染。",
+        "A": "錯誤（本題正解）。HIV 感染本身不是肝臟移植的禁忌症。Sleisenger 明載 HIV 感染本身並非肝臟移植的禁忌，條件是移植前病毒量需測不到，且 CD4⁺ T 細胞計數須達門檻（無伺機性感染史者 > 100/μL；有伺機性感染史者 > 200/μL）。AIDS（進展到免疫崩潰階段）才是禁忌，而非單純 HIV 感染。",
         "B": "正確（屬於禁忌症，非本題答案）。門脈肺動脈高壓中度（MPAP ≥ 35 mmHg）至重度（MPAP ≥ 45 mmHg）在藥物治療無法改善下為移植禁忌；MPAP > 50 mmHg 屬嚴重程度以上，代表移植圍術期死亡風險極高（心輸出量無法充分代償），確為禁忌症。",
         "C": "正確（屬於禁忌症，非本題答案）。急性肝衰竭時持續 ICP > 50 mmHg 或 CPP < 40 mmHg 代表嚴重腦水腫與不可逆的神經損傷，移植後神經功能無法恢復，列於 Sleisenger Box 97.2 的絕對禁忌清單。",
         "D": "正確（屬於禁忌症，非本題答案）。無法控制的敗血症或肝外感染（尤其是真菌血症）使病人無法耐受手術及術後免疫抑制治療，為明確的絕對禁忌症，Sleisenger Box 97.2 直接列出「Uncontrolled sepsis」。"
@@ -12057,12 +12057,12 @@
     },
     "114-inad_surgery-GI-39": {
       "quick": "結腸癌術前分期影像評估的標準選擇是胸腹骨盆電腦斷層（CT），用以評估淋巴結轉移、肝臟及肺臟等遠端轉移，以決定手術可切除性與是否需要新輔助治療。",
-      "background": "結腸癌（colon cancer）的術前分期工作（preoperative staging workup）目的在確定腫瘤侵犯深度（T）、區域淋巴結狀態（N）及是否有遠端轉移（M），以指導治療策略。標準分期影像為**胸腹骨盆電腦斷層（CT of the chest, abdomen, and pelvis）**，能同時評估：(1) 肝臟轉移（最常見遠端轉移部位，佔所有復發之 1/3）；(2) 肺臟轉移（第二常見）；(3) 骨盆腔局部侵犯與淋巴結狀態；(4) 腹膜轉移。MRI 不屬於結腸癌分期的第一線標準影像（MRI 常用於**直腸癌**術前局部評估，與結腸癌不同）。PET/正子攝影及腹部超音波（ultrasound）並非結腸癌術前常規分期工具：PET 用於特定情況（如考慮寡轉移切除時），超音波受腸道氣體干擾且無法評估胸腔。CEA 及全血球計數（CBC）等血液檢查需同步進行，但影像首選為 CT 全程。",
+      "background": "結腸癌（colon cancer）的術前分期工作（preoperative staging workup）目的在確定腫瘤侵犯深度（T）、區域淋巴結狀態（N）及是否有遠端轉移（M），以指導治療策略。標準分期影像為**胸腹骨盆電腦斷層（CT）**，能同時評估：(1) 肝臟轉移（最常見遠端轉移部位，佔所有復發之 1/3）；(2) 肺臟轉移（第二常見）；(3) 骨盆腔局部侵犯與淋巴結狀態；(4) 腹膜轉移。MRI 不屬於結腸癌分期的第一線標準影像（MRI 常用於**直腸癌**術前局部評估，與結腸癌不同）。PET/正子攝影及腹部超音波（ultrasound）並非結腸癌術前常規分期工具：PET 用於特定情況（如考慮寡轉移切除時），超音波受腸道氣體干擾且無法評估胸腔。CEA 及全血球計數（CBC）等血液檢查需同步進行，但影像首選為 CT 全程。",
       "options": {
         "A": "錯誤。腹部超音波（abdominal ultrasound）雖可評估肝臟，但無法掃描胸腔（肺轉移），且受腸道脹氣影響，靈敏度不足。不符合標準術前分期需求。",
         "B": "錯誤。正子攝影（PET scan）不是結腸癌術前的常規分期影像。PET 適用於特定情境，例如 CT 發現疑似寡轉移（oligometastatic disease）時進一步確認，並非第一線必要影像評估。",
         "C": "錯誤。核磁共振（MRI）用於**直腸癌**的局部術前評估（評估腸繫膜筋膜邊界）是標準做法，但**結腸癌**術前標準分期影像是 CT，不是 MRI。MRI 可在 CT 顯示特殊發現（如肝臟病灶特性不確定）或對比劑過敏時作為補充，並非首選。",
-        "D": "正確。胸腹骨盆電腦斷層（CT of the chest, abdomen, and pelvis）是結腸癌術前標準必要影像評估。可同時評估局部腫瘤範圍、區域淋巴結、最常見遠端轉移部位（肝、肺），以完整分期。Washington Manual 及 Harrison 均明確指出此為標準分期影像。"
+        "D": "正確。胸腹骨盆電腦斷層（CT）是結腸癌術前標準必要影像評估。可同時評估局部腫瘤範圍、區域淋巴結、最常見遠端轉移部位（肝、肺），以完整分期。Washington Manual 及 Harrison 均明確指出此為標準分期影像。"
       },
       "references": [
         {
@@ -12084,7 +12084,7 @@
         "A": "【官方答案，標為正確】題幹說「次發性副甲狀腺腺瘤」，教科書均將 MEN-1 相關副甲狀腺病變歸類為「原發性（primary）副甲狀腺機能亢進」（PTH 自主分泌過高、非繼發於腎衰竭或低鈣），病理為多腺體腺瘤或增生，而非典型散發性單腺腺瘤。推測本題「次發性」意指「繼發於 MEN-1 基因突變所誘發的」腺瘤（相對於散發性原發性 HPT 的單腺腺瘤），與「次發性 HPT（腎性等）」的常見定義不同，存在語義模糊——詳見補述。按官方答案，此選項為正。",
         "B": "【錯誤】MEN-1 是體染色體顯性遺傳，致病基因為 MEN1（11q13），編碼 menin 蛋白，屬腫瘤抑制基因（失活型突變）。RET 原型致癌基因突變（激活型）引起的是 MEN-2（Sipple 症候群）/MEN-3，特徵為甲狀腺髓樣癌、嗜鉻細胞瘤及副甲狀腺病變。兩者致病基因完全不同，選項 B 將 RET 突變歸因於 MEN-1 明顯錯誤。",
         "C": "【按教科書正確，但非官方答案】Harrison 22e 明確指出：「約 60% MEN-1 相關垂體腫瘤分泌 prolactin」，故催乳素腺瘤（prolactinoma）確為 MEN-1 最常見的垂體腫瘤，且 ~75% 為微腺瘤（良性）。本選項在教科書層面正確，然官方標準答案為 A——詳見補述分析。",
-        "D": "【錯誤】MEN-1 相關功能性 pNET 中，胃泌素瘤（gastrinoma）最常見，占所有 MEN-1 功能性 pNET 的約 54%（Sleisenger Table 34.3），且 ~20% 的散發性胃泌素瘤患者合併 MEN-1；胰島素瘤（insulinoma）居次，約占 18%。Harrison 亦明確：「Gastrinomas represent >50% of all pancreatic NETs in patients with MEN 1」。故本選項「胰島素瘤最常見」錯誤。"
+        "D": "【錯誤】MEN-1 相關功能性 pNET 中，胃泌素瘤（gastrinoma）最常見，占所有 MEN-1 功能性 pNET 的約 54%（Sleisenger Table 34.3），且 ~20% 的散發性胃泌素瘤患者合併 MEN-1；胰島素瘤（insulinoma）居次，約占 18%。Harrison 亦明確指出，在 MEN-1 患者中胃泌素瘤占所有胰臟 NET 的逾五成。故本選項「胰島素瘤最常見」錯誤。"
       },
       "references": [
         {
@@ -12120,7 +12120,7 @@
           "display": "📚 Pocket 8e (2022) Ch.Hypercalcemia / Hyperparathyroidism, p.487"
         }
       ],
-      "discordance": "⚠ 補述：選項 A「次發性副甲狀腺腺瘤」與教科書定義存在根本衝突。Harrison 22e p.3124 明確：「Primary hyperparathyroidism occurs in ~90% of patients and is the most common feature of MEN 1」——MEN-1 的副甲狀腺病變在病理生理上屬「原發性副甲狀腺機能亢進」（PTH 自主過度分泌，不受血鈣正回饋抑制），非「次發性」（繼發腎衰竭、VD 缺乏等所致的代償性 HPT）。Pocket Medicine 8e p.487 亦將 MEN1 列於「1°（原發性）hyperparathyroidism」之下（hyperplasia 15–20% 包含 MEN1/2A）。反觀選項 C「腦下垂體腫瘤最常見為良性的催乳素腺瘤」，Harrison 22e p.3126 清楚支持：~60% MEN-1 垂體腫瘤為 prolactinoma，且 ~75% 為微腺瘤（良性）。就教科書知識而言，選項 C 內容更符合事實。本題官方標準答案為 A，推測命題意圖可能是：「次發性」指「繼發於 MEN-1 症候群（基因突變）所誘發的」腺瘤（有別於散發性原發性 HPT 的單腺病變），但此語義非標準臨床用法，易與「次發性 HPT（secondary HPT，如腎性骨病）」混淆。考生備考時應以官方答案 A 為準，同時理解 MEN-1 副甲狀腺病變的本質仍是原發性 HPT（多腺體受累）。",
+      "discordance": "⚠ 補述：選項 A「次發性副甲狀腺腺瘤」與教科書定義存在根本衝突。Harrison 22e p.3124 明確：原發性副甲狀腺機能亢進發生於約 90% 的病人，是 MEN 1 最常見的表現——MEN-1 的副甲狀腺病變在病理生理上屬「原發性副甲狀腺機能亢進」（PTH 自主過度分泌，不受血鈣正回饋抑制），非「次發性」（繼發腎衰竭、VD 缺乏等所致的代償性 HPT）。Pocket Medicine 8e p.487 亦將 MEN1 列於「1°（原發性）hyperparathyroidism」之下（hyperplasia 15–20% 包含 MEN1/2A）。反觀選項 C「腦下垂體腫瘤最常見為良性的催乳素腺瘤」，Harrison 22e p.3126 清楚支持：~60% MEN-1 垂體腫瘤為 prolactinoma，且 ~75% 為微腺瘤（良性）。就教科書知識而言，選項 C 內容更符合事實。本題官方標準答案為 A，推測命題意圖可能是：「次發性」指「繼發於 MEN-1 症候群（基因突變）所誘發的」腺瘤（有別於散發性原發性 HPT 的單腺病變），但此語義非標準臨床用法，易與「次發性 HPT（secondary HPT，如腎性骨病）」混淆。考生備考時應以官方答案 A 為準，同時理解 MEN-1 副甲狀腺病變的本質仍是原發性 HPT（多腺體受累）。",
       "no_source": false
     },
     "114-inad_surgery-GI-43": {
@@ -12146,7 +12146,7 @@
           "display": "📚 Sleisenger 11e (2020) Ch.8 Surgical and Endoscopic Treatment of Obesity, p.122"
         }
       ],
-      "discordance": "Sleisenger（p.122）指出術前減重「is associated with...greater weight loss at 1 year after the surgery」，亦即術前減重確實與術後一年更多體重減輕相關，這與 C 選項敘述方向有部分出入（C 選項說術前減重「並不會造成術後有更明顯的體重減輕」）。然而同段文字亦說「is not correlated with comorbidity resolution or complication rates」，且官方標準答案為 B；本題考點在於 SG 術前篩查項目（GERD 而非 H. pylori），故 C 選項在本題脈絡下被視為正確選項，不影響主結論。",
+      "discordance": "Sleisenger（p.122）指出，術前減重與術後一年更多體重減輕相關，這與 C 選項敘述方向有部分出入（C 選項說術前減重「並不會造成術後有更明顯的體重減輕」）。然而同段文字亦說明，術前減重與共病緩解或併發症發生率並無相關，且官方標準答案為 B；本題考點在於 SG 術前篩查項目（GERD 而非 H. pylori），故 C 選項在本題脈絡下被視為正確選項，不影響主結論。",
       "no_source": false
     },
     "114-inad_surgery-GI-44": {
@@ -12155,7 +12155,7 @@
       "options": {
         "A": "正確。Sleisenger 明確描述 HCA「界限清晰但無真包膜（pseudocapsule 係由周圍肝組織受壓形成）」，與選項所述的「界限清晰、無包膜」一致。",
         "B": "正確。HCA 好發於年輕女性（與 OCP/雌激素有關）；男性使用 anabolic androgenic steroids 同樣可誘發，此為教科書明載事實。",
-        "C": "錯誤（官方答案）。選項稱「病理類似正常肝臟組織排列，此與 FNH 區別」——但 FNH 的個別肝細胞「同樣與正常肝細胞難以區分（indistinguishable from those of normal liver）」。兩者真正的病理區別在於：HCA 膽管完全缺失（bile ducts are conspicuously absent），而 FNH 纖維中隔含大量膽管及血管（fibrous septa contain numerous bile ductules and vessels）。「類似正常肝臟」不是鑑別兩者的依據。",
+        "C": "錯誤（官方答案）。選項稱「病理類似正常肝臟組織排列，此與 FNH 區別」——但 FNH 的個別肝細胞同樣與正常肝細胞難以區分。兩者真正的病理區別在於：HCA 膽管完全缺失，而 FNH 纖維中隔含大量膽管及血管。「類似正常肝臟」不是鑑別兩者的依據。",
         "D": "正確（描述基本屬實）。> 10 個腺瘤稱肝腺瘤病（liver adenomatosis），與 HNF-1α 突變有關，不限於服用 OCP 的女性，男性亦可發生（尤其與醣原貯積症或 β-catenin 活化有關），因此性別差異較單發型不明顯，且與 OCP 的直接關聯較弱。教科書記載與本選項敘述方向大致吻合，故不為錯誤選項。"
       },
       "references": [
@@ -12179,7 +12179,7 @@
       "quick": "膿瘍直徑 4.5 cm 超過 4 cm 閾值，首選「經皮引流＋抗生素」（選項 B）；無自由穿孔或腹膜炎，不需緊急手術。",
       "background": "乙狀結腸憩室炎的複雜型（Complicated diverticulitis）包含膿瘍、腹膜炎、瘻管、腸阻塞等。當 CT 確認存在結腸旁膿瘍時，治療決策依膿瘍大小分層：小型膿瘍（<4 cm）可先以靜脈抗生素保守治療，部分可自行吸收；大型膿瘍（>4 cm）則需要引流介入，通常優先選用「影像導引經皮引流（percutaneous drainage）＋抗生素」，以達到感染源控制。本題病人膿瘍 4.5 cm，超過此閾值，且影像未提示自由穿孔（free perforation）或瀰漫性腹膜炎，因此不需立即緊急手術切除。Pocket Medicine 及 Washington Manual 兩書一致建議膿瘍 >4 cm 應以經皮（或手術）引流處置；單純觀察並口服抗生素僅適用於輕度、無併發症的憩室炎，並不適合本題的大膿瘍病人。",
       "options": {
-        "A": "錯誤。緊急手術切除適用於藥物治療無效且膿瘍無法引流、自由穿孔合併腹膜炎、或瘻管等情況（Pocket p.192 「Surgery: if progression despite med Rx, undrainable abscess, free perforation」）。本題膿瘍 4.5 cm，可經皮引流，且無自由穿孔或瀰漫性腹膜炎跡象，故緊急手術為過度治療。",
+        "A": "錯誤。緊急手術切除適用於藥物治療無效且膿瘍無法引流、自由穿孔合併腹膜炎、或瘻管等情況（Pocket p.192）。本題膿瘍 4.5 cm，可經皮引流，且無自由穿孔或瀰漫性腹膜炎跡象，故緊急手術為過度治療。",
         "B": "正確。Pocket Medicine 明訂「膿瘍 >4 cm 應以經皮或手術引流」（p.192），Washington Manual 亦指出「大型 (>4 cm) 膿瘍可能需要經皮引流，小膿瘍可能以抗生素消退」（p.662）。本題膿瘍 4.5 cm 符合介入引流適應症，同時輔以靜脈抗生素是最適當治療。",
         "C": "錯誤。「僅觀察與口服抗生素」適用於輕度、無併發症的憩室炎，在有症狀、影像確認大膿瘍（4.5 cm）的情況下，此方式不足以控制感染源，有病情惡化風險。Washington Manual 指出小膿瘍方可以抗生素消退，大型膿瘍則需引流（p.662）。",
         "D": "錯誤。腸切除合併人工肛門造口（如 Hartmann procedure）是在有自由穿孔合併瀰漫性腹膜炎、或藥物及引流治療失敗時的外科選項，屬於較大的緊急手術。本題尚無此適應症，且現有指引不建議在可引流的膿瘍病人中直接以切除術取代引流。"
@@ -12243,7 +12243,7 @@
       "options": {
         "A": "錯。電腦斷層（CT）是評估遠端轉移（肝轉移、肺轉移）的重要工具，但其軟組織對比解析度不足以精確區分直腸壁各層次及局部淋巴結的分期，非局部 T/N 分期的首選。",
         "B": "正確。高解析骨盆腔 MRI 可提供 mesorectum 軟組織的精準影像，能預測 circumferential resection margin（CRM），區分低風險與高風險病灶；NCCN 指引明確建議其為直腸癌局部分期的首選影像。",
-        "C": "錯。PET/CT 不建議常規用於直腸癌基準評估或追蹤（PET/CT is not routinely recommended for baseline evaluation or follow-up）；其主要用途為評估可疑遠端轉移或不確定性病灶，而非局部 T/N 分期。",
+        "C": "錯。PET/CT 不建議常規用於直腸癌基準評估或追蹤；其主要用途為評估可疑遠端轉移或不確定性病灶，而非局部 T/N 分期。",
         "D": "錯。骨盆腔超音波（外部探頭）因空間解析度不足，無法精確評估直腸壁侵犯深度與局部淋巴結狀況。Transrectal EUS（腔內超音波）雖與 MRI 敏感性/特異性相當，但 NCCN 規定僅在 MRI 有禁忌症時使用，且骨盆腔超音波≠transrectal EUS。"
       },
       "references": [
@@ -12335,10 +12335,10 @@
     },
     "114-inad_surgery-GI-54": {
       "quick": "右側大腸癌（盲腸至橫結腸近端）與左側大腸癌在基因突變譜、表觀遺傳修飾及腫瘤分子亞型上存在根本差異，是造成右側預後較差的主要因素。",
-      "background": "左右側大腸癌在胚胎起源、黏膜環境、微生物組成及分子特性上本就不同。右側（近端）大腸癌好發 BRAF V600E 突變、CpG island methylator phenotype（CIMP）、microsatellite instability-high（MSI-H）serrated pathway，以及特定 consensus molecular subtype（CMS）；而左側癌以 chromosomal instability（CIN）為主、APC/KRAS/TP53 傳統腺瘤路徑更多見。Harrison 22e 明確指出右側原發腫瘤為術後預後不良的獨立預測因子，歸因於「differences in molecular patterns」；Sleisenger 11e 數據顯示左側腫瘤術後 3 年無病存活率較右側高 2–14%。臨床上，BRAF V600E 突變本身即與 stage III–IV CRC 預後差且對 anti-EGFR 無效相關，而 MSI-H 雖預後相對較好，但高度 CIMP/BRAF 突變的右側 MSS 癌則預後極差。腫瘤大小（選項 A）、年齡（選項 C）及肝功能（選項 D）對於區分左右側預後差異並無決定性作用；基因表現與分化（基因組不穩定性、分子亞型）才是目前最有力的解釋機制。",
+      "background": "左右側大腸癌在胚胎起源、黏膜環境、微生物組成及分子特性上本就不同。右側（近端）大腸癌好發 BRAF V600E 突變、CpG island methylator phenotype（CIMP）、microsatellite instability-high（MSI-H）serrated pathway，以及特定 consensus molecular subtype（CMS）；而左側癌以 chromosomal instability（CIN）為主、APC/KRAS/TP53 傳統腺瘤路徑更多見。Harrison 22e 明確指出右側原發腫瘤為術後預後不良的獨立預測因子，歸因於左右側腫瘤分子型態（molecular patterns）的差異；Sleisenger 11e 數據顯示左側腫瘤術後 3 年無病存活率較右側高 2–14%。臨床上，BRAF V600E 突變本身即與 stage III–IV CRC 預後差且對 anti-EGFR 無效相關，而 MSI-H 雖預後相對較好，但高度 CIMP/BRAF 突變的右側 MSS 癌則預後極差。腫瘤大小（選項 A）、年齡（選項 C）及肝功能（選項 D）對於區分左右側預後差異並無決定性作用；基因表現與分化（基因組不穩定性、分子亞型）才是目前最有力的解釋機制。",
       "options": {
-        "A": "錯誤。Sleisenger 11e Table 127.6 明確記載「Tumor size: No effect in most studies」，腫瘤大小在大多數研究中並不影響 CRC 預後，更不是解釋左右側預後差異的主因。",
-        "B": "正確。Harrison 22e 指出左側大腸癌預後優於右側，原因「likely due to differences in molecular patterns」；Sleisenger 11e 同樣將分子特性（CIN、MSI、CIMP、consensus molecular subtypes）列為影響預後的核心機制。右側癌富含 BRAF V600E 突變及 CIMP 高甲基化，這些基因表現與分化差異是預後差距的主要因素，符合官方正確答案 B。",
+        "A": "錯誤。Sleisenger 11e Table 127.6 明確記載腫瘤大小（tumor size）在大多數研究中對 CRC 預後並無影響，更不是解釋左右側預後差異的主因。",
+        "B": "正確。Harrison 22e 指出左側大腸癌預後優於右側，原因很可能在於左右側腫瘤分子型態（molecular patterns）的差異；Sleisenger 11e 同樣將分子特性（CIN、MSI、CIMP、consensus molecular subtypes）列為影響預後的核心機制。右側癌富含 BRAF V600E 突變及 CIMP 高甲基化，這些基因表現與分化差異是預後差距的主要因素，符合官方正確答案 B。",
         "C": "錯誤。年齡雖是 CRC 發生的風險因子，且年齡 < 30 歲預後較差（Sleisenger Table 127.6），但「年齡」本身並不能解釋左右側大腸癌之間的系統性預後差距，亦非其主要原因。",
         "D": "錯誤。肝功能影響化療耐受性與肝轉移的管理，但並非區分左側與右側大腸癌預後差異的「主要因素」；左右側預後差距在手術後（尚無遠端轉移、肝功能正常者）即已存在。"
       },
@@ -12367,10 +12367,10 @@
       "quick": "選項 B 錯誤：晚期食道癌的分子標靶療法並非已有統一「標準化」方案可廣泛適用，而是必須先進行 HER2、PD-L1、MSI 等生物標記檢測，依結果選用特定亞群才適合的標靶製劑（trastuzumab、pembrolizumab 等），不具普遍適用性。",
       "background": "晚期食道癌預後極差，5 年整體存活率僅約 19%，超過 50% 病人確診時即為局部晚期，大多在診斷後 3–5 年內復發死亡。手術切除（食道切除術）合併術前放化療（如 CROSS 試驗方案：carboplatin + paclitaxel + 41.4 Gy 放療）是局部晚期食道癌的主流治療，多學科團隊整合（外科、放射腫瘤科、腫瘤內科、消化科）為必要。就「標靶療法」而言，目前核准的製劑皆需生物標記篩選：腺癌（EAC）應先進行 HER2 基因檢測，高表現者才加用 trastuzumab；ramucirumab（VEGFR-2 抗體）適用於鉑類化療失敗的晚期胃食道腺癌；pembrolizumab（抗 PD-1）僅用於 PD-L1 陽性或微衛星不穩定（MSI-H）／錯配修復缺陷（dMMR）的難治性腺癌。這些標靶藥物適用族群各異，目前並無一種可「廣泛」適用所有晚期食道癌病人的「標準化」分子標靶方案。食道癌本身具高度腫瘤異質性（tumor heterogeneity），不同組織型態（鱗狀細胞癌 ESCC vs. 腺癌 EAC）及不同分子亞型的驅動因子各異，個人化治療（precision/personalized therapy）是未來重要發展方向；臨床試驗與術前術後標準化照護亦是提升整體療效與安全性的重要策略。",
       "options": {
-        "A": "正確。晚期食道癌即使接受積極治療（手術切除合併放化療），大多數局部晚期病人仍會在 3–5 年內復發，且 5 年存活率僅約 19%，確有腫瘤轉移或復發的現象。（Sleisenger p.816–817：「most have a recurrence and die within 3 to 5 years」；「5-year survival rate is only 19%」）",
-        "B": "錯誤（正確答案）。「現階段已有標準化分子標靶療法，可廣泛使用於晚期食道癌治療」此句不正確。目前核准的標靶製劑（HER2 抗體 trastuzumab、VEGFR-2 抗體 ramucirumab、PD-1 抗體 pembrolizumab）均須事先進行生物標記檢測，只對特定分子亞群有效，並非廣泛適用所有晚期食道癌病人。（Sleisenger p.815：「Patients with EAC should be tested for human epidermal growth factor receptor 2 (HER2) on tumor biopsies」；pembrolizumab 限於「PD-L1 positive or for tumors with microsatellite instability or that have DNA mismatch repair gene defects」。Harrison p.644：「subgroups of patients have been identified who benefit from therapies targeting specific genomic alterations」）",
-        "C": "正確。食道癌（尤其 EAC 與 ESCC）具高度腫瘤異質性，兩者的分子驅動因子截然不同，ESCC 以鱗狀上皮增生 → 低至高度異生 → 侵襲性癌的過程為主，EAC 則以 BE → 異生 → 腺癌序列，且不同亞型對化療、標靶、免疫治療反應各異。因此未來確實可能需要個人化治療策略（精準醫療）。（Sleisenger p.803：「a search is underway for prognostic and predictive genetic markers that would tailor a more efficacious multimodal therapy」）",
-        "D": "正確。臨床試驗（如 CROSS 試驗：術前放化療 + 手術 vs. 單純手術）已確立標準化術前照護方案，顯著延長中位存活期（49.4 vs. 24.0 個月）；另外，在高量中心（高容量手術中心）由多學科團隊執行、嚴格的圍手術期管理（營養、心肺評估、ICU 照護）均已被證實可降低圍術期死亡率與併發症、提升整體療效與安全性。（Sleisenger p.815：「Clinical trials and standardized perioperative care contribute to improved outcomes」之意涵隱含於 CROSS 試驗與 NCCN guideline 引用段落）"
+        "A": "正確。晚期食道癌即使接受積極治療（手術切除合併放化療），大多數局部晚期病人仍會在 3–5 年內復發死亡，且 5 年存活率僅約 19%，確有腫瘤轉移或復發的現象。（Sleisenger p.816–817）",
+        "B": "錯誤（正確答案）。「現階段已有標準化分子標靶療法，可廣泛使用於晚期食道癌治療」此句不正確。目前核准的標靶製劑（HER2 抗體 trastuzumab、VEGFR-2 抗體 ramucirumab、PD-1 抗體 pembrolizumab）均須事先進行生物標記檢測，只對特定分子亞群有效，並非廣泛適用所有晚期食道癌病人。（Sleisenger p.815：腺癌應先於腫瘤切片檢測 HER2；pembrolizumab 限用於 PD-L1 陽性、或具微衛星不穩定／DNA 錯配修復基因缺陷的腫瘤。Harrison p.644：已辨識出可從針對特定基因組變異之療法獲益的患者亞群）",
+        "C": "正確。食道癌（尤其 EAC 與 ESCC）具高度腫瘤異質性，兩者的分子驅動因子截然不同，ESCC 以鱗狀上皮增生 → 低至高度異生 → 侵襲性癌的過程為主，EAC 則以 BE → 異生 → 腺癌序列，且不同亞型對化療、標靶、免疫治療反應各異。因此未來確實可能需要個人化治療策略（精準醫療）。（Sleisenger p.803：目前正尋找預後與預測性基因標記，以量身打造更有效的多模式治療）",
+        "D": "正確。臨床試驗（如 CROSS 試驗：術前放化療 + 手術 vs. 單純手術）已確立標準化術前照護方案，顯著延長中位存活期（49.4 vs. 24.0 個月）；另外，在高量中心（高容量手術中心）由多學科團隊執行、嚴格的圍手術期管理（營養、心肺評估、ICU 照護）均已被證實可降低圍術期死亡率與併發症、提升整體療效與安全性。（Sleisenger p.815：臨床試驗與標準化圍手術期照護有助於改善治療結果，此意涵隱含於 CROSS 試驗與 NCCN guideline 引用段落）"
       },
       "references": [
         {
