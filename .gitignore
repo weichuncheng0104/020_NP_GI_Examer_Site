@@ -1,0 +1,9 @@
+# --- Repo B（網站層，公開） ---
+# 本 repo 為 generated site，內容由 020_NP_GI_Examer 的 0004/0005 產出。
+# 公開 repo：絕不放任何 secret / 原始 PDF / pipeline script。
+
+.DS_Store
+Thumbs.db
+*.log
+.vscode/
+node_modules/
