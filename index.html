@@ -27,6 +27,8 @@
 <script data-goatcounter="https://np-gi-exam.goatcounter.com/count"
         async src="//gc.zgo.at/count.js"></script>
 <style>
+.gcv{font:600 .8rem/1 var(--sans);color:var(--muted);letter-spacing:.04em;margin:0 0 16px;text-align:center}
+.gcv b{color:var(--pine);font-variant-numeric:tabular-nums;font-size:.92rem}
 :root{
   --bg:#f4efe4; --paper:#fffdf8; --ink:#23262b; --muted:#6c6a60;
   --pine:#0f5b50; --pine-d:#0a463d; --amber:#bb7a16; --line:#e6dfce;
@@ -70,6 +72,14 @@ h1 .gi{font-family:var(--serif);font-style:italic;font-weight:500;color:var(--pi
 </head>
 <body>
 <main class="card">
+  <div class="gcv" id="gcv" hidden>👁 瀏覽數 <b></b></div>
+  <script>
+  (function(){var w=document.getElementById('gcv');if(!w||!window.fetch)return;var b=w.querySelector('b');
+   fetch('https://np-gi-exam.goatcounter.com/counter/TOTAL.json',{mode:'cors'})
+    .then(function(r){return r.ok?r.json():Promise.reject(0)})
+    .then(function(d){if(d&&d.count){b.textContent=d.count;w.hidden=false}})
+    .catch(function(){});})();
+  </script>
   <div class="kick">Nurse Practitioner · 進階專科護理甄審</div>
   <h1>胃腸肝膽科<span class="gi"> 題庫</span></h1>
   <p class="lead">104–114 年「進階專科護理_內科 / _外科 / 通論」中與胃腸肝膽相關之試題，附逐選項詳解與教科書引註。</p>
