@@ -1,6 +1,6 @@
 {
   "version": "v003",
-  "generated_at": "20261110_0832",
+  "generated_at": "20261110_0912",
   "counts": {
     "total": 557,
     "by_year": {
@@ -27248,19 +27248,19 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Obesity, p.116"
+          "display": "📚 Sleisenger 11e (2020) Ch.7 Obesity, p.116"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Obesity, p.115"
+          "display": "📚 Sleisenger 11e (2020) Ch.7 Obesity, p.115"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022), p.2997"
+          "display": "📚 Harrison 22e (2022) Ch.383 Osteoarthritis, p.2997"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022), p.2230"
+          "display": "📚 Yamada 7e (2022) Ch.106 Gastrointestinal and liver complications of obesity, p.2230"
         }
       ],
       "discordance": null,
@@ -27300,15 +27300,15 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.H. pylori and acid peptic disorders, p.2562"
+          "display": "📚 Harrison 22e (2022) Ch.335 Peptic Ulcer Disease and Related Disorders, p.2562"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020), p.971"
+          "display": "📚 Sleisenger 11e (2020) Ch.54 Adenocarcinoma of the Stomach and Other Gastric Tumors, p.971"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022), p.1121"
+          "display": "📚 Yamada 7e (2022) Ch.52 Tumors of the stomach, p.1121"
         }
       ],
       "discordance": null,
@@ -27326,7 +27326,7 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Irritable Bowel Syndrome, p.2614"
+          "display": "📚 Harrison 22e (2022) Ch.338 Irritable Bowel Syndrome, p.2614"
         },
         {
           "kind": "textbook",
@@ -27334,15 +27334,15 @@
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Irritable Bowel Syndrome, p.1462"
+          "display": "📚 Yamada 7e (2022) Ch.67 Irritable bowel syndrome, p.1462"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.650"
+          "display": "📚 Washington 2022 Gastrointestinal Diseases, p.650"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Gastroenterology, p.188"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.188"
         }
       ],
       "discordance": "Pocket Medicine 8e（p.188）列的 IBS 定義為「腹部不適 ≥6 個月，合併 ≥2 項：排便後改善、糞便頻率改變、糞便形態改變」，屬較舊（類似 Rome III）的描述；而 Harrison 22e（p.2614）、Sleisenger 11e（p.2469）與 Yamada 7e（p.1462）所列 Rome IV 為「反覆腹痛、近 3 個月平均每週至少 1 天」。本題依官方答案 B（Rome IV）作答，兩者差異僅供參考。",
@@ -27360,23 +27360,23 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Viral hepatitis (Hepatitis B), p.215"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.215"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Acute Viral Hepatitis, p.2689"
+          "display": "📚 Harrison 22e (2022) Ch.350 Acute Viral Hepatitis, p.2689"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Hepatitis B, p.1479"
+          "display": "📚 Sleisenger 11e (2020) Ch.79 Hepatitis B, p.1479"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Hepatitis B, p.1896"
+          "display": "📚 Yamada 7e (2022) Ch.86 Acute viral hepatitis, p.1896"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Liver Diseases, p.674"
+          "display": "📚 Washington 2022 Liver Diseases, p.674"
         }
       ],
       "discordance": null,
@@ -27420,27 +27420,27 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Diseases of the Gallbladder and Bile Ducts, p.2778"
+          "display": "📚 Harrison 22e (2022) Ch.357 Diseases of the Gallbladder and Bile Ducts, p.2778"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020), p.1133"
+          "display": "📚 Sleisenger 11e (2020) Ch.60 Pancreatic Cancer, Cystic Pancreatic Neoplasms, and Other Nonendocrine Pancreatic Tumors, p.1133"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Cholecystitis, p.245"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.245"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Cholangitis, p.247"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.247"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.658"
+          "display": "📚 Washington 2022 Gastrointestinal Diseases, p.658"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022), p.1651"
+          "display": "📚 Yamada 7e (2022) Ch.74 Acute pancreatitis, p.1651"
         }
       ],
       "discordance": null,
@@ -27474,7 +27474,7 @@
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Acute abdominal pain, p.683"
+          "display": "📚 Yamada 7e (2022) Ch.34 Approach to the patient with abdominal pain, gas, and bloating, p.683"
         }
       ],
       "discordance": null,
@@ -27492,27 +27492,27 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Pulmonary Diseases, p.368"
+          "display": "📚 Washington 2022 Pulmonary Diseases, p.368"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Pleural effusion, p.131"
+          "display": "📚 Pocket 8e (2022) Pulmonary, p.131"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Pleural effusion, p.131"
+          "display": "📚 Pocket 8e (2022) Pulmonary, p.131"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022), p.373"
+          "display": "📚 Harrison 22e (2022) Ch.54 Interstitial Cystitis/Bladder Pain Syndrome, p.373"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020), p.1801"
+          "display": "📚 Sleisenger 11e (2020) Ch.93 Ascites and Spontaneous Bacterial Peritonitis, p.1801"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022), p.2110"
+          "display": "📚 Yamada 7e (2022) Ch.98 Ascites and its complications, p.2110"
         }
       ],
       "discordance": null,
@@ -27534,15 +27534,15 @@
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Renal Diseases, p.435"
+          "display": "📚 Washington 2022 Renal Diseases, p.435"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020), p.645"
+          "display": "📚 Sleisenger 11e (2020) Ch.39 Surgical Peritonitis and Other Diseases of the Peritoneum, Mesentery, Omentum, and Diaphragm, p.645"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022), p.1405"
+          "display": "📚 Yamada 7e (2022) Ch.65 Surgical treatment of inflammatory bowel disease, p.1405"
         }
       ],
       "discordance": null,
@@ -27560,19 +27560,19 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Shock, p.2365"
+          "display": "📚 Harrison 22e (2022) Ch.315 Sepsis and Septic Shock, p.2365"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Critical Care, p.264"
+          "display": "📚 Washington 2022 Critical Care, p.264"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Critical Care, p.265"
+          "display": "📚 Washington 2022 Critical Care, p.265"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Biliary Tract Disease, p.245"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.245"
         },
         {
           "kind": "textbook",
@@ -27594,27 +27594,27 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Cancer（Gastric cancer, Clinical Presentation）, p.799"
+          "display": "📚 Washington 2022 Cancer, p.799"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Gastric cancer（clinical features）, p.1110"
+          "display": "📚 Yamada 7e (2022) Ch.52 Tumors of the stomach, p.1110"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Gastric cancer（metastatic spread）, p.1112"
+          "display": "📚 Yamada 7e (2022) Ch.52 Tumors of the stomach, p.1112"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Dyspepsia / Alarm Features in Patients With UGI Symptoms, p.944"
+          "display": "📚 Sleisenger 11e (2020) Ch.53 Peptic Ulcer Disease, p.944"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Hepatocellular carcinoma（clinical presentation）, p.1850"
+          "display": "📚 Sleisenger 11e (2020) Ch.96 Hepatic Tumors and Cysts, p.1850"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Pancreatic Tumors（Clinical manifestations）, p.382"
+          "display": "📚 Pocket 8e (2022) Hematology-Oncology, p.382"
         }
       ],
       "discordance": null,
@@ -27632,7 +27632,7 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.6 Nutrition in Gastroenterology: Enteral Access, p.100"
+          "display": "📚 Sleisenger 11e (2020) Ch.6 Nutritional Management, p.100"
         }
       ],
       "discordance": null,
@@ -27650,23 +27650,23 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Dyspepsia / Peptic ulcer disease, p.171"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.171"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.640"
+          "display": "📚 Washington 2022 Gastrointestinal Diseases, p.640"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Approach to the Patient with Indigestion, p.344"
+          "display": "📚 Harrison 22e (2022) Ch.48 Nausea, Vomiting, and Indigestion, p.344"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Dyspepsia（圖 Fig. 14.3）, p.210"
+          "display": "📚 Sleisenger 11e (2020) Ch.14 Dyspepsia（圖 Fig. 14.3）, p.210"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Dyspepsia, p.640"
+          "display": "📚 Yamada 7e (2022) Ch.31 Approach to the patient with dyspepsia and related functional gastrointestinal complaints, p.640"
         }
       ],
       "discordance": null,
@@ -27684,23 +27684,23 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Peptic Ulcer Disease (PUD), p.173"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.173"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.643"
+          "display": "📚 Washington 2022 Gastrointestinal Diseases, p.643"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Peptic Ulcer Disease and Related Disorders, p.2575"
+          "display": "📚 Harrison 22e (2022) Ch.335 Peptic Ulcer Disease and Related Disorders, p.2575"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Abdominal Pain (perforated peptic ulcer), p.174"
+          "display": "📚 Sleisenger 11e (2020) Ch.11 Acute Abdominal Pain, p.174"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Peptic Ulcer Disease, p.1029"
+          "display": "📚 Yamada 7e (2022) Ch.49 Peptic ulcer disease, p.1029"
         }
       ],
       "discordance": null,
@@ -27718,23 +27718,23 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Cirrhosis, p.230"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.230"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.626"
+          "display": "📚 Washington 2022 Gastrointestinal Diseases, p.626"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Cirrhosis and Its Complications, p.2757"
+          "display": "📚 Harrison 22e (2022) Ch.355 Cirrhosis and Its Complications, p.2757"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.92, p.1774"
+          "display": "📚 Sleisenger 11e (2020) Ch.92 Portal Hypertension and Variceal Bleeding, p.1774"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022), p.2558"
+          "display": "📚 Yamada 7e (2022) Ch.124 Management of upper gastrointestinal hemorrhage related to portal hypertension, p.2558"
         }
       ],
       "discordance": null,
@@ -27752,27 +27752,27 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Esophageal and Gastric Disorders, p.171"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.171"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.635"
+          "display": "📚 Washington 2022 Gastrointestinal Diseases, p.635"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Gastroesophageal Reflux Disease, p.766"
+          "display": "📚 Sleisenger 11e (2020) Ch.46 Gastroesophageal Reflux Disease, p.766"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Gastroesophageal Reflux Disease, p.897"
+          "display": "📚 Yamada 7e (2022) Ch.43 Gastroesophageal reflux disease, p.897"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Gastrointestinal Endoscopy, p.2535"
+          "display": "📚 Harrison 22e (2022) Ch.333 Gastrointestinal Endoscopy, p.2535"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Esophageal Motility Disorders, p.730"
+          "display": "📚 Sleisenger 11e (2020) Ch.44 Esophageal Neuromuscular Function and Motility Disorders, p.730"
         }
       ],
       "discordance": null,
@@ -27790,27 +27790,27 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Viral hepatitis, p.218"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.218"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Liver Diseases, p.679"
+          "display": "📚 Washington 2022 Liver Diseases, p.679"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Chronic Hepatitis, p.1535"
+          "display": "📚 Harrison 22e (2022) Ch.196 Antiviral Chemotherapy, Excluding Antiretroviral Drugs, p.1535"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Hepatitis C, p.1512"
+          "display": "📚 Sleisenger 11e (2020) Ch.80 Hepatitis C, p.1512"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Chronic hepatitis C, p.1945"
+          "display": "📚 Yamada 7e (2022) Ch.88 Chronic hepatitis C, p.1945"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Chronic hepatitis C, p.1948"
+          "display": "📚 Yamada 7e (2022) Ch.88 Chronic hepatitis C, p.1948"
         }
       ],
       "discordance": null,
@@ -27828,23 +27828,23 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Intestinal ischemia, p.200"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.200"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.664"
+          "display": "📚 Washington 2022 Gastrointestinal Diseases, p.664"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Mesenteric vascular insufficiency, p.2631"
+          "display": "📚 Harrison 22e (2022) Ch.340 Mesenteric Vascular Insufficiency, p.2631"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Intestinal ischemia, p.2392"
+          "display": "📚 Sleisenger 11e (2020) Ch.118 Intestinal Ischemia, p.2392"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Intestinal ischemia and vasculitides, p.769"
+          "display": "📚 Yamada 7e (2022) Ch.37 Approach to the patient with acute abdomen, p.769"
         }
       ],
       "discordance": null,
@@ -27862,23 +27862,23 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Pancreatitis, p.204"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.204"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.654"
+          "display": "📚 Washington 2022 Gastrointestinal Diseases, p.654"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Acute and Chronic Pancreatitis, p.2783"
+          "display": "📚 Harrison 22e (2022) Ch.358 Approach to the Patient with Pancreatic Disease, p.2783"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Acute Pancreatitis, p.1074"
+          "display": "📚 Sleisenger 11e (2020) Ch.58 Acute Pancreatitis, p.1074"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022), p.1639"
+          "display": "📚 Yamada 7e (2022) Ch.74 Acute pancreatitis, p.1639"
         }
       ],
       "discordance": null,
@@ -27896,15 +27896,15 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Acute Liver Failure, p.225"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.225"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Disorders of Hemostasis and Thrombosis, p.729"
+          "display": "📚 Washington 2022 Disorders of Hemostasis and Thrombosis, p.729"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Acute Liver Failure, p.1843"
+          "display": "📚 Sleisenger 11e (2020) Ch.95 Acute Liver Failure, p.1843"
         },
         {
           "kind": "textbook",
@@ -27912,7 +27912,7 @@
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022), p.2555"
+          "display": "📚 Yamada 7e (2022) Ch.124 Management of upper gastrointestinal hemorrhage related to portal hypertension, p.2555"
         }
       ],
       "discordance": null,
@@ -27930,27 +27930,27 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Ascites, p.242"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.242"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Ascites, p.240"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.240"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Liver Diseases, p.703"
+          "display": "📚 Washington 2022 Liver Diseases, p.703"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Peritonitis and Intraabdominal Abscesses, p.1114"
+          "display": "📚 Harrison 22e (2022) Ch.137 Intraabdominal Infections and Abscesses, p.1114"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Peritonitis, p.641"
+          "display": "📚 Sleisenger 11e (2020) Ch.39 Surgical Peritonitis and Other Diseases of the Peritoneum, Mesentery, Omentum, and Diaphragm, p.641"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Peritonitis, p.2213"
+          "display": "📚 Yamada 7e (2022) Ch.105 Diseases of the peritoneum, retroperitoneum, mesentery, and omentum, p.2213"
         }
       ],
       "discordance": null,
@@ -27968,23 +27968,23 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022), p.133"
+          "display": "📚 Pocket 8e (2022) Pulmonary, p.133"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022), p.131"
+          "display": "📚 Pocket 8e (2022) Pulmonary, p.131"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022, p.368"
+          "display": "📚 Washington 2022 Pulmonary Diseases, p.368"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022, p.369"
+          "display": "📚 Washington 2022 Pulmonary Diseases, p.369"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022), p.2251"
+          "display": "📚 Harrison 22e (2022) Ch.297 Diagnostic Procedures in Respiratory Disease, p.2251"
         }
       ],
       "discordance": null,
@@ -28006,11 +28006,11 @@
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.331 Obstructive uropathy, p.2498"
+          "display": "📚 Harrison 22e (2022) Ch.331 Urinary Tract Obstruction, p.2498"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Renal Diseases, p.435"
+          "display": "📚 Washington 2022 Renal Diseases, p.435"
         }
       ],
       "discordance": null,
@@ -28028,35 +28028,35 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Shock, p.2357"
+          "display": "📚 Harrison 22e (2022) Ch.314 Approach to the Patient with Shock, p.2357"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Sepsis and Septic Shock, p.2365"
+          "display": "📚 Harrison 22e (2022) Ch.315 Sepsis and Septic Shock, p.2365"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Critical Care, p.264"
+          "display": "📚 Washington 2022 Critical Care, p.264"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Critical Care, p.265"
+          "display": "📚 Washington 2022 Critical Care, p.265"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Sepsis, p.164"
+          "display": "📚 Pocket 8e (2022) Pulmonary, p.164"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Sepsis, p.164"
+          "display": "📚 Pocket 8e (2022) Pulmonary, p.164"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Diseases of the Gallbladder and Bile Ducts, p.2776"
+          "display": "📚 Harrison 22e (2022) Ch.357 Diseases of the Gallbladder and Bile Ducts, p.2776"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Gallstone disease, p.1184"
+          "display": "📚 Sleisenger 11e (2020) Ch.62 Anatomy, Histology, Embryology, Developmental Anomalies, and Pediatric Disorders of the Biliary Tract, p.1184"
         }
       ],
       "discordance": null,
@@ -28074,7 +28074,7 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Pain: Pathophysiology and Management, p.141"
+          "display": "📚 Harrison 22e (2022) Ch.14 Pain: Pathophysiology and Management, p.141"
         },
         {
           "kind": "oe",
@@ -28096,15 +28096,15 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Approach to the Patient with Nausea and Vomiting, p.661"
+          "display": "📚 Yamada 7e (2022) Ch.33 Approach to the patient with nausea and vomiting, p.661"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Approach to the Patient with Nausea and Vomiting, p.661"
+          "display": "📚 Yamada 7e (2022) Ch.33 Approach to the patient with nausea and vomiting, p.661"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Nausea and Vomiting, p.215"
+          "display": "📚 Sleisenger 11e (2020) Ch.15 Nausea and Vomiting, p.215"
         }
       ],
       "discordance": null,
@@ -28122,19 +28122,19 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Shock, p.2358"
+          "display": "📚 Harrison 22e (2022) Ch.314 Approach to the Patient with Shock, p.2358"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Critical Care - Shock, p.263"
+          "display": "📚 Washington 2022 Critical Care, p.263"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Transfusion Medicine, p.956"
+          "display": "📚 Harrison 22e (2022) Ch.118 Transfusion Therapy and Biology, p.956"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022), p.2174"
+          "display": "📚 Yamada 7e (2022) Ch.101 Hepatocellular carcinoma, p.2174"
         },
         {
           "kind": "oe",
@@ -28156,31 +28156,31 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Sepsis and shock, p.163"
+          "display": "📚 Pocket 8e (2022) Pulmonary, p.163"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Sepsis and shock, p.164"
+          "display": "📚 Pocket 8e (2022) Pulmonary, p.164"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Critical Care, p.264"
+          "display": "📚 Washington 2022 Critical Care, p.264"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Critical Care, p.265"
+          "display": "📚 Washington 2022 Critical Care, p.265"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Sepsis and septic shock, p.2365"
+          "display": "📚 Harrison 22e (2022) Ch.315 Sepsis and Septic Shock, p.2365"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Peritonitis, p.641"
+          "display": "📚 Sleisenger 11e (2020) Ch.39 Surgical Peritonitis and Other Diseases of the Peritoneum, Mesentery, Omentum, and Diaphragm, p.641"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Peritonitis, p.641"
+          "display": "📚 Sleisenger 11e (2020) Ch.39 Surgical Peritonitis and Other Diseases of the Peritoneum, Mesentery, Omentum, and Diaphragm, p.641"
         }
       ],
       "discordance": null,
@@ -28198,31 +28198,31 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Liver Transplantation, p.2763"
+          "display": "📚 Harrison 22e (2022) Ch.356 Liver Transplantation, p.2763"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Liver Transplantation, p.2763"
+          "display": "📚 Harrison 22e (2022) Ch.356 Liver Transplantation, p.2763"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Liver Transplantation, p.1889"
+          "display": "📚 Sleisenger 11e (2020) Ch.97 Liver Transplantation, p.1889"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Liver Transplantation, p.1891"
+          "display": "📚 Sleisenger 11e (2020) Ch.97 Liver Transplantation, p.1891"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Liver Transplantation, p.2148"
+          "display": "📚 Yamada 7e (2022) Ch.100 Liver transplantation, p.2148"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Cirrhosis, p.228"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.228"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Liver Diseases, p.708"
+          "display": "📚 Washington 2022 Liver Diseases, p.708"
         }
       ],
       "discordance": null,
@@ -28244,27 +28244,27 @@
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022), p.371"
+          "display": "📚 Harrison 22e (2022) Ch.53 Abdominal Swelling and Ascites, p.371"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Ascites, p.241"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.241"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Pulmonary Diseases (Pleural effusion), p.366"
+          "display": "📚 Washington 2022 Pulmonary Diseases, p.366"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.98 Ascites, p.2099"
+          "display": "📚 Yamada 7e (2022) Ch.98 Ascites and its complications, p.2099"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.98 Ascites, p.2100"
+          "display": "📚 Yamada 7e (2022) Ch.98 Ascites and its complications, p.2100"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.98 Ascites, p.2103"
+          "display": "📚 Yamada 7e (2022) Ch.98 Ascites and its complications, p.2103"
         },
         {
           "kind": "textbook",
@@ -28286,19 +28286,19 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Surgical and Endoscopic Treatment of Obesity, p.128"
+          "display": "📚 Sleisenger 11e (2020) Ch.8 Surgical and Endoscopic Treatment of Obesity, p.128"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Surgical and Endoscopic Treatment of Obesity, p.124"
+          "display": "📚 Sleisenger 11e (2020) Ch.8 Surgical and Endoscopic Treatment of Obesity, p.124"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Bariatric Surgery, p.2263"
+          "display": "📚 Yamada 7e (2022) Ch.109 Bariatric surgery, p.2263"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Evaluation and Management of Obesity, p.3237"
+          "display": "📚 Harrison 22e (2022) Ch.414 Evaluation and Management of Obesity, p.3237"
         }
       ],
       "discordance": "Yamada 7e 描述袖狀胃滲漏可由發燒、心搏過速與腹痛的症狀表現診斷（p.2263），而 Sleisenger 11e 指出滲漏常無發燒、白血球升高或疼痛，最常見徵象為心搏過速（p.128）。兩者皆未支持「必然迅速出現高燒、明顯腹膜炎與嚴重休克」，與官方答案方向一致；另外，選項 D 的具體補液速率（4 mL/kg/h）在五本 digested 內未查得對應原文，僅依官方答案處理。",
@@ -28316,11 +28316,11 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.54 Adenocarcinoma of the stomach and other gastric tumors, p.977"
+          "display": "📚 Sleisenger 11e (2020) Ch.54 Adenocarcinoma of the Stomach and Other Gastric Tumors, p.977"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.54 Adenocarcinoma of the stomach and other gastric tumors, p.977"
+          "display": "📚 Sleisenger 11e (2020) Ch.54 Adenocarcinoma of the Stomach and Other Gastric Tumors, p.977"
         },
         {
           "kind": "textbook",
@@ -28328,7 +28328,7 @@
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.333 Diagnostic and therapeutic gastrointestinal endoscopy, p.2514"
+          "display": "📚 Harrison 22e (2022) Ch.333 Gastrointestinal Endoscopy, p.2514"
         }
       ],
       "discordance": "Sleisenger 11e（p.977–978）另載日本擴大 ESD 適應症：黏膜腸型癌不論大小且無潰瘍、黏膜腸型癌小於 3 公分且伴潰瘍、黏膜下侵犯小於 500 μm 之腸型癌小於 3 公分，顯示在擴大準則下，部分伴潰瘍的病灶亦可行 ESD。這與傳統 EMR「標準」準則的大小與潰瘍限制不同；本題問的是標準適應症，答案仍以官方 C 為準。Yamada 7e（p.1116）亦指出潰瘍型 EGC 浸潤與淋巴結轉移風險較高。",
@@ -28346,23 +28346,23 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Intestinal Obstruction, p.2495"
+          "display": "📚 Sleisenger 11e (2020) Ch.123 Intestinal Obstruction, p.2495"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Intestinal Obstruction, p.2496"
+          "display": "📚 Sleisenger 11e (2020) Ch.123 Intestinal Obstruction, p.2496"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Acute Intestinal Obstruction, p.2632"
+          "display": "📚 Harrison 22e (2022) Ch.341 Acute Intestinal Obstruction, p.2632"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Acute Intestinal Obstruction, p.2633"
+          "display": "📚 Harrison 22e (2022) Ch.341 Acute Intestinal Obstruction, p.2633"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022), p.168"
+          "display": "📚 Yamada 7e (2022) Ch.5 Small intestine: anatomy and structural anomalies, p.168"
         }
       ],
       "discordance": "Harrison 22e 的 SBO 病因表將腫瘤列為約 20%（p.2633），與選項 C 的「約 20%」數字相符；但 Sleisenger 11e 指出癌症約佔 SBO 的 5%–10%，其中超過 90% 為小腸以外腫瘤造成的腸外阻塞，原發小腸腫瘤不到 3%（p.2495）。兩書對腫瘤比例的數字不同，但皆不支持「多數為小腸原發腫瘤」，故官方答案 C 結論不受影響。",
@@ -28380,7 +28380,7 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020), p.241"
+          "display": "📚 Sleisenger 11e (2020) Ch.16 Diarrhea, p.241"
         }
       ],
       "discordance": null,
@@ -28406,7 +28406,7 @@
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022), p.192"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.192"
         },
         {
           "kind": "oe",
@@ -28446,11 +28446,11 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Ostomy Complications and Management, p.2377"
+          "display": "📚 Sleisenger 11e (2020) Ch.117 Ileostomies, Colostomies, Pouches, and Anastomoses, p.2377"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Ostomy Complications and Management, p.2377"
+          "display": "📚 Sleisenger 11e (2020) Ch.117 Ileostomies, Colostomies, Pouches, and Anastomoses, p.2377"
         }
       ],
       "discordance": null,
@@ -28468,23 +28468,23 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Inflammatory Bowel Disease, p.2599"
+          "display": "📚 Harrison 22e (2022) Ch.337 Inflammatory Bowel Disease, p.2599"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.64 Crohn's Disease: Clinical Manifestations and Management, p.1371"
+          "display": "📚 Yamada 7e (2022) Ch.64 Crohn's disease: clinical manifestations and management, p.1371"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020), p.2401"
+          "display": "📚 Sleisenger 11e (2020) Ch.118 Intestinal Ischemia, p.2401"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Inflammatory Bowel Disease, p.196"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.196"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases — Inflammatory Bowel Disease, p.644"
+          "display": "📚 Washington 2022 Gastrointestinal Diseases, p.644"
         }
       ],
       "discordance": null,
@@ -28502,19 +28502,19 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Inflammatory Bowel Disease, p.194"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.194"
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Inflammatory Bowel Disease, p.194"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.194"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.644"
+          "display": "📚 Washington 2022 Gastrointestinal Diseases, p.644"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Inflammatory Bowel Disease, p.2598"
+          "display": "📚 Harrison 22e (2022) Ch.337 Inflammatory Bowel Disease, p.2598"
         },
         {
           "kind": "textbook",
@@ -28526,7 +28526,7 @@
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.63 Ulcerative Colitis: Clinical Manifestations and Management, p.1329"
+          "display": "📚 Yamada 7e (2022) Ch.63 Ulcerative colitis: clinical manifestations and management, p.1329"
         }
       ],
       "discordance": null,
@@ -28544,11 +28544,11 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Ulcerative Colitis (Surgery, pelvic sepsis), p.2373"
+          "display": "📚 Sleisenger 11e (2020) Ch.117 Ileostomies, Colostomies, Pouches, and Anastomoses, p.2373"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Ulcerative Colitis (Surgery, pelvic sepsis), p.2378"
+          "display": "📚 Sleisenger 11e (2020) Ch.117 Ileostomies, Colostomies, Pouches, and Anastomoses, p.2378"
         }
       ],
       "discordance": null,
@@ -28574,15 +28574,15 @@
         },
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Paralytic ileus of the colon & small bowel, p.189"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.189"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.652"
+          "display": "📚 Washington 2022 Gastrointestinal Diseases, p.652"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022), p.317"
+          "display": "📚 Yamada 7e (2022) Ch.13 Smooth muscle and pacemakers of the gut, p.317"
         }
       ],
       "discordance": null,
@@ -28618,27 +28618,27 @@
       "references": [
         {
           "kind": "textbook",
-          "display": "📚 Pocket 8e (2022) Ch.Ascites, p.240"
+          "display": "📚 Pocket 8e (2022) Gastroenterology, p.240"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Liver Diseases, p.703"
+          "display": "📚 Washington 2022 Liver Diseases, p.703"
         },
         {
           "kind": "textbook",
-          "display": "📚 Washington 2022 Ch.Treatment of Infectious Diseases, p.508"
+          "display": "📚 Washington 2022 Treatment of Infectious Diseases, p.508"
         },
         {
           "kind": "textbook",
-          "display": "📚 Harrison 22e (2022) Ch.Infectious Complications of Peritonitis (Secondary Peritonitis), p.1114"
+          "display": "📚 Harrison 22e (2022) Ch.137 Intraabdominal Infections and Abscesses, p.1114"
         },
         {
           "kind": "textbook",
-          "display": "📚 Yamada 7e (2022) Ch.Peritonitis, p.2212"
+          "display": "📚 Yamada 7e (2022) Ch.105 Diseases of the peritoneum, retroperitoneum, mesentery, and omentum, p.2212"
         },
         {
           "kind": "textbook",
-          "display": "📚 Sleisenger 11e (2020) Ch.Intraabdominal Abscesses, p.431"
+          "display": "📚 Sleisenger 11e (2020) Ch.29 Abdominal Abscesses and Gastrointestinal Fistulas, p.431"
         }
       ],
       "discordance": null,
