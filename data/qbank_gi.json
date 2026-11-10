@@ -1,8 +1,8 @@
 {
   "version": "v001",
-  "generated_at": "20260615_1142",
+  "generated_at": "20261110_0828",
   "counts": {
-    "total": 513,
+    "total": 557,
     "by_year": {
       "104": 53,
       "105": 34,
@@ -15,7 +15,8 @@
       "111": 43,
       "112": 33,
       "113": 45,
-      "114": 43
+      "114": 43,
+      "115": 44
     }
   },
   "books": [
@@ -34,6 +35,10 @@
     {
       "id": 4,
       "label": "Washington 2022"
+    },
+    {
+      "id": 5,
+      "label": "Yamada 7e (2022)"
     }
   ],
   "Q": [
@@ -12452,6 +12457,1090 @@
       "answer_status": "正常",
       "subspecialty": "小腸",
       "subtopic": "急性闌尾炎徵象",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_im-GI-8",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 8,
+      "stem": "病人有肝硬化病史，平時僅有少量腹水，今日因突發性腹部劇痛、體溫 39.1 ° C 與畏寒 被送至急診。檢查發現全腹部有明顯的壓痛與反彈痛，腹壁顯得僵硬。腹水穿刺及血清 生化檢驗報告如下，血清白蛋白 2.2 g / dL；腹水白蛋白 1.4 g / dL；腹水總蛋白 3.5 g / dL； 腹水白血球 9500 / μ L( 分類以多核中性球 PMN 佔 85 % 為主 ) 。根據臨床表現與檢查報告， 下列病情評估與即時處置何者正確？",
+      "options": {
+        "A": "血清與腹水白蛋白差值 ( SAAG ) 小於 1.1 g / dL，代表目前無門脈高壓併發症，可排除 腹腔內器官破裂的可能，給予口服抗生素",
+        "B": "腹水總蛋白大於 3.0 g / dL 且 SAAG 小於 1.1 g / dL，可能是腹腔內結核，可給予肺結核 藥物治療",
+        "C": "SAAG 小於 1.1 g / dL，可能為繼發性腹膜炎，應立即安排腹部電腦斷層並照會外科",
+        "D": "腹水白血球高，且以多核中性球PMN為主，可能為自發性細菌性腹膜炎，給予抗生素 治療即可"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "肝",
+      "subtopic": "肝硬化腹水 繼發性腹膜炎/SBP鑑別",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_im-GI-10",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 10,
+      "stem": "68 歲病人因嚴重呼吸困難與咳嗽入院，胸部 X 光：右側有大量肋膜積液。胸腔穿刺抽水及 檢查報告如下，血清 total protein 6.5 g / dL、LDH 240 U / L；肋膜積液 total protein 4.2 g / dL、 LDH 210 U / L、glucose 45 mg / dL，下列何者為此肋膜積液最可能的性質與診斷？",
+      "options": {
+        "A": "漏出液 ( transudate ) 常見於鬱血性心衰竭",
+        "B": "漏出液 ( transudate ) 常見於肝硬化腹水",
+        "C": "滲出液 ( exudate ) 常見於細菌性肺炎或膿胸",
+        "D": "滲出液 ( exudate ) 常見於腎病症候群"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "肝",
+      "subtopic": "肋膜積液漏出液/滲出液(選項含肝硬化腹水)",
+      "cross_specialty": true,
+      "figures": []
+    },
+    {
+      "id": "115-inad_im-GI-15",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 15,
+      "stem": "超音波影像如圖 ( 四 ) ，下列何者為最適當的診斷？",
+      "options": {
+        "A": "膽管擴張 ( CBD dilatation )",
+        "B": "腎積水 / 水腎 ( hydronephrosis )",
+        "C": "腦積水或水腦症 ( hydrocephalus )",
+        "D": "胰臟炎 ( pancreatitis )"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "跨系統",
+      "subtopic": "超音波影像診斷(選項含膽管擴張/胰臟炎)",
+      "cross_specialty": true,
+      "figures": [
+        {
+          "caption": "圖（四）超音波影像",
+          "images": [
+            "assets/figures/115_inad_im/q15.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "115-inad_im-GI-19",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 19,
+      "stem": "68歲病人因嚴重膽囊炎併發敗血性休克被送至急診。檢查發現體溫39.2°C、脈搏124次/分、 血壓 78 / 42 mmHg ( MAP 54 mmHg ) ，且伴隨意識模糊與少尿。有關該病人的處置原則， 下列敘述何者 最不適當 ？",
+      "options": {
+        "A": "立即建立大口徑靜脈通路，並在最初 1 小時內給予 15 mL / kg 的晶體溶液 ( crystalloid ) 積極復甦",
+        "B": "在 1 小時內完成血液培養抽樣，並給予廣效靜脈抗生素治療",
+        "C": "給予點滴輸液後，若MAP持續小於65mmHg，應儘速啟動第一線升壓劑norepinephrine",
+        "D": "除了藥物與輸液外，必須在診斷後儘速安排經皮膽囊引流術或手術切除"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "膽",
+      "subtopic": "膽囊炎併敗血性休克處置/膽囊引流",
+      "cross_specialty": true,
+      "figures": []
+    },
+    {
+      "id": "115-inad_im-GI-31",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 31,
+      "stem": "病人因近 4 個月來食慾不振、體重減輕 8 kg 及上腹部不適至門診就醫。血液檢查顯示 Hb 9.2 g / dL，糞便潛血試驗陽性，身體檢查發現左鎖骨上窩可觸及一顆 2 × 3 公分無痛性 結節。下列何者是最可能的診斷？",
+      "options": {
+        "A": "胃腺癌 ( gastric adenocarcinoma )",
+        "B": "胰臟癌 ( pancreatic adenocarcinoma )",
+        "C": "原發性肝細胞癌 ( hepatocellular carcinoma )",
+        "D": "食道鱗狀上皮癌 ( esophageal squamous cell carcinoma )"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "GI腫瘤通則",
+      "subtopic": "胃癌Virchow淋巴結診斷",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_im-GI-34",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 34,
+      "stem": "失智長者因高燒、呼吸喘送醫，照護者主訴病人已連續 3 日未曾喝水或進食。到院後初步 檢測體溫 41 ℃、血壓 80 / 60 mmHg、指尖血糖 36 mg/ dL，家屬拒絕放置靜脈留滯針，醫師 立即幫病人放置鼻胃管如圖 ( 八 ) ，下列處置何者最適當？",
+      "options": {
+        "A": "移除鼻胃管",
+        "B": "經鼻胃管給予退燒藥物 ( acetaminophen 500 mg )",
+        "C": "經鼻胃管給予 200 ml 水",
+        "D": "經鼻胃管給予 50 % 葡萄糖水 60 ml 餵食"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "GI內視鏡與處置",
+      "subtopic": "鼻胃管置放與給藥處置",
+      "cross_specialty": true,
+      "figures": [
+        {
+          "caption": "圖（八）鼻胃管位置（X 光）",
+          "images": [
+            "assets/figures/115_inad_im/q34.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "115-inad_im-GI-39",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 39,
+      "stem": "病人因反覆上腹部疼痛 3 個月至門診就醫，表示疼痛多於餐後約 1 小時出現，進食後症狀 反而加劇，近2個月體重減輕4kg。曾自行服用質子幫浦抑制劑，症狀未能緩解。下列處置 何者最適當？",
+      "options": {
+        "A": "持續使用高劑量質子幫浦抑制劑治療 4 週後再決定是否檢查",
+        "B": "安排上消化道內視鏡檢查，以確定胃部病變",
+        "C": "合併制酸劑治療，若症狀持續再安排檢查",
+        "D": "安排幽門螺旋桿菌尿素呼氣試驗"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "胃",
+      "subtopic": "警示症狀消化不良/胃潰瘍胃鏡檢查",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_im-GI-40",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 40,
+      "stem": "病人主訴便祕 3 天，昨晚開始上腹痛、噁心想吐，今日因腹脹且腹痛加劇為瀰漫性疼痛 來院求診，腹部 X 光如圖 ( 九 ) ，下列處置何者最適當？",
+      "options": {
+        "A": "緊急安排上消化道內視鏡檢查",
+        "B": "緊急安排腹部磁振造影檢查",
+        "C": "禁食、給予靜脈質子幫浦抑制劑及廣效性抗生素，並急會外科",
+        "D": "立即禁食並給予鼻胃管引流減壓，24 小時後追蹤腹部 X 光"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "胃",
+      "subtopic": "消化性潰瘍穿孔(腹部X光)處置",
+      "cross_specialty": false,
+      "figures": [
+        {
+          "caption": "圖（九）腹部 X 光",
+          "images": [
+            "assets/figures/115_inad_im/q40.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "115-inad_im-GI-41",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 41,
+      "stem": "58歲肝硬化病人因食道靜脈曲張出血接受內視鏡結紮後，仍持續出血且需反覆輸血。下列 處置何者最適當？",
+      "options": {
+        "A": "持續輸注高劑量質子幫浦抑制劑",
+        "B": "考慮安排經頸靜脈肝內門體分流術",
+        "C": "以非選擇性 β 阻斷劑作為主要止血治療",
+        "D": "放置 Sengstaken - Blakemore tube 7 天，以達穩定止血"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "GI出血",
+      "subtopic": "食道靜脈曲張出血/TIPS",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_im-GI-42",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 42,
+      "stem": "下列何項臨床表徵最支持胃食道逆流疾病，而非其他食道或上腹部疾病？",
+      "options": {
+        "A": "上腹疼痛於空腹時加劇，進食後可明顯緩解",
+        "B": "吞嚥困難由固體食物逐漸惡化至液體食物",
+        "C": "固體及液體食物自發病初期即同樣難以下嚥",
+        "D": "餐後及平躺時症狀加劇，服用質子幫浦抑制劑後改善"
+      },
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "食道",
+      "subtopic": "GERD臨床表徵鑑別",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_im-GI-43",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 43,
+      "stem": "有關慢性C型肝炎接受直接作用抗病毒藥物治療期間之監測與療效評估，下列何者正確？",
+      "options": {
+        "A": "治療完成時，HCV RNA 陰性，可判定已達持續病毒學反應",
+        "B": "治療期間需追蹤 HCV RNA，但無須監測肝功能、腎功能及凝血功能",
+        "C": "治療完成後 12 週，HCV RNA 持續測不到，可判定已達持續病毒學反應",
+        "D": "已達持續病毒學反應後，可停止肝細胞癌與肝功能相關追蹤"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "肝",
+      "subtopic": "HCV DAA治療監測與SVR",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_im-GI-44",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 44,
+      "stem": "74 歲病人因突發劇烈腹痛至急診就醫，疼痛已持續約 6 小時，並伴有噁心及嘔吐。生命 徵象為血壓 138 / 82 mmHg、脈搏 112 次 / 分、體溫 37.4 ° C。腹部檢查顯示腸蠕動音減弱， 輕度瀰漫性壓痛，未見明顯反彈痛或肌肉僵硬。抽血顯示 WBC 16500 / μ L。下列何者為 最可能的診斷？",
+      "options": {
+        "A": "小腸阻塞",
+        "B": "急性腸繫膜缺血",
+        "C": "十二指腸潰瘍穿孔",
+        "D": "腹主動脈瘤破裂"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "小腸",
+      "subtopic": "急性腸繫膜缺血診斷",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_im-GI-45",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 45,
+      "stem": "有關血清澱粉酶 ( amylase ) 與血清脂肪酶 ( lipase ) 在急性胰臟炎診斷中的角色，下列敘述 何者最適當？",
+      "options": {
+        "A": "血清澱粉酶正常即可排除急性胰臟炎",
+        "B": "血清脂肪酶通常較血清澱粉酶更早恢復正常",
+        "C": "急性胰臟炎診斷須同時出現兩者升高",
+        "D": "血清脂肪酶較血清澱粉酶更具診斷價值"
+      },
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "胰臟",
+      "subtopic": "急性胰臟炎澱粉酶/脂肪酶診斷",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_im-GI-71",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_im",
+      "category_zh": "進階專科護理_內科",
+      "q_num": 71,
+      "stem": "病人診斷為急性肝臟衰竭合併胃腸道出血，血液報告 Hb 11 g / dL、PLT 200000 / μ L、 aPTT 50 sec、PT INR 2.5，為處理其出血狀況應輸注下列何種血品？",
+      "options": {
+        "A": "packed RBCs",
+        "B": "whole blood",
+        "C": "apheresis platelets",
+        "D": "fresh frozen plasma"
+      },
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "GI出血",
+      "subtopic": "急性肝衰竭合併GI出血輸血",
+      "cross_specialty": true,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-8",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 8,
+      "stem": "病人有肝硬化病史，平時僅有少量腹水，今日因突發性腹部劇痛、體溫 39.1 ° C 與畏寒 被送至急診。檢查發現全腹部有明顯的壓痛與反彈痛，腹壁顯得僵硬。腹水穿刺及血清 生化檢驗報告如下，血清白蛋白 2.2 g / dL；腹水白蛋白 1.4 g / dL；腹水總蛋白 3.5 g / dL； 腹水白血球 9500 / μ L( 分類以多核中性球 PMN 佔 85 % 為主 ) 。根據臨床表現與檢查報告， 下列病情評估與即時處置何者正確？",
+      "options": {
+        "A": "血清與腹水白蛋白差值 ( SAAG ) 小於 1.1 g / dL，代表目前無門脈高壓併發症，可排除 腹腔內器官破裂的可能，給予口服抗生素",
+        "B": "腹水總蛋白大於 3.0 g / dL 且 SAAG 小於 1.1 g / dL，可能是腹腔內結核，可給予肺結核 藥物治療",
+        "C": "SAAG 小於 1.1 g / dL，可能為繼發性腹膜炎，應立即安排腹部電腦斷層並照會外科",
+        "D": "腹水白血球高，且以多核中性球PMN為主，可能為自發性細菌性腹膜炎，給予抗生素 治療即可"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "肝",
+      "subtopic": "肝硬化腹水腹膜炎SAAG",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-10",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 10,
+      "stem": "68 歲病人因嚴重呼吸困難與咳嗽入院，胸部 X 光：右側有大量肋膜積液。胸腔穿刺抽水及 檢查報告如下，血清 total protein 6.5 g / dL、LDH 240 U / L；肋膜積液 total protein 4.2 g / dL、 LDH 210 U / L、glucose 45 mg / dL，下列何者為此肋膜積液最可能的性質與診斷？",
+      "options": {
+        "A": "漏出液 ( transudate ) 常見於鬱血性心衰竭",
+        "B": "漏出液 ( transudate ) 常見於肝硬化腹水",
+        "C": "滲出液 ( exudate ) 常見於細菌性肺炎或膿胸",
+        "D": "滲出液 ( exudate ) 常見於腎病症候群"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "肝",
+      "subtopic": "肋膜積液與肝硬化腹水漏出液",
+      "cross_specialty": true,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-15",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 15,
+      "stem": "超音波影像如圖 ( 四 ) ，下列何者為最適當的診斷？",
+      "options": {
+        "A": "膽管擴張 ( CBD dilatation )",
+        "B": "腎積水 / 水腎 ( hydronephrosis )",
+        "C": "腦積水或水腦症 ( hydrocephalus )",
+        "D": "胰臟炎 ( pancreatitis )"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "膽",
+      "subtopic": "超音波影像判讀(膽管擴張/胰臟炎選項)",
+      "cross_specialty": true,
+      "figures": [
+        {
+          "caption": "圖（四）",
+          "images": [
+            "assets/figures/115_inad_surgery/q15.png"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "115-inad_surgery-GI-19",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 19,
+      "stem": "68歲病人因嚴重膽囊炎併發敗血性休克被送至急診。檢查發現體溫39.2°C、脈搏124次/分、 血壓 78 / 42 mmHg ( MAP 54 mmHg ) ，且伴隨意識模糊與少尿。有關該病人的處置原則， 下列敘述何者 最不適當 ？",
+      "options": {
+        "A": "立即建立大口徑靜脈通路，並在最初 1 小時內給予 15 mL / kg 的晶體溶液 ( crystalloid ) 積極復甦",
+        "B": "在 1 小時內完成血液培養抽樣，並給予廣效靜脈抗生素治療",
+        "C": "給予點滴輸液後，若MAP持續小於65mmHg，應儘速啟動第一線升壓劑norepinephrine",
+        "D": "除了藥物與輸液外，必須在診斷後儘速安排經皮膽囊引流術或手術切除"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "膽",
+      "subtopic": "膽囊炎敗血性休克處置",
+      "cross_specialty": true,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-23",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 23,
+      "stem": "下列何者是術後急性疼痛使用類鴉片止痛劑，導致呼吸抑制的高危險群？",
+      "options": {
+        "A": "55 歲以上",
+        "B": "有肝腎慢性疾病",
+        "C": "吸菸史小於 10 年",
+        "D": "肥胖 ( BMI ＞ 30 kg / m ² )"
+      },
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "肝",
+      "subtopic": "opioid呼吸抑制危險因子(肝腎疾病)",
+      "cross_specialty": true,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-26",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 26,
+      "stem": "下列何者 不是 術後噁心嘔吐併發症的危險因素？",
+      "options": {
+        "A": "女性",
+        "B": "50 歲以下",
+        "C": "抽菸習慣",
+        "D": "手術時間與手術類型"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "跨系統",
+      "subtopic": "術後噁心嘔吐(PONV)危險因素",
+      "cross_specialty": true,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-27",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 27,
+      "stem": "一位病人自高處墜落造成腹部鈍傷，到院時意識清楚，昏迷指數(GCS )E4V5M6。生命徵象 如下：體溫36.8°C、心跳124次/分、呼吸15次/分、血壓75/32mmHg。床邊超音波檢查顯示 腹腔內有大量游離液體。有關此病人的處置，下列何者 錯誤 ？",
+      "options": {
+        "A": "應立即安排電腦斷層檢查，確認器官損傷後再進行剖腹探查",
+        "B": "手術止血前可允許低血壓，維持 SBP 約 80 - 90 mmHg",
+        "C": "應立即啟動大量輸血流程，並進行休克處置",
+        "D": "tranexamic acid 於創傷早期使用，可降低死亡率"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "跨系統",
+      "subtopic": "腹部鈍傷出血性休克處置",
+      "cross_specialty": true,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-31",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 31,
+      "stem": "一位65歲病人因大腸穿孔接受緊急腸道切除手術，術後第1天入住外科加護病房。身體診察 如下：體溫 39.1 ° C、心跳 122 次 / 分、血壓 84 / 50 mmHg、呼吸 28 次 / 分、尿量 15 mL / hr、 血氧飽和度95%(鼻導管氧氣2L/min)、檢查報告顯示血清乳酸(serum lactate)為4.8mmol/L。 下列何者為最適當的初步處置？",
+      "options": {
+        "A": "給予靜脈注射利尿劑 ( furosemide ) ，以預防肺水腫",
+        "B": "給予廣效性抗生素，並迅速輸注靜脈輸液 ( crystalloid )",
+        "C": "等待血液培養結果確認後，再開始抗生素治療",
+        "D": "立即開始連續性腎臟替代治療 ( continuous renal replacement therapy , CRRT )"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "大腸",
+      "subtopic": "大腸穿孔術後敗血性休克",
+      "cross_specialty": true,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-36",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 36,
+      "stem": "有關肝臟移植的敘述，下列何者 錯誤 ？",
+      "options": {
+        "A": "活體捐贈者須年滿 20 歲，且限於五親等以內之血親或姻親",
+        "B": "肝臟移植的優先順序常用 MELD ( model for end - stage liver disease ) score 進行評估",
+        "C": "若以活體捐贈者之安全性來考量，以捐贈右葉肝臟為佳",
+        "D": "術後初期若轉胺酶(AST/ALT)飆升但膽色素正常，常規優先安排都卜勒超音波檢查，評估 肝動脈血流"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "肝",
+      "subtopic": "肝臟移植",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-43",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 43,
+      "stem": "有關乳糜腹水 ( chylous ascites ) 的敘述，下列何者最適當？",
+      "options": {
+        "A": "抽取乳糜腹水進行化驗時，其血清腹水白蛋白梯度 ( SAAG ) 通常會小於 1.1 mg / dL， 且三酸甘油酯會比血漿高出 2 ～ 8 倍以上",
+        "B": "重複進行腹腔穿刺能有效根治此疾病並促進淋巴管修復，但仍需注意可能引發的 低蛋白血症與營養不良",
+        "C": "在成年人中，導致乳糜腹水最常見的病因是腹部主動脈手術等醫源性損傷",
+        "D": "飲食調整上建議攝取低油、高蛋白，並以長鏈甘油三酯取代中鏈甘油三酯以減少乳糜 流速"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "肝",
+      "subtopic": "乳糜腹水",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-44",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 44,
+      "stem": "有關各類腹腔鏡減重手術的敘述，下列何者 最不適當 ？",
+      "options": {
+        "A": "可調節胃束帶術，術後營養缺乏的發生率較低",
+        "B": "袖狀胃切除術，術後滲漏會迅速出現高燒、明顯的腹膜炎跡象以及嚴重的休克狀態",
+        "C": "袖狀胃切除術早期滲漏通常與吻合器故障或組織創傷有關，而晚期滲漏則多與缺血及 胃內高壓有關",
+        "D": "相較於傳統開放式手術，術中發生第三間隙體液流失與出血量顯著較少，因此術後應 限制靜脈輸液，一般可給予 4 mL / kg / h 的靜脈補液"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "胃",
+      "subtopic": "腹腔鏡減重手術",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-46",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 46,
+      "stem": "有關胃腺癌接受內視鏡切除的標準適應症準則，下列何者 最不適當 ？",
+      "options": {
+        "A": "組織病理分型必須屬於腸型腺癌",
+        "B": "腫瘤在胃壁的浸潤深度必須極為表淺，侷限在黏膜層",
+        "C": "直徑小於 2 公分，不論腫瘤表面是否有潰瘍",
+        "D": "病理組織學檢查完全沒有淋巴管或血管的侵犯"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "胃",
+      "subtopic": "早期胃癌內視鏡切除適應症",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-47",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 47,
+      "stem": "有關小腸阻塞的敘述，下列何者 最不適當 ？",
+      "options": {
+        "A": "闌尾破裂或吻合口膿瘍，除了引發局部性腸麻痺也會因造成小腸扭曲／摺疊而造成實質 上的阻塞",
+        "B": "腸沾黏特別好發於骨盆腔或下腹部手術後，主因小腸在骨盆腔內的活動度較高，而在 上腹部則較受到限制",
+        "C": "惡性腫瘤約佔小腸阻塞病因的 20 %，多數是小腸原發性惡性腫瘤引起",
+        "D": "成年人若發生腸套疊通常繼發於息肉或腫瘤等病理性導引點"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "小腸",
+      "subtopic": "小腸阻塞",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-48",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 48,
+      "stem": "一位 67 歲病人因低位直腸癌接受超低位前切除術合併迴腸造口術。術後第 6 天，迴腸造口 引流量增加至 3400 mL / day，合併心跳 108 次 / 分、血壓 98 / 58 mmHg，CRP 持續上升、 creatinine 升高。腹部僅輕度脹氣，無明顯腹膜炎。 下列何者處置最適當？",
+      "options": {
+        "A": "補充水分與電解質，同時安排腹部及骨盆 CT，排除吻合口滲漏或腹腔感染",
+        "B": "立即安排造口關閉手術",
+        "C": "停止經口進食，開始 TPN，48 小時後再評估",
+        "D": "立即給予 loperamide 及大量補液，繼續觀察"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "大腸",
+      "subtopic": "迴腸造口高輸出量",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-49",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 49,
+      "stem": "一位 76 歲病人接受腹腔鏡右半結腸切除術，依 ERAS 計畫術後開始進食。術後第 2 天出現 持續嘔吐、腹脹、發燒，體溫 38.3 ° C、心跳 116 次 / 分，且 CRP 明顯升高，尚未排氣。 下列何者最適當？",
+      "options": {
+        "A": "先給止吐藥，觀察是否改善",
+        "B": "再觀察 2 天後再決定是否檢查",
+        "C": "繼續 ERAS 計畫，鼓勵進食與下床活動",
+        "D": "停止口服飲食，必要時放置鼻胃管，並安排腹部電腦斷層檢查"
+      },
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "大腸",
+      "subtopic": "右半結腸切除術後併發症",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-50",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 50,
+      "stem": "一位 60 歲病人接受直腸癌低位前切除術後 6 個月，出現排便次數增加、急迫感及偶發 糞便失禁。下列何者為最可能的診斷？",
+      "options": {
+        "A": "吻合口滲漏",
+        "B": "低位前切除症候群",
+        "C": "潰瘍性結腸炎",
+        "D": "假膜性腸炎"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "大腸",
+      "subtopic": "低位前切除症候群",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-51",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 51,
+      "stem": "一位 69 歲病人接受 Hartmann 手術並建立永久性結腸造口。術後發現造口呈暗紫色， 但內視鏡檢查顯示缺血僅限於造口表面，筋膜以下腸道血流正常。下列何者最適當？",
+      "options": {
+        "A": "立即重新建立造口",
+        "B": "拆除造口縫線",
+        "C": "密切觀察並持續追蹤",
+        "D": "給予抗凝血治療"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "大腸",
+      "subtopic": "結腸造口缺血處置",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-52",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 52,
+      "stem": "一位 28 歲病人，近 8 個月反覆出現右下腹疼痛、間歇性腹瀉及體重減輕 6 公斤。近 1 個月 因肛門疼痛就醫，發現肛門瘻管。抽血顯示CRP 升高，糞便calprotectin升高。大腸鏡發現 多處正常黏膜夾雜潰瘍病灶 ( skip lesions ) ，進一步腹部 MRI 顯示某段結腸壁增厚及狹窄。 依上述臨床表現，下列何者最可能為以上疾病最常侵犯的解剖部位？",
+      "options": {
+        "A": "直腸",
+        "B": "迴盲部",
+        "C": "乙狀結腸",
+        "D": "降結腸"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "大腸",
+      "subtopic": "克隆氏症好發部位",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-53",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 53,
+      "stem": "一位 32 歲病人反覆出現血便及腹瀉，大腸鏡顯示病灶由直腸開始，連續向近端延伸。 如果它是發炎性腸疾病 ( inflammatory bowel disease ) ，下列何者符合它的特徵？",
+      "options": {
+        "A": "跳躍式病灶",
+        "B": "全層性發炎",
+        "C": "連續性黏膜發炎",
+        "D": "常形成瘻管"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "大腸",
+      "subtopic": "潰瘍性結腸炎特徵",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-54",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 54,
+      "stem": "一位68歲病人因低位直腸癌接受低位前切除術合併保護性迴腸造口。術後第4天出現發燒， 體溫 38.9 ° C、心跳 118 次 / 分、CRP 明顯升高，骨盆引流液呈混濁且有糞臭味。下列何者 為最適當的處置？",
+      "options": {
+        "A": "使用抗生素，24 小時後再觀察",
+        "B": "安排腹部及骨盆電腦斷層評估是否吻合口滲漏",
+        "C": "拔除骨盆引流管",
+        "D": "可能是正常術後發炎反應，繼續觀察"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "大腸",
+      "subtopic": "吻合口滲漏處置",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-66",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 66,
+      "stem": "一位 65 歲病人接受左半結腸切除術，術後第 5 天仍未排氣，合併腹脹及腸音減弱。腹部 X 光顯示小腸與大腸均擴張，未見明顯阻塞點。下列何者為最可能的診斷？",
+      "options": {
+        "A": "術後腸麻痺",
+        "B": "吻合口狹窄",
+        "C": "絞窄性腸阻塞",
+        "D": "機械性腸阻塞"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "大腸",
+      "subtopic": "術後腸麻痺",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-inad_surgery-GI-69",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "inad_surgery",
+      "category_zh": "進階專科護理_外科",
+      "q_num": 69,
+      "stem": "腸造口病人因腸胃道分泌物導致皮膚損傷的機制為何？",
+      "options": {
+        "A": "機械性",
+        "B": "潮濕性",
+        "C": "化學性",
+        "D": "感染性"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "大腸",
+      "subtopic": "腸造口周圍皮膚損傷",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-common-GI-4",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "common",
+      "category_zh": "專科護理通論",
+      "q_num": 4,
+      "stem": "根據「專科護理師於醫師監督下執行醫療業務辦法」，下列何者最 不符合 ？",
+      "options": {
+        "A": "開立全靜脈營養輸液",
+        "B": "執行病人鼻胃管置放",
+        "C": "安排上消化道內視鏡",
+        "D": "執行中央靜脈導管置放"
+      },
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "GI內視鏡與處置",
+      "subtopic": "NP業務範圍(TPN/鼻胃管/上消化道內視鏡)",
+      "cross_specialty": true,
+      "figures": []
+    },
+    {
+      "id": "115-common-GI-36",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "common",
+      "category_zh": "專科護理通論",
+      "q_num": 36,
+      "stem": "根據國民健康署「成人肥胖防治實證指引」，有關肥胖與疾病關係之敘述，下列何者 錯誤 ？",
+      "options": {
+        "A": "身體質量指數 ( BMI ) 越低，罹癌風險越高",
+        "B": "過重與肥胖增加男性及女性不孕症的機率",
+        "C": "肥胖合併膝退化關節炎病人，減重 5 - 10 % 可改善疼痛",
+        "D": "減重可改善非酒精性脂肪肝炎之功能及肝纖維化"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "肝",
+      "subtopic": "NASH減重改善肝纖維化",
+      "cross_specialty": true,
+      "figures": []
+    },
+    {
+      "id": "115-common-GI-50",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "common",
+      "category_zh": "專科護理通論",
+      "q_num": 50,
+      "stem": "有關幽門螺旋桿菌除菌與胃癌預防之敘述，下列何者最正確？",
+      "options": {
+        "A": "須待發生胃潰瘍後除菌，始具預防效果",
+        "B": "除菌後胃癌風險可立即完全降為零",
+        "C": "人與人間不會傳染，除菌針對個案本人即可",
+        "D": "在癌前病變前除菌，通常有較佳預防效果"
+      },
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "胃",
+      "subtopic": "幽門螺旋桿菌除菌與胃癌預防",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-common-GI-59",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "common",
+      "category_zh": "專科護理通論",
+      "q_num": 59,
+      "stem": "根據 Rome IV 準則，下列何者為診斷腸躁症之必要條件？",
+      "options": {
+        "A": "反覆腹脹或腹部不適",
+        "B": "反覆腹痛平均每週至少 1 天，持續近 3 個月",
+        "C": "無痛性腹瀉持續 6 個月以上",
+        "D": "大腸切片顯示黏膜淋巴球浸潤"
+      },
+      "answer": "B",
+      "accepted_answers": [
+        "B"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "大腸",
+      "subtopic": "腸躁症Rome IV診斷",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-common-GI-60",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "common",
+      "category_zh": "專科護理通論",
+      "q_num": 60,
+      "stem": "病人因急性肝炎住院，血清學檢查結果為HBsAg陰性、anti-HBs陰性、IgM anti-HBc陽性。 下列何者為最合理之判讀？",
+      "options": {
+        "A": "已緩解之急性 B 型肝炎感染",
+        "B": "接種 B 型肝炎疫苗後之免疫狀態",
+        "C": "急性 B 型肝炎之空窗期",
+        "D": "慢性 B 型肝炎帶原狀態"
+      },
+      "answer": "C",
+      "accepted_answers": [
+        "C"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "肝",
+      "subtopic": "B型肝炎血清學判讀",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-common-GI-61",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "common",
+      "category_zh": "專科護理通論",
+      "q_num": 61,
+      "stem": "40歲病人主訴喉部有異物感，感覺不論是否吞嚥皆持續存在，惟常於吞嚥動作後暫時緩解。 有關病況之敘述，下列何者最有可能？",
+      "options": {
+        "A": "常見於焦慮或強迫症病人，與胃食道逆流相關",
+        "B": "此為典型的吞嚥困難，應優先安排食道壓力測試",
+        "C": "通常因迷走神經反射造成之唾液分泌過多所引起",
+        "D": "通常為喉部感染所引起之吞嚥疼痛"
+      },
+      "answer": "A",
+      "accepted_answers": [
+        "A"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "食道",
+      "subtopic": "咽喉異物感(globus)",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-common-GI-74",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "common",
+      "category_zh": "專科護理通論",
+      "q_num": 74,
+      "stem": "57 歲病人因右上腹持續疼痛 3 天就醫，下列敘述何者正確？",
+      "options": {
+        "A": "Murphy sign 陽性，表示有膽管炎",
+        "B": "發燒、右上腹痛與黃疸，為膽囊炎之典型表現",
+        "C": "急性胰臟炎最常見之病因為膽固醇過高",
+        "D": "若有總膽管結石，可能出現灰白色糞便"
+      },
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "膽",
+      "subtopic": "膽囊炎與膽道疾病表現",
+      "cross_specialty": false,
+      "figures": []
+    },
+    {
+      "id": "115-common-GI-75",
+      "roc_year": 115,
+      "sitting": null,
+      "category": "common",
+      "category_zh": "專科護理通論",
+      "q_num": 75,
+      "stem": "有關急性闌尾炎身體診察徵象之敘述，下列何者正確？",
+      "options": {
+        "A": "McBurney point 位於劍突與右側髂前上棘連線之中外三分之一交界處",
+        "B": "Rovsing sign 係指按壓右下腹時，病人出現左下腹疼痛",
+        "C": "psoas sign 係指固定病人左膝後請其抬起左大腿，引發腹痛加劇",
+        "D": "obturator sign 係指病人右髖與膝關節屈曲後，將右大腿內旋，引發腹痛加劇"
+      },
+      "answer": "D",
+      "accepted_answers": [
+        "D"
+      ],
+      "answer_status": "正常",
+      "subspecialty": "大腸",
+      "subtopic": "急性闌尾炎身體診察徵象",
       "cross_specialty": false,
       "figures": []
     }
@@ -26142,6 +27231,1414 @@
         {
           "kind": "textbook",
           "display": "📚 Harrison 22e (2022) Ch.Chapter 85 Esophageal and Gastric Tumors, p.688"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-common-GI-36": {
+      "quick": "肥胖會增加多種癌症風險，並非 BMI 越低罹癌風險越高，故 A 敘述錯誤，為官方答案。",
+      "background": "肥胖是多種慢性疾病的危險因子，包括第 2 型糖尿病、心血管疾病、膽囊疾病、肝病（NAFLD/NASH）、癌症與骨關節炎等。\n癌症方面，肥胖男性結腸、直腸、攝護腺癌風險上升；肥胖女性生殖系統癌（如子宮內膜癌）與膽囊癌增加，子宮內膜癌與脂肪組織增加雌激素生成有關。\n骨關節炎在肥胖者明顯增加，減重後症狀通常改善。\nNAFLD/NASH 的治療基石是減重，減重幅度越大，肝臟組織學（脂肪變性、發炎、纖維化）改善越明顯，減重手術亦有實證。\n本題依國健署成人肥胖防治實證指引出題，主結論以官方答案為準；textbook 查證的是肥胖與各疾病間的一般關係。",
+      "options": {
+        "A": "錯誤（為本題答案）。肥胖與多種癌症風險上升相關，並非 BMI 越低罹癌風險越高。",
+        "B": "正確。過重與肥胖與生殖功能異常、不孕風險上升相關（此點五本 textbook 未查得直接段落，依官方指引敘述不予翻盤）。",
+        "C": "正確。肥胖合併膝退化性關節炎者，減重可減輕負重與疼痛，指引所述減重 5-10% 可改善疼痛。",
+        "D": "正確。減重是 NAFLD/NASH 的治療基石，可改善肝臟組織學，包括肝纖維化。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Obesity, p.116"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Obesity, p.115"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022), p.2997"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022), p.2230"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-common-GI-4": {
+      "quick": "依辦法附表一，專科護理師可做的侵入性管路處置只有周邊置入中央導管（PICC/PCVC）置入及拔除、以及中央靜脈導管「移除」，並不含中央靜脈導管（CVC）置放，故 D 最不符合。",
+      "background": "專科護理師於醫師監督下執行醫療業務辦法（護理人員法第24條授權訂定）規定，專科護理師須在醫師監督下（不必親自在場）執行第六條所列業務。業務分兩類：非侵入性處置包括預立醫療流程所規範醫囑表單之開立、檢驗檢查之初步綜合判斷、醫療諮詢、製作病歷等；侵入性處置則逐項列於附表一（內科、外科等）與附表二（麻醉科）。附表一的管路處置包含初次胃管置入、胃造瘻管及腸造瘻管更換或拔除、PICC/PCVC 置入及拔除、周邊動脈導管置入及拔除、中央靜脈導管移除等；中央靜脈導管的「置放」不在列表內。醫療機構須設專科護理師執行醫療業務委員會訂定標準作業程序與預立醫療流程，監督醫師須於二十四小時內完成核對簽署或醫囑記錄。",
+      "options": {
+        "A": "符合規定（非答案）：全靜脈營養輸液屬醫囑表單之開立，可依委員會核定的預立醫療流程，在醫師監督下開立。",
+        "B": "符合規定（非答案）：附表一管路處置列有「初次胃管置入」，鼻胃管置放屬專科護理師可執行項目。",
+        "C": "符合規定（非答案）：安排上消化道內視鏡屬預立醫療流程下之醫囑表單開立與檢查之處置，並非侵入性操作本身，不在禁止範圍。",
+        "D": "最不符合（正解）：附表一僅列「周邊靜脈置入中央導管（PICC/PCVC）置入及拔除」與「中央靜脈導管移除」，未列中央靜脈導管置放，故專科護理師不得依本辦法執行。"
+      },
+      "references": [
+        {
+          "kind": "web",
+          "display": "🌐 20261110_0818 查詢 全國法規資料庫「專科護理師於醫師監督下執行醫療業務辦法」附表一 — 「14.周邊靜脈置入中央導管(PICC/PCVC)置入及拔除。」（https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020185）"
+        },
+        {
+          "kind": "web",
+          "display": "🌐 20261110_0818 查詢 全國法規資料庫「專科護理師於醫師監督下執行醫療業務辦法」附表一 — 「22.中央靜脈導管移除。」（https://law.moj.gov.tw/LawClass/LawAll.aspx?pcode=L0020185）"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-common-GI-50": {
+      "quick": "幽門螺旋桿菌（H. pylori）除菌對胃癌的預防效益，以在萎縮性胃炎、腸上皮化生、異生等癌前病變出現之前除菌最佳，故選 D。",
+      "background": "H. pylori 為第 I 類致癌物，與胃癌發生相關。胃癌的 Correa 路徑為慢性胃炎、萎縮、腸上皮化生、異生、癌。除菌的預防效益取決於時機：在細胞變化累積到「無法回頭點」之前除菌，較能降低胃癌發生；已有癌前病變者，除菌後風險仍不會歸零，仍需追蹤。針對健康感染者的隨機試驗中，整體組別未見顯著差異，但在試驗開始時尚無癌前病變的次族群，胃癌發生率下降。因此預防策略重點在早期識別與早期除菌，而非等到潰瘍或癌前病變發生後才處理。",
+      "options": {
+        "A": "錯。不需等到發生胃潰瘍才除菌；較早（尚無癌前病變時）除菌的預防效益反而較好。",
+        "B": "錯。除菌後胃癌風險不會立即完全降為零，尤其已有萎縮、腸上皮化生者風險仍持續，需依風險追蹤。",
+        "C": "錯。H. pylori 可在人與人之間傳播（如家庭內群聚），不能僅處理個案本人而忽略接觸者。",
+        "D": "對。在癌前病變前除菌，較能降低胃癌風險，為官方標準答案。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.H. pylori and acid peptic disorders, p.2562"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020), p.971"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022), p.1121"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-common-GI-59": {
+      "quick": "Rome IV 診斷腸躁症（IBS）的核心必要條件是「反覆腹痛，近 3 個月平均每週至少 1 天」，且需合併 ≥2 項與排便相關或糞便頻率／型態改變的特徵，故答案為 B。",
+      "background": "腸躁症（IBS）是最具代表性的功能性腸道疾病，無可證實的器質性病變可解釋症狀。\nRome IV 診斷準則：反覆腹痛，近 3 個月內平均每週至少 1 天，並且合併下列 ≥2 項：(1) 與排便有關；(2) 伴隨糞便頻率改變；(3) 伴隨糞便形態（外觀）改變。\n症狀須在近 3 個月符合，且症狀起始至少在診斷前 6 個月。\n腹痛是必要核心症狀；單純腹脹或腹部不適不足以診斷（Rome IV 已將「不適」從核心定義移除）。\n依糞便型態（Bristol 分型）再分為 IBS-C、IBS-D、IBS-M 與 IBS-U。\nIBS 為排除器質性疾病後的臨床診斷，不需靠大腸切片組織學表現；慢性腹瀉需另外鑑別器質性原因。",
+      "options": {
+        "A": "錯。Rome IV 的核心症狀是反覆「腹痛」，並非僅腹脹或腹部不適；以不適為主的描述屬較舊的定義。",
+        "B": "對。符合 Rome IV：反覆腹痛，近 3 個月內平均每週至少 1 天（並合併 ≥2 項排便相關／糞便頻率／糞便型態改變），為診斷的必要條件。",
+        "C": "錯。IBS 的腹痛與排便相關，且 Rome IV 並無「無痛性腹瀉持續 6 個月」的要求；無痛性慢性腹瀉屬功能性腹瀉或需鑑別其他器質性原因。",
+        "D": "錯。IBS 為功能性疾病，組織學通常正常；黏膜淋巴球浸潤是顯微鏡下大腸炎等其他疾病的表現，並非 IBS 診斷條件。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Irritable Bowel Syndrome, p.2614"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.122 Irritable Bowel Syndrome, p.2469"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Irritable Bowel Syndrome, p.1462"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.650"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Gastroenterology, p.188"
+        }
+      ],
+      "discordance": "Pocket Medicine 8e（p.188）列的 IBS 定義為「腹部不適 ≥6 個月，合併 ≥2 項：排便後改善、糞便頻率改變、糞便形態改變」，屬較舊（類似 Rome III）的描述；而 Harrison 22e（p.2614）、Sleisenger 11e（p.2469）與 Yamada 7e（p.1462）所列 Rome IV 為「反覆腹痛、近 3 個月平均每週至少 1 天」。本題依官方答案 B（Rome IV）作答，兩者差異僅供參考。",
+      "no_source": false
+    },
+    "115-common-GI-60": {
+      "quick": "HBsAg 陰性、anti-HBs 陰性但 IgM anti-HBc 陽性，代表急性 B 型肝炎處於 HBsAg 已消失、anti-HBs 尚未出現的空窗期（window period），故答案為 C。",
+      "background": "B 型肝炎血清學需整合 HBsAg、anti-HBs、anti-HBc（IgM／IgG）判讀。急性感染時 HBsAg 先出現，IgM anti-HBc 是最早出現的抗體，也是確診急性 B 肝並與慢性感染鑑別的最佳標記。\n恢復期 HBsAg 消失後，anti-HBs 常要稍晚才出現，這段「間隙」即空窗期。此時 HBsAg 與 anti-HBs 皆為陰性，IgM anti-HBc 可能是唯一能顯示現行或近期 HBV 感染的血清證據。\n已緩解的急性感染則為 anti-HBs 陽性加 IgG anti-HBc 陽性；疫苗免疫僅 anti-HBs 陽性；慢性帶原則 HBsAg 持續陽性超過 6 個月。",
+      "options": {
+        "A": "錯。已緩解的急性 B 肝應為 HBsAg 陰性、anti-HBs 陽性、IgG anti-HBc 陽性，且 IgM anti-HBc 陰性；本題 anti-HBs 陰性、IgM anti-HBc 陽性，不符。",
+        "B": "錯。疫苗免疫僅有 anti-HBs 陽性，不會有 anti-HBc（含 IgM）陽性；本題 anti-HBs 陰性。",
+        "C": "對。HBsAg 陰性、anti-HBs 陰性、IgM anti-HBc 陽性即急性 B 肝空窗期的典型表現，且病人為急性肝炎住院，臨床相符。",
+        "D": "錯。慢性帶原者 HBsAg 持續陽性（超過 6 個月）且通常為 IgG anti-HBc 陽性；本題 HBsAg 陰性，不符。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Viral hepatitis (Hepatitis B), p.215"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Acute Viral Hepatitis, p.2689"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Hepatitis B, p.1479"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Hepatitis B, p.1896"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Liver Diseases, p.674"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-common-GI-61": {
+      "quick": "喉部異物感、與吞嚥無關且吞嚥後暫時緩解，是典型的 globus sensation（咽喉異物感）；其與焦慮／身心因素及胃食道逆流相關，故答案為 A。",
+      "background": "Globus sensation 指喉嚨有腫塊、緊縮或卡住東西的感覺，且與吞嚥動作本身無關，在兩餐之間最明顯，吞嚥固體或較大量液體時常可暫時緩解。\n它不同於吞嚥困難（dysphagia）：吞嚥困難只在吞嚥時出現；若有吞嚥困難或吞嚥疼痛，就不應診斷為 globus。\n盛行率高，一般人口一生中可有相當比例曾經歷。\n病理生理並不明確，UES 功能異常未被證實為直接原因；心理因素（焦慮、恐慌、憂鬱、慮病、身體症狀症）常與其相關。\n也有不少病人合併胃灼熱，部分病人的症狀與胃食道逆流有關；臨床處置先排除器質性病灶（鼻咽內視鏡、鋇劑吞嚥），再以 PPI 試驗性治療或針對心理因素處置。",
+      "options": {
+        "A": "正確：globus 常與焦慮等心理因素相關，也可與胃食道逆流有關，符合官方答案。",
+        "B": "錯誤：此症狀與吞嚥無關、吞嚥後反而緩解，並非典型吞嚥困難；且處置應先排除咽部病灶、必要時試用 PPI，並非優先做食道壓力測試。",
+        "C": "錯誤：globus 的機轉並非迷走神經反射造成唾液過多，所引用的教科書內容中也未見此說法。",
+        "D": "錯誤：喉部感染引起的是吞嚥疼痛（odynophagia 類型症狀）；globus 為無痛性異物感，且有吞嚥疼痛時不應診斷為 globus。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.13 Symptoms of Esophageal Disease, p.191"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.13 Symptoms of Esophageal Disease, p.192"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.42 Motility disorders of the esophagus, p.864"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-common-GI-74": {
+      "quick": "總膽管結石阻塞使膽汁無法排入腸道，糞便缺乏膽色素而呈灰白色（陶土色），故 D 正確。",
+      "background": "總膽管結石（choledocholithiasis）可造成膽道阻塞，肝內膽管壓力上升，結合型膽紅素逆流入血，臨床出現黃疸、深色尿（膽紅素尿），同時因膽汁無法進入腸道而出現淺色／灰白色（acholic）糞便。血清鹼性磷酸酶幾乎必定上升，常早於黃疸出現。膽囊炎的典型表現為右上腹痛、發燒，理學檢查可見 Murphy sign（深吸氣時按壓右肋下緣疼痛而中止吸氣）。右上腹痛、發燒寒顫與黃疸三者合稱 Charcot triad，是急性上行性膽管炎的表現。急性胰臟炎在工業化國家最常見的兩大病因為膽結石與酒精，並非膽固醇過高；高三酸甘油酯血症僅為次要病因。",
+      "options": {
+        "A": "錯。Murphy sign 為急性膽囊炎的理學徵象，並非膽管炎；膽管炎的典型表現是 Charcot triad。",
+        "B": "錯。發燒、右上腹痛與黃疸三項合併為 Charcot triad，代表急性膽管炎，而非膽囊炎的典型表現。",
+        "C": "錯。急性胰臟炎最常見病因為膽結石（膽源性）與酒精；高脂血症（高三酸甘油酯）只排在其後，並非「膽固醇過高」。",
+        "D": "對。總膽管結石造成阻塞性黃疸，膽汁無法進入腸道，糞便呈淺色或灰白色（acholic stool），同時伴深色尿。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Diseases of the Gallbladder and Bile Ducts, p.2778"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020), p.1133"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Cholecystitis, p.245"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Cholangitis, p.247"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.658"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022), p.1651"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-common-GI-75": {
+      "quick": "Obturator sign 是先屈曲右髖與膝，再內旋右大腿，若骨盆位置的發炎闌尾刺激閉孔內肌即引發腹痛加劇，故 D 正確；A、B、C 的定位或方向皆有誤。",
+      "background": "急性闌尾炎除右下腹壓痛與反彈痛外，還有數個輔助的身體診察徵象：Rovsing sign（觸壓左下腹時引發右下腹痛）、psoas sign（右髖伸直或主動屈曲抵抗阻力時疼痛，提示 retrocecal／後腹膜位置的闌尾刺激腰肌）、obturator sign（屈曲的右髖做內旋，疼痛提示骨盆位置的闌尾刺激閉孔內肌）。McBurney point 為右側髂前上棘至肚臍連線的外側與中間三分之一交界處，但實際闌尾位於其 5 cm 內者不到一半。這些徵象出現時有價值，但陰性不能排除闌尾炎，其陽性率偏低（psoas 約 3–5%、obturator 約 5–10%、Rovsing 約 5%）。",
+      "options": {
+        "A": "錯。McBurney point 是右側髂前上棘與「肚臍」連線的外側與中間三分之一交界處，不是劍突與髂前上棘連線。",
+        "B": "錯。Rovsing sign 是按壓（觸診）「左下腹」時引發「右下腹」疼痛，題目的方向顛倒。",
+        "C": "錯。psoas sign 檢查的是右側：右髖伸直或主動屈曲抵抗阻力而疼痛，提示闌尾位於腰肌附近；選項寫成左膝／左大腿不符。",
+        "D": "對。obturator sign 為屈曲右髖（與膝）後內旋右大腿而引發腹痛加劇，反映骨盆位置的發炎闌尾刺激閉孔內肌，與官方答案一致。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.120 Appendicitis, p.2437"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.120 Appendicitis, p.2437"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.120 Appendicitis, p.2436"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.342 Acute Appendicitis and Peritonitis, p.2638"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Acute abdominal pain, p.683"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-10": {
+      "quick": "肋膜積液 protein/血清 protein = 4.2/6.5 ≈ 0.65 (>0.5)、LDH/血清 LDH = 210/240 ≈ 0.88 (>0.6)，符合 Light's criteria 的滲出液；glucose 偏低（45 mg/dL）指向細菌性肺炎併發肋膜積液或膿胸，故選 C。",
+      "background": "肋膜積液依成因分為漏出液（systemic factors，如靜水壓上升或膠體滲透壓下降）與滲出液（local factors，肋膜表面通透性改變）。Light's criteria 只要符合下列三項之一即判為滲出液：積液/血清 protein 比值 >0.5、積液/血清 LDH 比值 >0.6、積液 LDH 高於血清 LDH 正常上限的 2/3。本題數值：protein 比值約 0.65、LDH 比值約 0.88，兩項皆達標，確定為滲出液。積液 glucose 偏低常見於細菌性（類肺炎性）積液、膿胸、惡性或類風濕性積液；病人有咳嗽與呼吸困難，臨床上以細菌性肺炎併發積液或膿胸最符合。漏出液常見病因為心衰竭、肝硬化（肝性肋膜積液 hepatic hydrothorax，腹水經橫膈缺損進入肋膜腔）、腎病症候群等。",
+      "options": {
+        "A": "錯。本題積液符合 Light's criteria（protein 比值約 0.65、LDH 比值約 0.88），屬滲出液而非漏出液；雖然心衰竭確實是漏出液的常見原因，但不符合本題檢驗結果。",
+        "B": "錯。肝硬化腹水經橫膈孔洞形成肝性肋膜積液，的確屬漏出液，但本題積液數值為滲出液，故此選項對本案的性質判斷錯誤。",
+        "C": "對（官方答案）。積液符合滲出液標準，且 glucose 偏低，與細菌性肺炎併發積液或膿胸相符。",
+        "D": "錯。腎病症候群造成的肋膜積液屬漏出液（低膠體滲透壓），通常為雙側、量少，並非滲出液。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Pulmonary Diseases, p.368"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Pleural effusion, p.131"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Pleural effusion, p.131"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022), p.373"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020), p.1801"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022), p.2110"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-15": {
+      "quick": "官方答案為 B：圖（四）超音波呈現腎盂腎盞擴張，最適當的診斷是腎積水（hydronephrosis）；超音波正是偵測腎積水的標準工具。",
+      "background": "本題為看圖題，選項含膽管、胰臟等 GI 器官，屬跨系統題，主科別為腎臟科。腹部超音波可在不使用輻射下評估腎臟大小與腎盂腎盞輪廓，是診斷泌尿道阻塞造成腎積水的首選影像，敏感度與特異度約 90%。腎積水是泌尿道阻塞（結石、腫瘤、輸尿管外壓等）的影像表現；腹腔內病灶如腸道發炎或腹膜後膿瘍也可壓迫輸尿管而造成腎積水。腎積水程度可能因脫水或腹膜後纖維化包覆輸尿管而被低估。膽管擴張與胰臟炎的超音波表現在肝膽胰區域，腦積水則屬顱內病變，需另用腦部影像。",
+      "options": {
+        "A": "錯。膽管擴張的超音波表現為肝門及肝內外膽管管徑增寬，位置在肝膽區域；本題圖像呈現的是腎臟集尿系統擴張，並非膽管。",
+        "B": "對（官方答案）。腎積水即腎盂腎盞因阻塞而擴張，超音波可直接顯示，為本圖最適當的診斷。",
+        "C": "錯。腦積水為腦室擴大，屬顱內病變，不是腹部超音波所見，與本圖不符。",
+        "D": "錯。胰臟炎的超音波表現為胰臟腫大、回音改變及周圍積液，並非腎盂腎盞擴張。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.331 Urinary Tract Obstruction, p.2498"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Renal Diseases, p.435"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020), p.645"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022), p.1405"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-19": {
+      "quick": "敗血性休克的初始復甦晶體溶液劑量是至少 30 mL/kg（1 小時內），選項 A 僅 15 mL/kg 劑量不足，故為最不適當的敘述。",
+      "background": "嚴重膽囊炎併發敗血性休克（septic shock）屬於需要同步處理的急症：(1) 儘早建立大口徑靜脈通路；(2) 依 Surviving Sepsis Campaign 建議，疑似敗血性休克者最初 1 小時內給予至少 30 mL/kg 晶體溶液，僅在心衰竭、末期腎病等情況才考慮減量，之後再以動態評估（毛細血管充填時間、被動抬腿試驗、床邊超音波）調整後續輸液；(3) 抗生素應在取得血液培養後儘速給予，延遲會增加死亡率；(4) 輸液後 MAP 仍低於 65 mmHg 時，第一線升壓劑為 norepinephrine；(5) 感染源控制是關鍵：膽囊切除為首選，手術風險高或病情不穩者可先做經皮膽囊造口引流（percutaneous cholecystostomy）或內視鏡經壁引流，其適應症取決於病人的手術風險而非膽囊炎嚴重度。",
+      "options": {
+        "A": "錯（本題答案，最不適當）：敗血性休克初始復甦建議至少 30 mL/kg 晶體溶液，15 mL/kg 劑量不足；晶體溶液與大口徑靜脈通路的方向本身正確，問題在劑量。",
+        "B": "對（適當）：應在取得血液培養後儘速（1 小時內）給予廣效抗生素，延遲給藥與死亡率上升有關。",
+        "C": "對（適當）：充分輸液後 MAP 仍低於 65 mmHg，需使用升壓劑，norepinephrine 為第一線。",
+        "D": "對（適當）：感染源控制是治療重點，膽囊切除或對高手術風險病人先行經皮膽囊引流，均屬合理處置。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Shock, p.2365"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Critical Care, p.264"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Critical Care, p.265"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Biliary Tract Disease, p.245"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.66 Treatment of Gallstone Disease, p.1263"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-31": {
+      "quick": "食慾不振、體重減輕、上腹不適、缺鐵性貧血（Hb 低＋糞便潛血陽性）合併左鎖骨上窩無痛性結節（Virchow 結節），最符合胃腺癌遠端淋巴轉移的表現，故答案為 A。",
+      "background": "胃癌常見症狀為體重減輕、食慾下降或早飽、上腹部不適；腫瘤慢性滲血可造成缺鐵性貧血與糞便潛血陽性。晚期可經淋巴轉移至左鎖骨上淋巴結（Virchow 結節），或臍周結節（Sister Mary Joseph 結節）。左鎖骨上淋巴結腫大在上消化道症狀病人屬於警示徵象（alarm feature），應盡速做內視鏡檢查。Virchow 結節雖也可見於其他腹腔惡性腫瘤（如胰臟癌、大腸癌），但本題合併消化道出血與上腹症狀，題目選項中以胃腺癌最典型。",
+      "options": {
+        "A": "正確。體重減輕、食慾不振、上腹不適、缺鐵性貧血與糞便潛血，加上左鎖骨上 Virchow 結節，為轉移性胃腺癌的典型表現。",
+        "B": "錯誤。胰臟癌亦可出現 Virchow 結節，但典型表現為無痛性黃疸、背痛、Courvoisier 徵象，且較少以潛血陽性及缺鐵性貧血為主要表現，本題情境以胃癌最符合。",
+        "C": "錯誤。肝細胞癌罕見出現 Virchow 結節，教科書描述其為少見表現；典型為肝腫大、腹水、肝硬化背景，與本題不符。",
+        "D": "錯誤。食道鱗狀上皮癌主要症狀為進行性吞嚥困難，本題未提及吞嚥困難，且糞便潛血／缺鐵性貧血並非其典型表現。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Cancer（Gastric cancer, Clinical Presentation）, p.799"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Gastric cancer（clinical features）, p.1110"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Gastric cancer（metastatic spread）, p.1112"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Dyspepsia / Alarm Features in Patients With UGI Symptoms, p.944"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Hepatocellular carcinoma（clinical presentation）, p.1850"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Pancreatic Tumors（Clinical manifestations）, p.382"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-34": {
+      "quick": "官方答案為 A：該病人鼻胃管位置經圖（八）判讀為不當（置放位置不正確），任何灌入物都有吸入風險，故首要處置是先移除鼻胃管，而非經管給水、給藥或給糖水。",
+      "background": "鼻胃管置放後，必須先確認管路位置正確才可開始灌食或給藥；床邊聽診並不可靠，Sleisenger 建議每位病人於開始灌食前都應以床邊平片確認 NG/NJ 管位置，且不因病人意識狀態而例外。本題病人處於高燒、低血壓、嚴重低血糖的急重症狀態，且家屬拒絕靜脈留置針；但在管路位置有疑慮（圖（八）顯示位置不當）時，經該管灌入液體、藥物或葡萄糖水，可能造成吸入性肺炎或氣道傷害。因此題目考的是『管路位置不當時先移除』的安全原則，而非選擇哪一種經管給予的藥物或液體。",
+      "options": {
+        "A": "正確。鼻胃管位置不當時應先移除，避免經誤置管路灌入物質而造成吸入或氣道傷害。",
+        "B": "錯誤。經位置不當的鼻胃管給予 acetaminophen，有誤入氣道的風險，且在確認管路位置前不應使用該管給藥。",
+        "C": "錯誤。經位置不當的鼻胃管灌入 200 ml 水，可能直接灌入氣道／肺部造成吸入。",
+        "D": "錯誤。50% 葡萄糖水 60 ml 為高滲透壓溶液，經位置不當的管路灌入風險更大，且低血糖的處置須經可靠途徑給予。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.6 Nutrition in Gastroenterology: Enteral Access, p.100"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-39": {
+      "quick": "病人有餐後疼痛加劇、體重下降 4 kg 的警示症狀，且 PPI 治療無效，應直接安排上消化道內視鏡確認胃部病變（含排除胃癌），故選 B。",
+      "background": "消化不良（dyspepsia）的初步處置依有無警示特徵（alarm features）分流：無警示症狀且年輕者可先經驗性治療（PPI 或 H. pylori 檢測治療）；若出現體重不明原因下降、持續嘔吐、吞嚥困難、貧血或出血、早飽、上腹腫塊，或對 PPI 無反應，則應直接做上消化道內視鏡（EGD）。\n本題病人上腹痛 3 個月、餐後約 1 小時加劇、2 個月內體重減輕 4 kg，且自行服用 PPI 無效，已同時具備體重減輕與 PPI 治療失敗兩項警示條件。\n餐後疼痛加劇且體重減輕的型態，臨床上要懷疑胃潰瘍或胃癌，必須以內視鏡取得直接視診與切片，才能排除惡性病變。\n因此重點在於不再延遲：繼續加藥或只做非侵入性檢查，都可能延誤惡性腫瘤的診斷。",
+      "options": {
+        "A": "錯。已經用過 PPI 無效，又有體重減輕等警示症狀，再延後 4 週觀察只會延誤診斷，應直接做內視鏡。",
+        "B": "對（官方答案）。警示症狀加上 PPI 無效，應安排 EGD 直接觀察胃部並切片，排除胃潰瘍與胃癌。",
+        "C": "錯。加上制酸劑屬經驗性治療，僅適用於無警示症狀者；本題病人已有警示症狀，不應等症狀持續才檢查。",
+        "D": "錯。尿素呼氣試驗（H. pylori 檢測）適用於無警示特徵的未檢查型消化不良；有警示症狀者應優先做內視鏡，不能以非侵入性檢測取代。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Dyspepsia / Peptic ulcer disease, p.171"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.640"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Approach to the Patient with Indigestion, p.344"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Dyspepsia（圖 Fig. 14.3）, p.210"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Dyspepsia, p.640"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-40": {
+      "quick": "便祕後突發上腹痛並進展為瀰漫性腹痛，腹部 X 光（圖九）提示腹腔游離氣體，屬消化性潰瘍穿孔（急性腹膜炎）；處置原則是禁食、靜脈 PPI、抗生素並緊急會診外科，故選 C。",
+      "background": "消化性潰瘍（PUD）的併發症包括上消化道出血、穿孔與穿透、胃出口阻塞。穿孔時典型表現為突發劇烈腹痛伴腹膜徵象，直立腹部或胸部 X 光可見橫膈下游離氣體（氣腹），但並非所有病人都有典型症狀，部分病人事先並無潰瘍症狀。穿孔通常需要緊急手術，延誤診斷會使死亡率上升。\n初始處置包括禁食、鼻胃管抽吸、靜脈質子幫浦抑制劑（PPI）、抗生素，並儘早會診外科。內視鏡充氣可能使原本被封住的穿孔變成游離穿孔，因此懷疑穿孔時不建議做內視鏡。影像上若 X 光不足以確認，可再以腹部電腦斷層補強診斷，但不應因此延誤手術評估。",
+      "options": {
+        "A": "錯。懷疑消化性潰瘍穿孔時不建議做上消化道內視鏡，胃部充氣可能使被封住的穿孔變成游離穿孔，且延誤外科處置。",
+        "B": "錯。磁振造影耗時，不是急性腹膜炎、疑似穿孔時的首選；已有游離氣體證據時應優先做初步穩定處置並會診外科，而非緊急安排 MRI。",
+        "C": "對（官方答案）。X 光顯示游離氣體，符合穿孔；處置為禁食、靜脈 PPI、廣效性抗生素，並急會外科，因穿孔多需緊急手術，延誤會增加死亡率。",
+        "D": "錯。僅禁食、鼻胃管減壓並等 24 小時再追蹤 X 光屬保守觀察，會延誤診斷與手術時機；此題已是瀰漫性腹痛且有游離氣體，應早期外科介入，而非單純等待追蹤。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Peptic Ulcer Disease (PUD), p.173"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.643"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Peptic Ulcer Disease and Related Disorders, p.2575"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Abdominal Pain (perforated peptic ulcer), p.174"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Peptic Ulcer Disease, p.1029"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-41": {
+      "quick": "食道靜脈曲張出血在內視鏡結紮與藥物治療後仍持續出血（難治性出血），應考慮挽救性的經頸靜脈肝內門體分流術（TIPS），故答案為 B。",
+      "background": "肝硬化門脈高壓所致急性食道靜脈曲張出血，標準處置為限制性輸血、血管收縮劑（somatostatin/octreotide）、預防性抗生素及早期內視鏡結紮（EVL）。約一成多的病人對藥物與內視鏡治療仍無法止血或反覆再出血，此時需挽救性處置。TIPS 在肝靜脈與門靜脈之間置放支架，降低門脈壓、繞過肝竇阻力，可使絕大多數難治性出血獲得控制。球囊填塞（Sengstaken-Blakemore tube 或 Minnesota tube）僅是短期暫時止血，作為轉往 TIPS 的橋接。TIPS 的主要副作用為新發或加重的肝性腦病變（約 20–30%），且所有需 TIPS 的病人都應評估肝臟移植。",
+      "options": {
+        "A": "錯。質子幫浦抑制劑可處理內視鏡結紮後潰瘍，但並非靜脈曲張出血的止血主力；題目為結紮後仍持續出血，PPI 無法解決門脈高壓性出血。",
+        "B": "對。內視鏡治療失敗的難治性靜脈曲張出血，應考慮 TIPS 作為挽救性治療。",
+        "C": "錯。非選擇性 β 阻斷劑（如 propranolol、nadolol、carvedilol）用於一級預防與再出血的二級預防，不是急性持續出血的主要止血治療。",
+        "D": "錯。球囊填塞只能暫時控制出血（約 24 小時），是等待 TIPS 或內視鏡治療的橋接措施，不適合放置 7 天追求穩定止血，且併發症風險高。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Cirrhosis, p.230"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.626"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Cirrhosis and Its Complications, p.2757"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.92, p.1774"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022), p.2558"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-42": {
+      "quick": "GERD 的典型特徵是火燒心／逆流於餐後、平躺或彎腰時加重，且可由經驗性 PPI 試驗獲得改善，故最支持 GERD 的是選項 D。",
+      "background": "胃食道逆流疾病（GERD）的主要症狀為 heartburn 與 regurgitation，臨床診斷可依症狀加上對經驗性 PPI 的反應（PPI test）。火燒心常在進食後、運動時、平躺或彎腰時出現，因為這些情境使胃酸更易逆流至食道。\n相對地，吞嚥困難的型態有助於鑑別診斷：食道狹窄或腫瘤等機械性阻塞，典型為先固體後液體的漸進性吞嚥困難；食道動力異常（如賁門失弛緩症）則常為固體與液體從一開始就都有困難。\n上腹痛於空腹時加劇、進食後緩解，是十二指腸潰瘍等消化性潰瘍的經典表現，並非 GERD 的特徵。",
+      "options": {
+        "A": "錯。空腹時上腹痛、進食後緩解屬消化性潰瘍（尤其十二指腸潰瘍）的典型型態，不是 GERD 的典型表現。",
+        "B": "錯。由固體逐漸惡化到液體的漸進性吞嚥困難，提示食道狹窄或腫瘤等機械性阻塞，不是 GERD 本身的典型表現。",
+        "C": "錯。固體與液體從發病初期即同樣困難，提示食道動力異常（如賁門失弛緩症），而非 GERD。",
+        "D": "對。餐後及平躺時症狀加劇，且對質子幫浦抑制劑（PPI）有反應，正符合 GERD 的典型症狀與 PPI 試驗診斷概念。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Esophageal and Gastric Disorders, p.171"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.635"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Gastroesophageal Reflux Disease, p.766"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Gastroesophageal Reflux Disease, p.897"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Gastrointestinal Endoscopy, p.2535"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Esophageal Motility Disorders, p.730"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-43": {
+      "quick": "SVR（持續病毒學反應）的定義是治療結束後 12 週 HCV RNA 仍測不到，故 C 正確；治療剛結束時陰性不等於 SVR。",
+      "background": "慢性 C 型肝炎以直接作用抗病毒藥物（DAA）治療的目標是根除病毒，療效終點為 SVR（常稱 SVR12）。\nSVR 指完成治療後 12 週，血清 HCV RNA 仍低於偵測極限；治療結束當下（end of treatment）的陰性只代表治療期反應，尚不能稱為 SVR。\n達到 SVR 後晚期復發極少見，一般視同病毒治癒，並可降低肝病相關死亡、肝失代償與肝細胞癌風險。\n然而肝硬化病人即使達 SVR，肝細胞癌風險仍高於一般人，因此仍須持續追蹤與定期篩檢，不能因病毒清除而停止。\n治療前須評估肝纖維化／肝硬化程度與共病（如 HBV 共同感染），以決定處置與追蹤強度。",
+      "options": {
+        "A": "錯。治療完成當下 HCV RNA 陰性只是治療結束時的病毒學反應；SVR 必須在治療結束後 12 週再確認仍測不到。",
+        "B": "錯。DAA 治療期間除追蹤 HCV RNA 外，並非完全無須監測肝、腎功能等項目；此敘述過度絕對，與官方答案不符。",
+        "C": "對（官方答案）。治療完成後 12 週 HCV RNA 持續測不到，即定義為 SVR（SVR12），符合各書定義。",
+        "D": "錯。達 SVR 後，尤其是肝硬化病人，HCC 風險仍高於一般人，仍須持續肝癌篩檢與肝功能相關追蹤，不可停止。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Viral hepatitis, p.218"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Liver Diseases, p.679"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Chronic Hepatitis, p.1535"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Hepatitis C, p.1512"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Chronic hepatitis C, p.1945"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Chronic hepatitis C, p.1948"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-44": {
+      "quick": "高齡病人突發劇烈腹痛、症狀遠重於理學檢查（無腹膜炎徵象、僅輕度壓痛）且伴白血球升高與心搏過速，典型為急性腸繫膜缺血。",
+      "background": "急性腸繫膜缺血（AMI）常見於高齡且有心血管風險者，病因包括動脈栓塞、血栓、非阻塞性缺血與靜脈血栓。早期典型表現為嚴重、持續的急性腹痛，其程度遠超過腹部理學檢查所見，腹部可能柔軟、平坦，僅輕壓痛，直到腸梗塞發生後才出現腹膜炎徵象。伴隨噁心、嘔吐與腸蠕動音減弱。實驗室常見白血球上升（約 75%），乳酸上升多屬晚期。診斷仰賴高度懷疑，疑似時應做多相 CT 血管攝影（CTA），必要時緊急血管攝影，並儘速外科會診。延誤診斷死亡率高。",
+      "options": {
+        "A": "錯。小腸阻塞通常有陣發性絞痛、腸蠕動音亢進或氣過水聲、腹脹及手術史；本題腸蠕動音減弱、劇痛與理學檢查不成比例，較不符合。",
+        "B": "對。老年、突發劇烈腹痛、疼痛與壓痛不成比例、無反彈痛或僵硬、白血球升高、心搏過速，皆為急性腸繫膜缺血的典型表現。",
+        "C": "錯。十二指腸潰瘍穿孔會有明顯腹膜炎徵象（反彈痛、肌肉僵硬如板狀腹），本題未見反彈痛或肌肉僵硬。",
+        "D": "錯。腹主動脈瘤破裂常以腹痛、背痛合併低血壓或休克及搏動性腹部腫塊表現；本題血壓正常，不符合。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Intestinal ischemia, p.200"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.664"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Mesenteric vascular insufficiency, p.2631"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Intestinal ischemia, p.2392"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Intestinal ischemia and vasculitides, p.769"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-45": {
+      "quick": "各書皆指出 lipase 對胰臟較具專一性、敏感度不低於 amylase，且升高持續較久，診斷價值優於 amylase，故官方答案為 D。",
+      "background": "急性胰臟炎的診斷採「3 取 2」：典型上腹痛、血清 lipase 或 amylase 超過正常上限 3 倍（>3× ULN）、影像學符合。Amylase 在症狀發作數小時內上升，約 3–5 天恢復正常；lipase 半衰期較長，可維持升高約 8–14 天，對延遲就醫者更有用。Lipase 對胰臟的專一性較高，唾液腺疾病、巨澱粉酶血症、婦科疾病等造成 amylase 升高時 lipase 仍可正常。Lipase 超過 3× ULN 時對急性胰臟炎敏感度與特異度各約 99%（Pocket）。兩種酵素的數值皆與嚴重度無關，且高三酸甘油脂血症可造成 amylase 假性偏低；腎功能不全亦可使兩者輕度升高。Sleisenger 並指出同時檢測兩者不會提高診斷準確度、只增加成本。",
+      "options": {
+        "A": "錯。Amylase 可能假性正常，例如延遲採血、酒精性胰臟炎（約 20% 假陰性）及高三酸甘油脂血症（assay 干擾），故正常不能排除急性胰臟炎。",
+        "B": "錯。Amylase 約 3–5 天即恢復正常（較 lipase 快），lipase 升高持續更久（約 8–14 天），因此 lipase 並非較早恢復正常。",
+        "C": "錯。診斷標準為 lipase「或」amylase 超過 3× ULN，並非須兩者同時升高；Sleisenger 亦指出合併檢測不提高診斷準確度。",
+        "D": "對。Lipase 對胰臟專一性較高、升高持續較久且敏感度不低於 amylase，各書皆以 lipase 為診斷急性胰臟炎較佳的酵素，其診斷價值較 amylase 高。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Pancreatitis, p.204"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.654"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Acute and Chronic Pancreatitis, p.2783"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Acute Pancreatitis, p.1074"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022), p.1639"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-71": {
+      "quick": "此病人血紅素與血小板正常，出血來自肝臟合成凝血因子不足（aPTT 延長、INR 2.5），缺的是多重凝血因子，故以新鮮冷凍血漿（FFP）補充凝血因子，答案為 D。",
+      "background": "急性肝衰竭（ALF）時肝臟無法合成多數凝血因子，造成 PT/INR 與 aPTT 延長，並可併發消化道出血。一般而言，ALF 的凝血異常不主張僅因檢驗數值異常而預防性矯正，因為實驗室數值常與實際出血風險不一致，且輸注血漿會增加容量負荷並干擾以 INR 評估預後。但當病人有活動性出血時，則可輸注 FFP（必要時合併血小板或冷凍沉澱品）補充缺乏的凝血因子。本題病人已有消化道出血，且血小板 200000/μL 正常、Hb 11 g/dL 尚可，凝血因子缺乏才是主要缺陷，因此首選 FFP。",
+      "options": {
+        "A": "錯。packed RBCs 用於補充紅血球、改善攜氧；本題 Hb 11 g/dL 並無輸血指徵，也無法矯正凝血因子缺乏。",
+        "B": "錯。whole blood 含有紅血球與血漿，但凝血因子濃度不足且容量負荷大，並非針對凝血因子缺乏的血品。",
+        "C": "錯。apheresis platelets 用於血小板低下或功能異常；本題血小板 200000/μL 正常，出血原因不在血小板。",
+        "D": "對。FFP 含全部凝血因子，適用於肝病等多重凝血因子缺乏合併出血（本題 INR 2.5、aPTT 延長且有消化道出血）。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Acute Liver Failure, p.225"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Disorders of Hemostasis and Thrombosis, p.729"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Acute Liver Failure, p.1843"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.121 Coagulation Disorders, p.971"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022), p.2555"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_im-GI-8": {
+      "quick": "肝硬化病人出現腹膜炎徵象，腹水 SAAG 小於 1.1 g/dL（與門脈高壓無關的滲出）並有腹壁僵硬、反彈痛，應懷疑腸胃道穿孔所致的繼發性腹膜炎，需立即做腹部電腦斷層並照會外科，而非僅用抗生素。",
+      "background": "肝硬化腹水病人發燒、腹痛、腹水 PMN 升高時，鑑別診斷為自發性細菌性腹膜炎（SBP）與繼發性細菌性腹膜炎。SBP 是無腹內感染源的腹水感染，通常為單一菌種；繼發性腹膜炎則源自腹內器官穿孔或膿瘍，多為多菌種混合感染。SAAG 大於或等於 1.1 g/dL 代表與門脈高壓相關，小於 1.1 g/dL 則屬非門脈高壓相關。Runyon 準則（腹水總蛋白、葡萄糖、LDH 異常）可輔助判斷繼發性腹膜炎。繼發性腹膜炎不像 SBP，通常無法單靠抗生素治癒，需要儘早做影像學找出感染源並由外科評估手術控制。本題腹壁僵硬、反彈痛屬腹膜刺激徵象，且腹水檢驗不符合典型 SBP，應優先排除穿孔。",
+      "options": {
+        "A": "錯。SAAG 小於 1.1 並不能排除腹內器官破裂，反而提示腹水來源非單純門脈高壓；且有腹膜炎徵象不能只給口服抗生素。",
+        "B": "錯。腹水總蛋白高、SAAG 低確實可見於結核性腹膜炎，但本題為急性發燒、腹壁僵硬與腹水 PMN 升高，屬急性腹膜炎，不應直接給抗結核藥物。",
+        "C": "對。SAAG 小於 1.1、腹水蛋白偏高並伴急性腹膜炎徵象，符合繼發性腹膜炎，應立即安排腹部電腦斷層找出感染源並照會外科。",
+        "D": "錯。腹水 PMN 升高雖符合 SBP 的定義，但本題腹水蛋白偏高且臨床像腹內穿孔，應考慮繼發性腹膜炎，單靠抗生素治療不足。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Ascites, p.242"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Ascites, p.240"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Liver Diseases, p.703"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Peritonitis and Intraabdominal Abscesses, p.1114"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Peritonitis, p.641"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Peritonitis, p.2213"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-10": {
+      "quick": "以 Light 準則判讀：肋膜積液/血清蛋白比 = 4.2/6.5 ≈ 0.65 (>0.5)、LDH 比 = 210/240 ≈ 0.88 (>0.6)，符合滲出液；低 glucose 提示感染性（如細菌性肺炎併發膿胸），故答案為 C。",
+      "background": "肋膜積液依成因分為漏出液（全身性因素如靜水壓上升、膠體滲透壓下降）與滲出液（肋膜表面通透性改變的局部病變）。臨床以 Light 準則區分：肋膜液/血清蛋白比 >0.5、肋膜液/血清 LDH 比 >0.6、或肋膜液 LDH 高於血清 LDH 正常上限的 2/3，三項符合任一項即為滲出液。本題肋膜液蛋白 4.2 g/dL 對血清 6.5 g/dL，比值約 0.65；LDH 210 對 240，比值約 0.88，兩項皆達滲出液標準。肋膜液 glucose 僅 45 mg/dL 偏低，常見於感染（parapneumonic effusion、膿胸）等情況。漏出液的典型病因為鬱血性心衰竭、肝硬化、腎病症候群等；滲出液的常見病因為肺實質感染、惡性腫瘤、肺栓塞等。",
+      "options": {
+        "A": "錯。鬱血性心衰竭確為漏出液的常見原因，但本題數據符合 Light 準則的滲出液，不是漏出液。",
+        "B": "錯。肝硬化（腹水／肝性肋膜積液）屬漏出液成因，但本題肋膜液蛋白與 LDH 比值皆超過滲出液門檻，性質為滲出液。",
+        "C": "對。數據符合滲出液，低 glucose 亦支持感染性病因，細菌性肺炎或膿胸為典型成因。",
+        "D": "錯。腎病症候群造成的肋膜積液屬漏出液（低膠體滲透壓），不是滲出液；此選項把性質與病因配錯。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022), p.133"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022), p.131"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022, p.368"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022, p.369"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022), p.2251"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-15": {
+      "quick": "官方答案為 B：圖（四）超音波呈現腎臟集尿系統擴張（呈管狀無回音結構向腎盂匯合），即腎積水／水腎（hydronephrosis），而非膽管、腦或胰臟病變。",
+      "background": "腹部超音波可直接辨識腎臟集尿系統（renal collecting system）擴張：擴張的集尿系統呈管狀、無回音（anechoic）的結構，並向腎盂匯合。\n水腎提示泌尿道阻塞，後續通常需進一步評估是否有阻塞性結石或腫塊。\n超音波是偵測水腎的第一線工具，敏感度與特異度約 90%；偽陽性可見於利尿、腎囊腫或腎外型腎盂（extrarenal pelvis）。\n阻塞時間不足 48 小時、合併脫水（volume contraction）或後腹腔纖維化等情況時，超音波可能看不到水腎。\n本題為跨科題：選項中的膽管擴張與胰臟炎屬胃腸肝膽範疇，但影像上的關鍵特徵是腎盂與腎盞擴張，需與膽管、胰臟影像區分。",
+      "options": {
+        "A": "錯。膽管擴張（CBD dilatation）是肝外膽管管徑增寬，影像位置在肝門與胰頭附近；圖（四）的特徵是腎臟集尿系統擴張，並非膽管。",
+        "B": "對（官方答案）。腎積水／水腎表現為腎臟集尿系統擴張，呈管狀無回音結構向腎盂匯合，與圖（四）所示相符。",
+        "C": "錯。腦積水／水腦症是腦室擴大，屬顱內影像，與腹部超音波所見的腎臟集尿系統擴張不符。",
+        "D": "錯。胰臟炎的影像重點在胰臟腫大、周邊液體等變化；圖（四）所見為腎臟集尿系統擴張，並非胰臟病變。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.131 Abdominal sonography, p.2673"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.331 Obstructive uropathy, p.2498"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Renal Diseases, p.435"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-19": {
+      "quick": "敗血性休克的起始輸液為至少 30 mL/kg 晶體溶液（約 3 小時內），選項 A 的 15 mL/kg 劑量不足，故為最不適當的敘述。",
+      "background": "急性膽囊炎併發敗血性休克（septic shock）屬於需要同時處理感染源與休克的急症。依 Surviving Sepsis Campaign 的原則，初始處置包含：盡早（1 小時內）抽血液培養後給予廣效靜脈抗生素；以至少 30 mL/kg 的晶體溶液（crystalloid）做起始容積復甦（有心衰竭或肺水腫者可酌減）；輸液後若 MAP 仍低於 65 mmHg，第一線升壓劑為 norepinephrine（優於 dopamine，心律不整與死亡率較低）。感染源控制同樣關鍵：膽囊炎合併休克者，應儘速行膽囊切除術或經皮膽囊引流術（percutaneous cholecystostomy），後者特別適用於重症、無法耐受手術的病人。",
+      "options": {
+        "A": "錯（本題答案）。起始復甦輸液建議至少 30 mL/kg 晶體溶液，15 mL/kg 劑量不足，不符合敗血性休克的復甦原則。",
+        "B": "對。敗血症／敗血性休克應儘早抽血液培養並盡速給予廣效靜脈抗生素，每延遲一小時死亡率上升，屬適當處置。",
+        "C": "對。輸液復甦後若 MAP 仍小於 65 mmHg，應啟動 norepinephrine 作為第一線升壓劑，屬適當處置。",
+        "D": "對。膽囊炎為感染源，需做感染源控制；重症病人可先行經皮膽囊引流，或儘速手術切除，屬適當處置。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Shock, p.2357"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Sepsis and Septic Shock, p.2365"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Critical Care, p.264"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Critical Care, p.265"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Sepsis, p.164"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Sepsis, p.164"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Diseases of the Gallbladder and Bile Ducts, p.2776"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Gallstone disease, p.1184"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-23": {
+      "quick": "官方答案為 D：肥胖（BMI > 30）屬術後使用類鴉片止痛劑發生呼吸抑制的高危險因子（常與睡眠呼吸中止症相關）。",
+      "background": "類鴉片引起的呼吸抑制（OIRD）多發生於術後 24 小時內。已知危險因子包括阻塞性睡眠呼吸中止症（OSA）、肥胖、心肺共病、較高劑量、PCA 併持續背景輸注，以及併用鎮靜劑或其他中樞神經抑制劑。肥胖者上呼吸道易塌陷、常合併 OSA，對類鴉片的呼吸抑制作用更敏感。Harrison 也提醒，有呼吸功能不全的病人使用類鴉片後須密切監測，並備妥 naloxone。處置上宜採多模式止痛以減少類鴉片用量，並加強鎮靜程度與呼吸監測。",
+      "options": {
+        "A": "錯誤。本題以 55 歲以上作為選項，非本題認定的高危險群；年齡與 OIRD 的關聯在各研究間並不一致。",
+        "B": "錯誤（依本題官方答案）。肝腎慢性疾病會使類鴉片及其活性代謝物清除下降，文獻上亦有此風險，但本題官方答案不採此項，見 discordance。",
+        "C": "錯誤。吸菸史小於 10 年並非本題認定的高危險因子。",
+        "D": "正確。肥胖（BMI > 30 kg/m²）為官方答案，肥胖者常合併 OSA，使術後類鴉片呼吸抑制風險升高。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Pain: Pathophysiology and Management, p.141"
+        },
+        {
+          "kind": "oe",
+          "display": "🔎 Gupta K, et al. Risk factors for opioid-induced respiratory depression in surgical patients: a systematic review and meta-analyses. BMJ Open. 2018;8(12):e024086.（經 OpenEvidence 查詢 20261110_0818）"
+        }
+      ],
+      "discordance": "OpenEvidence 查得的文獻顯示，腎或肝疾病因類鴉片及活性代謝物清除下降而增加 OIRD 風險（選項 B 亦有文獻支持）；而肥胖的獨立貢獻在研究間並不一致，有一篇統合分析未發現 BMI 本身有顯著獨立關聯，多與 OSA 相關。此與官方答案 D 的單一正解略有出入，惟本題主結論仍以官方答案 D 為準。",
+      "no_source": false
+    },
+    "115-inad_surgery-GI-26": {
+      "quick": "吸菸者（非吸菸者才是危險因素）發生 PONV 的風險反而較低，故「抽菸習慣」不是 PONV 的危險因素，答案為 C。",
+      "background": "術後噁心嘔吐（PONV）是手術常見併發症，未預防者可高達約四成發生。危險因素包含病人因素（女性、年齡小於 50 歲、非吸菸者、曾有 PONV 或暈動症病史）、麻醉因素（全身麻醉、揮發性麻醉劑與笑氣、術後使用鴉片類藥物與高劑量 neostigmine）以及手術因素（手術類型如腹部、婦科、眼科、中耳手術，及手術時間較長）。其中吸菸狀態與 PONV 呈反向關係，也就是非吸菸者風險較高，並非抽菸增加風險。臨床上依危險因素數量分層，決定預防性止吐藥的強度。",
+      "options": {
+        "A": "錯誤選項（為危險因素）：女性發生 PONV 的風險約為男性的三倍，是公認的危險因素。",
+        "B": "錯誤選項（為危險因素）：年齡小於 50 歲屬於 PONV 風險評分的項目，年輕者風險較高。",
+        "C": "正確答案（不是危險因素）：非吸菸者才是危險因素，抽菸習慣反而與較低的 PONV 風險相關，因此不屬於危險因素。",
+        "D": "錯誤選項（為危險因素）：手術類型（腹部、婦科、眼科、中耳等）與手術時間會影響 PONV 發生率，屬危險因素。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Approach to the Patient with Nausea and Vomiting, p.661"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Approach to the Patient with Nausea and Vomiting, p.661"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Nausea and Vomiting, p.215"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-27": {
+      "quick": "病人腹部鈍傷合併休克（BP 75/32、HR 124）且床邊超音波見大量腹腔游離液體，屬血行動力不穩定的腹內出血，應直接進手術室止血；先做電腦斷層再開刀會延誤止血，故 A 為錯誤處置。",
+      "background": "腹部鈍傷併低血壓且 FAST（床邊超音波）陽性，代表高度懷疑腹內臟器或血管出血導致出血性休克（hemorrhagic shock）。這類病人的處置核心是「快速控制出血」：啟動大量輸血流程（massive transfusion protocol，以接近 1:1:1 比例給予 RBC、血漿、血小板）、避免大量晶體液造成稀釋性凝血病變與酸中毒，並在手術止血前採容許性低血壓（permissive hypotension，SBP 約 80–90 mmHg；但合併腦傷或脊髓損傷時不適用）。tranexamic acid 屬抗纖維蛋白溶解劑，創傷後早期（3 小時內，越早越好）給予可降低出血相關死亡。電腦斷層僅適用於血行動力穩定、可安全搬運的病人；不穩定且 FAST 陽性者應直接剖腹探查。教科書層級的依據為：出血性休克常需手術介入、血行動力不穩定時先復甦再止血；創傷特定細節（FAST、容許性低血壓、TXA 時機）由 OpenEvidence 查詢補充。",
+      "options": {
+        "A": "錯誤（本題答案）：血行動力不穩定且 FAST 陽性的腹內出血，應直接剖腹探查止血；先送電腦斷層會延誤止血、增加在掃描室惡化的風險。",
+        "B": "正確：手術止血前採容許性低血壓（SBP 約 80–90 mmHg），可避免稀釋性凝血病變與酸中毒；無腦傷/脊髓損傷時適用。",
+        "C": "正確：此病人處於出血性休克，應啟動大量輸血流程並同步進行休克處置，以平衡比例輸注血品。",
+        "D": "正確：tranexamic acid 於創傷後早期（3 小時內，越早越好）使用，可降低出血相關死亡與全因死亡率。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Shock, p.2358"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Critical Care - Shock, p.263"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Transfusion Medicine, p.956"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022), p.2174"
+        },
+        {
+          "kind": "oe",
+          "display": "🔎 King DR. Initial Care of the Severely Injured Patient. New England Journal of Medicine 2019;380(8):763-770.（經 OpenEvidence 查詢 20261110_0818）"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-31": {
+      "quick": "大腸穿孔術後出現敗血性休克（低血壓、少尿、乳酸 4.8），首要處置是盡速給予廣效性抗生素並以晶體輸液（crystalloid）快速擴容，故選 B。",
+      "background": "本題病人為大腸穿孔（續發性腹膜炎）術後，合併發燒、心搏過速、低血壓、呼吸急促、少尿及乳酸升高，符合敗血症合併組織灌流不足／敗血性休克。\n敗血性休克的初步處置重點是早期、積極的容量復甦：晶體輸液約 30 mL/kg，於最初 1–3 小時內給予；心衰或腎衰竭者需依容積反應性調整。\n同時應在採血液培養後（但不可為等待培養而延誤）立即開始經驗性廣效抗生素；抗生素每延遲一小時，死亡率上升。\n續發性腹膜炎的抗生素需涵蓋腸道革蘭氏陰性桿菌、厭氧菌及腸球菌；感染源控制（本例已手術）為治療基石。\n若充分輸液後仍低血壓，才加用升壓劑（首選 norepinephrine，目標 MAP ≥65 mmHg）。乳酸可用以監測復甦成效。",
+      "options": {
+        "A": "錯。病人處於低血壓與少尿的低灌流狀態，首要是補充容量而非利尿；利尿劑會加重低血容及腎灌流不足。",
+        "B": "對。符合敗血性休克的初步處置：早期廣效抗生素加上快速晶體輸液復甦。",
+        "C": "錯。抗生素不應等待培養結果；應在抽取血液培養後立即給予，延遲會增加死亡率。",
+        "D": "錯。CRRT 屬於充分復甦後仍有難治性腎衰竭或代謝問題時的後續支持治療，並非初步處置；少尿此時應先以輸液復甦處理。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Sepsis and shock, p.163"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Sepsis and shock, p.164"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Critical Care, p.264"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Critical Care, p.265"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Sepsis and septic shock, p.2365"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Peritonitis, p.641"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Peritonitis, p.641"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-36": {
+      "quick": "本題問「錯誤」者，官方答案為 C：活體肝移植的成人受者所需的是較大的右葉移植物，右葉切除對捐贈者的負擔反而較大，並非「以捐贈者安全為考量而以右葉為佳」。",
+      "background": "肝臟移植依供肝來源分為屍肝（整顆或分割）與活體部分肝。活體肝移植於 1990 年代初發展，目的是緩解供肝短缺：兒童受者多取左外葉（left lateral segment），成人受者則多取右葉，以提供足夠的肝體積。活體捐贈者需承擔手術風險，手術技術上也比整顆屍肝移植更具挑戰。\n屍肝的器官分配已由等待時間為主，改為以疾病嚴重度（urgency）為主，使用 MELD score（由 bilirubin、creatinine、INR，後續版本加入 Na、albumin 等計算）；MELD 約 15 為評估移植的常用門檻。\n移植後早期若出現肝酵素（AST/ALT）急遽上升，須儘速以 Doppler 超音波排除肝動脈血栓（hepatic artery thrombosis），因其為緊急再移植的指標。",
+      "options": {
+        "A": "題目要求選「錯誤」者；官方答案為 C，故 A 屬敘述正確（活體捐贈者資格與親等限制屬台灣器官移植法規範疇，五本臨床 textbook 未涵蓋細節，不另行延伸）。",
+        "B": "正確。肝臟移植的優先順序目前以 MELD score 這類疾病嚴重度評分為準，取代以往以等待時間為主的分配方式。",
+        "C": "錯誤（為本題答案）。成人活體肝移植是為了讓受者獲得足夠肝體積而取捐贈者右葉，右葉切除對捐贈者的手術負擔與風險反而較大；若僅就捐贈者安全考量，並非以右葉為佳。",
+        "D": "正確。移植後早期轉胺酶急遽上升而膽色素正常時，須優先以 Doppler 超音波排除肝動脈血栓，因其需緊急處置甚至再移植。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Liver Transplantation, p.2763"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Liver Transplantation, p.2763"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Liver Transplantation, p.1889"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Liver Transplantation, p.1891"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Liver Transplantation, p.2148"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Cirrhosis, p.228"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Liver Diseases, p.708"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-43": {
+      "quick": "乳糜腹水是腹腔淋巴管破裂/阻塞使富含三酸甘油酯（TG）的淋巴液滲入腹腔，其 TG 遠高於血漿（>200 mg/dL），並非門脈高壓性腹水，故選項 A 為官方正解。",
+      "background": "乳糜腹水（chylous ascites）是腸道淋巴液進入腹腔所致，外觀乳白，腹水 TG >200 mg/dL（常 >1000 mg/dL）即可診斷；冷藏後上層可見乳脂層也有助確認。\n成因為淋巴管損傷或阻塞：手術或創傷、腫瘤（尤其淋巴瘤）、感染（如結核）、放射線、胰臟炎，以及肝硬化。\n成人非創傷性乳糜腹水以腹部惡性腫瘤最常見，其中非何杰金氏淋巴瘤佔相當比例；肝硬化引起者僅少數呈乳糜性。\n長鏈三酸甘油酯經乳糜微粒進入腸道淋巴管，中鏈三酸甘油酯則直接由門靜脈吸收，因此營養處置採極低脂飲食並以中鏈脂肪補充熱量；若腸道飲食無法減少乳糜輸出，則考慮全靜脈營養（PN）或禁食。\n治療以處理病因與營養介入為主，重複穿刺只是症狀處置，並不能修復淋巴管。",
+      "options": {
+        "A": "正確（官方答案）。乳糜腹水的 TG 顯著高於血漿，且依官方說法其腹水白蛋白梯度（SAAG）小於 1.1，屬非門脈高壓性分布。",
+        "B": "錯誤。重複腹腔穿刺僅能緩解症狀，無法根治或促進淋巴管修復，且反覆抽取會流失蛋白質與營養。",
+        "C": "錯誤。成人最常見的病因為腹部惡性腫瘤（以淋巴瘤為主，非創傷性），腹部主動脈手術等醫源性損傷並非最常見原因。",
+        "D": "錯誤。飲食上應以中鏈三酸甘油酯取代長鏈三酸甘油酯（中鏈不進入乳糜管），選項敘述方向顛倒。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.93 Ascites and Spontaneous Bacterial Peritonitis, p.1801"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022), p.371"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Ascites, p.241"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Pulmonary Diseases (Pleural effusion), p.366"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.98 Ascites, p.2099"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.98 Ascites, p.2100"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.98 Ascites, p.2103"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.23 Nutrition Support, p.552"
+        }
+      ],
+      "discordance": "官方選項 A 稱乳糜腹水之 SAAG 通常小於 1.1；但 Yamada 7e 指出 SAAG 在乳糜腹水可能被『假性升高』（falsely high），且 Sleisenger 指出肝硬化是最常見病因（此類即高 SAAG），故 SAAG 並非可靠的區辨依據（Yamada p.2100、p.2103；Sleisenger p.1801）。另 textbook 未見『TG 為血漿 2–8 倍以上』之數據，該句無法由教科書佐證；主結論仍以官方答案為準。",
+      "no_source": false
+    },
+    "115-inad_surgery-GI-44": {
+      "quick": "袖狀胃切除術後滲漏的臨床表現常常隱匿，最常見的徵象是心搏過速，可無發燒、白血球升高或疼痛，並非一定迅速出現高燒、明顯腹膜炎與嚴重休克，故 B 敘述最不適當。",
+      "background": "減重手術依機轉分為限制型（可調節胃束帶 LAGB、袖狀胃切除術 SG）與限制加吸收不良型（RYGB、BPD-DS）。LAGB 屬單純限制型，不改變腸道吸收路徑，術後營養缺乏風險相對低，但因減重效果不足與需再次手術，目前已近乎被棄用。SG 約切除八成胃大彎，減重效果優於 LAGB，目前為最常執行的術式之一。\n術後滲漏（leak）是最嚴重的早期併發症之一。常見位置為近胃食道交界的上段 staple line，也可在 incisura 處。成因包括 staple line 缺血、吻合器相關技術問題，以及遠端狹窄或阻塞造成近端腔內高壓。\n臨床診斷上，滲漏往往表現隱匿，最常見的徵象是心搏過速，其次為噁心嘔吐、發燒與白血球升高；因此術後只要出現無法解釋的心搏過速，就應高度懷疑並安排影像或內視鏡確認。",
+      "options": {
+        "A": "正確敘述。LAGB 屬單純限制型手術，不繞道腸道，術後營養缺乏風險相對低於繞道型術式；故非本題答案。",
+        "B": "不適當（本題答案）。SG 術後滲漏常無發燒、白血球升高或疼痛，最常見徵象為心搏過速；並非必然迅速出現高燒、明顯腹膜炎與嚴重休克，用此作為典型表現過度絕對。",
+        "C": "正確敘述。滲漏成因包含 staple line 缺血、吻合器相關技術因素及遠端阻塞造成的近端高壓，與缺血及胃內高壓相符；故非本題答案。",
+        "D": "依官方答案視為適當敘述（腹腔鏡手術第三間隙損失與出血量較少，術後補液量可較保守）；故非本題答案。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Surgical and Endoscopic Treatment of Obesity, p.128"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Surgical and Endoscopic Treatment of Obesity, p.124"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Bariatric Surgery, p.2263"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Evaluation and Management of Obesity, p.3237"
+        }
+      ],
+      "discordance": "Yamada 7e 描述袖狀胃滲漏可由發燒、心搏過速與腹痛的症狀表現診斷（p.2263），而 Sleisenger 11e 指出滲漏常無發燒、白血球升高或疼痛，最常見徵象為心搏過速（p.128）。兩者皆未支持「必然迅速出現高燒、明顯腹膜炎與嚴重休克」，與官方答案方向一致；另外，選項 D 的具體補液速率（4 mL/kg/h）在五本 digested 內未查得對應原文，僅依官方答案處理。",
+      "no_source": false
+    },
+    "115-inad_surgery-GI-46": {
+      "quick": "標準適應症要求腫瘤侷限黏膜層、無淋巴結侵犯、腸型癌，且大小限制依腫瘤型態與是否有潰瘍而異；「直徑小於 2 公分、不論有無潰瘍」並非標準準則，故 C 最不適當。",
+      "background": "早期胃癌（EGC）的內視鏡黏膜切除術（EMR）與內視鏡黏膜下剝離術（ESD）可作為部分病灶的根治性治療，在日本與韓國對符合絕對適應症者視為標準治療。\n傳統建議的 EMR 準則包含四點：（1）癌灶位於黏膜層，且經內視鏡超音波（EUS）評估無淋巴結侵犯；（2）最大徑依型態設限，輕微隆起型（type IIa）小於 2 公分，平坦或輕微凹陷型（type IIb/IIc）且無潰瘍疤痕者小於 1 公分；（3）無多發性胃癌或同時性腹部癌症；（4）屬腸型癌。\n腫瘤一旦侵入黏膜下層或有潰瘍，淋巴結轉移機率上升，內視鏡切除便不易達成根治。切除後病理若顯示側緣有腫瘤、侵犯超過黏膜或有脈管侵犯，應追加外科手術。\nEMR 通常無法整塊切除大於 1.5 至 2.0 公分的病灶，分段切除會降低根治性切除率；ESD 可提高整塊切除率。",
+      "options": {
+        "A": "正確（屬適當準則）：標準 EMR 準則要求為腸型癌，擴大 ESD 準則也以腸型癌為前提。",
+        "B": "正確（屬適當準則）：癌灶必須侷限於黏膜層，侵犯黏膜下層後淋巴結轉移風險上升，內視鏡切除難以清除病灶。",
+        "C": "錯誤（為本題答案，最不適當）：標準準則的大小限制依型態而定（type IIa 小於 2 公分；type IIb/IIc 且無潰瘍疤痕者小於 1 公分），並非單純小於 2 公分，且潰瘍會提高淋巴結轉移與浸潤風險，不能「不論有無潰瘍」。",
+        "D": "正確（屬適當準則）：切除後病理若有淋巴管或血管侵犯，代表有淋巴結轉移風險，不符合根治性內視鏡切除的條件。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.54 Adenocarcinoma of the stomach and other gastric tumors, p.977"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.54 Adenocarcinoma of the stomach and other gastric tumors, p.977"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.52 Tumors of the stomach, p.1116"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.333 Diagnostic and therapeutic gastrointestinal endoscopy, p.2514"
+        }
+      ],
+      "discordance": "Sleisenger 11e（p.977–978）另載日本擴大 ESD 適應症：黏膜腸型癌不論大小且無潰瘍、黏膜腸型癌小於 3 公分且伴潰瘍、黏膜下侵犯小於 500 μm 之腸型癌小於 3 公分，顯示在擴大準則下，部分伴潰瘍的病灶亦可行 ESD。這與傳統 EMR「標準」準則的大小與潰瘍限制不同；本題問的是標準適應症，答案仍以官方 C 為準。Yamada 7e（p.1116）亦指出潰瘍型 EGC 浸潤與淋巴結轉移風險較高。",
+      "no_source": false
+    },
+    "115-inad_surgery-GI-47": {
+      "quick": "選項 C 錯：小腸阻塞中，原發性小腸腫瘤只佔不到 3%，惡性腫瘤造成的阻塞多數來自小腸以外的腫瘤（腸外壓迫或腹膜癌症擴散），並非多數為小腸原發惡性腫瘤，故 C 為「最不適當」的敘述。",
+      "background": "小腸阻塞（SBO）最常見的病因是腹部手術後的腸沾黏，其次為腫瘤與疝氣。腫瘤相關的 SBO 中，超過九成是來自非小腸的惡性腫瘤（如婦科或大腸腫瘤、腹膜癌症擴散）造成腸外阻塞，也可為轉移至小腸壁；小腸原發性腫瘤引起的 SBO 不到 3%。沾黏以下腹部與骨盆腔手術（闌尾切除、大腸直腸與婦科手術）後最容易形成。成人腸套疊與兒童不同，多半有病理性的導引點（lead point），常為腫瘤或息肉，其中 80%–90% 為病理（常為惡性）過程，因此需手術探查。腹腔內膿瘍、吻合口相關發炎亦被列為阻塞原因之一。",
+      "options": {
+        "A": "正確敘述（非答案）：闌尾破裂或吻合口膿瘍屬腹腔內膿瘍/發炎性病因，除造成局部腸麻痺外，也可使腸管扭曲、摺疊而形成實質阻塞。",
+        "B": "正確敘述（非答案）：沾黏好發於下腹部及骨盆腔手術後，因小腸在骨盆腔內活動度較大，上腹部則較受限制。",
+        "C": "錯誤敘述（本題答案）：惡性腫瘤約佔 SBO 的 5%–10%（部分教科書表列約 20%），且其中絕大多數為小腸以外腫瘤造成的腸外阻塞，小腸原發腫瘤所致 SBO 不到 3%，故「多數是小腸原發性惡性腫瘤引起」不成立。",
+        "D": "正確敘述（非答案）：成人腸套疊多繼發於息肉或腫瘤等病理性導引點，80%–90% 為病理（常為惡性）過程，需手術探查。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Intestinal Obstruction, p.2495"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Intestinal Obstruction, p.2496"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Acute Intestinal Obstruction, p.2632"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Acute Intestinal Obstruction, p.2633"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022), p.168"
+        }
+      ],
+      "discordance": "Harrison 22e 的 SBO 病因表將腫瘤列為約 20%（p.2633），與選項 C 的「約 20%」數字相符；但 Sleisenger 11e 指出癌症約佔 SBO 的 5%–10%，其中超過 90% 為小腸以外腫瘤造成的腸外阻塞，原發小腸腫瘤不到 3%（p.2495）。兩書對腫瘤比例的數字不同，但皆不支持「多數為小腸原發腫瘤」，故官方答案 C 結論不受影響。",
+      "no_source": false
+    },
+    "115-inad_surgery-GI-48": {
+      "quick": "迴腸造口輸出量 3400 mL/day 已遠超 2000 mL 的高輸出門檻，需先補充水分與電解質；同時病人有心跳快、低血壓、CRP 與 creatinine 上升，須以 CT 排除吻合口滲漏或腹腔感染，故選 A。",
+      "background": "迴腸造口術後早期輸出量可能增加，輸出量超過每日 2000 mL 時容易脫水，須以口服電解質溶液或靜脈輸液補充，維持足夠尿量。本題病人術後第 6 天輸出量達 3400 mL，已有血流動力學不穩（心跳 108 次/分、血壓 98/58 mmHg）與急性腎損傷（creatinine 升高）。CRP 持續上升提示可能有感染或發炎。\n低位直腸癌行超低位前切除術，吻合口滲漏風險較高；滲漏或腹腔內感染也可造成造口輸出增加。病人雖無明顯腹膜炎，臨床表現仍可能不典型，因此需先復甦補液，並以腹部及骨盆 CT 找出潛在原因。",
+      "options": {
+        "A": "正確。先補充水分與電解質以矯正脫水與腎前性損傷，同時以 CT 排除吻合口滲漏或腹腔感染，兼顧復甦與病因查找。",
+        "B": "錯誤。術後第 6 天、血流動力學不穩且合併腎功能惡化，不適合立即做造口關閉手術，此舉無法處理脫水與可能的滲漏。",
+        "C": "錯誤。僅停止進食並開 TPN 後等 48 小時再評估，未立即處理脫水與休克徵象，也延遲排除滲漏或感染。",
+        "D": "錯誤。loperamide 加補液只處理輸出量，未檢查 CRP 上升背後可能的吻合口滲漏或腹腔感染，僅觀察有延誤診斷的風險。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020), p.241"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-49": {
+      "quick": "腹腔鏡右半結腸切除術後第 2 天出現持續嘔吐、腹脹、發燒、心搏過速且 CRP 明顯升高，已不像單純術後腸阻塞（ileus），須警惕吻合處滲漏或腹內感染，故應停止口服、必要時置鼻胃管減壓並安排腹部 CT。",
+      "background": "術後腸阻塞（POI）是腹部手術後常見的暫時性腸蠕動受損，大腸蠕動通常於術後第 2–3 天恢復，多數為良性且可自行緩解。\n正常或必然的 POI 指術後到排氣或排便並耐受口服飲食的時間少於 4 天。\n腹腔內感染、腹膜炎與敗血症本身也是造成 ileus 的因素，因此「脹、吐、未排氣」不一定是單純 POI。\n單純 POI 一般不伴發燒、心搏過速與 CRP 上升；若併有這些全身發炎徵象，需優先排除吻合處滲漏或腹內膿瘍。\n處置原則為禁食、必要時鼻胃管減壓、評估生命徵象與感染指標，並以腹部 CT 找尋滲漏、積液或膿瘍，而不是繼續 ERAS 進食或單純觀察。",
+      "options": {
+        "A": "錯。只給止吐藥會掩蓋症狀，延誤對滲漏或腹內感染的診斷。",
+        "B": "錯。發燒、心搏過速、CRP 明顯升高屬警訊，再等 2 天會延誤處置。",
+        "C": "錯。繼續進食與 ERAS 活動適用於恢復順利者；此病人已出現併發症徵象，繼續進食會加重嘔吐與腹脹。",
+        "D": "對。停止口服、必要時鼻胃管減壓並做腹部 CT，可評估吻合處滲漏、積液或膿瘍，符合官方答案。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.124 Ileus and Pseudo-Obstruction Syndromes, p.2508"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.124 Ileus and Pseudo-Obstruction Syndromes, p.2509"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022), p.192"
+        },
+        {
+          "kind": "oe",
+          "display": "🔎 C-reactive protein can predict anastomotic leak in colorectal surgery: a systematic review and meta-analysis（經 OpenEvidence 查詢 20261110_0818）"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-50": {
+      "quick": "直腸癌低位前切除術後數月出現排便次數增加、急迫感與偶發糞便失禁，是典型的低位前切除症候群（LARS）表現，故答案為 B。",
+      "background": "低位前切除症候群（Low Anterior Resection Syndrome, LARS）是保留括約肌的直腸切除術後常見的腸道功能失調型態，多數病人在不同程度上受影響。典型症狀包括排便急迫感、對氣體或液態糞便失禁、排便次數增加與群集排便（短時間內反覆排便）、糞便破碎及排空不完全。機轉為多因子：失去直腸儲存功能、新直腸動力與感覺異常、肛門括約肌損傷、骨盆神經去神經支配及直腸肛門抑制反射喪失。診斷以症狀與手術時間關係為主，常用 LARS score（0–42 分；0–20 無、21–29 輕度、30–42 重度）評估；症狀多在術後前 6 個月較明顯，之後趨於穩定。本題病人術後 6 個月仍有頻便、急迫與失禁，時序與表現皆符合 LARS。",
+      "options": {
+        "A": "錯。吻合口滲漏多在術後早期出現腹痛、發燒、腹膜炎或敗血症徵象，而非術後 6 個月才表現為頻便與失禁。",
+        "B": "對。直腸癌低位前切除術後出現排便次數增加、急迫感與失禁，即為低位前切除症候群的核心症狀。",
+        "C": "錯。潰瘍性結腸炎主要表現為血便與黏液性腹瀉，屬發炎性腸道疾病，與直腸癌術後功能失調的情境不符。",
+        "D": "錯。假膜性腸炎（Clostridioides difficile 感染）與近期抗生素使用有關，表現為水瀉伴發燒與白血球上升，題幹無此線索。"
+      },
+      "references": [
+        {
+          "kind": "oe",
+          "display": "🔎 Emmertsen KJ, Laurberg S. Low Anterior Resection Syndrome Score. Annals of Surgery 2012;255(5):922-928.（經 OpenEvidence 查詢 20261110_0818）"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-51": {
+      "quick": "造口缺血僅限於筋膜以上的淺層時，造口多半仍可存活，只需密切觀察追蹤；唯有缺血延伸至筋膜以下才需緊急手術，故答案為 C。",
+      "background": "造口缺血壞死（ischemic necrosis）多為術後早期併發症，成因包括遠端腸管血流受損、側枝循環不足，或腸繫膜穿過筋膜處受壓；肥胖、腹壁厚、腸繫膜短者較常見，發生率約 2%–17%。\n術後應每日檢視造口，正常黏膜應呈粉紅色且具活性；術後第一週水腫常見，通常 3–4 週內消退。\n造口變得腫脹、轉紫提示缺血，可能於數日內進展為黑色壞疽。\n評估缺血深度的關鍵是看筋膜以下的黏膜：可用試管加手電筒，或細口徑軟式內視鏡，由造口頂端往腹腔內觀察。\n缺血僅限於筋膜以上時，表層可能脫落，但造口大多仍存活，之後可能出現狹窄或回縮；若缺血延伸至筋膜以下，造口可能穿孔或自腹壁脫落，一般需緊急手術介入。\n本題內視鏡顯示筋膜以下腸道血流正常，屬於淺層缺血，處置原則為觀察追蹤。",
+      "options": {
+        "A": "錯。立即重新建立造口是缺血延伸至筋膜以下、有穿孔或脫落風險時才需要的緊急手術；本題筋膜以下血流正常，不需手術。",
+        "B": "錯。拆除造口縫線無助於處理淺層缺血，且可能使造口回縮或脫離腹壁，並非此情境的適當處置。",
+        "C": "對。缺血局限於筋膜以上時造口多半仍可存活，應密切觀察並持續追蹤，留意後續狹窄或回縮等併發症。",
+        "D": "錯。造口缺血源於局部血流受損與機械性因素（如腸繫膜受壓），並非血栓性疾病；所引教科書段落未提及以抗凝血治療處理此狀況。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Ostomy Complications and Management, p.2377"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Ostomy Complications and Management, p.2377"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-52": {
+      "quick": "跳躍性病灶（skip lesions）、肛門瘻管、全層性腸壁增厚與狹窄，是克隆氏症（Crohn's disease, CD）的典型表現；CD 最常侵犯的部位為末端迴腸／迴盲部，故答案為 B 迴盲部。",
+      "background": "克隆氏症為全層性（transmural）發炎，可侵犯從口腔到肛門的任何消化道，病灶呈節段性、中間夾雜正常黏膜（skip lesions），直腸常不受侵犯，與潰瘍性結腸炎（UC）自直腸連續往近端延伸不同。\n依 Harrison，約 30–40% 病人僅有小腸病變、40–55% 同時侵犯小腸與大腸、15–25% 僅有結腸炎；有小腸病變者其中約 90% 侵犯末端迴腸。Yamada 亦指出 CD 最常出現在末端迴腸，至少 60% 病人有某種程度的迴腸侵犯，合併結腸者多以右側結腸較常受侵。Pocket Medicine 分型為小腸／迴腸炎約 25%、迴結腸型約 50%、結腸型約 25%。\n肛門周圍病變（瘻管、肛裂、膿瘍、肛門狹窄）約見於三分之一的 CD 病人，常見於合併結腸侵犯者，且瘻管可先於 CD 診斷數月甚至數年出現。\n本題病人為年輕成人，慢性右下腹痛、腹瀉、體重減輕、肛門瘻管、CRP 與糞便 calprotectin 升高、skip lesions、腸壁增厚及狹窄，皆指向 CD，最常侵犯的解剖部位即迴盲部（末端迴腸）。",
+      "options": {
+        "A": "錯。直腸在 CD 常被保留（rectal sparing）；常從直腸連續侵犯的是 UC。",
+        "B": "對。CD 最常侵犯末端迴腸／迴盲部，與題幹右下腹痛、狹窄及 skip lesions 的表現相符。",
+        "C": "錯。乙狀結腸並非 CD 最常侵犯的部位；乙狀結腸／左側結腸較典型為 UC 的連續性病變範圍。",
+        "D": "錯。降結腸屬左側結腸，亦非 CD 最常侵犯的部位；CD 的結腸侵犯多以右側結腸較常見。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Inflammatory Bowel Disease, p.2599"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.64 Crohn's Disease: Clinical Manifestations and Management, p.1371"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020), p.2401"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Inflammatory Bowel Disease, p.196"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases — Inflammatory Bowel Disease, p.644"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-53": {
+      "quick": "病灶由直腸開始、連續向近端延伸，符合潰瘍性結腸炎 (UC)；UC 的 IBD 特徵是黏膜層的連續性發炎，故選 C。",
+      "background": "發炎性腸道疾病 (IBD) 主要分為潰瘍性結腸炎 (UC) 與克隆氏症 (CD)。UC 侷限於結腸與直腸，發炎只在黏膜層，由直腸開始往近端連續延伸，沒有正常黏膜夾雜其間；臨床典型表現為血便、腹瀉與裏急後重。CD 則可侵犯消化道任何部位，呈節段性（跳躍式）病灶、全層 (transmural) 發炎，並因此容易形成瘻管、狹窄與膿瘍。大腸鏡上，連續性、環周性、侵犯直腸、黏膜脆弱是 UC 的特徵；跳躍病灶、鵝卵石外觀與迴腸侵犯則偏向 CD。本題病灶由直腸連續延伸，加上反覆血便腹瀉，描述的是 UC 的型態。",
+      "options": {
+        "A": "錯。跳躍式病灶 (skip lesions) 是克隆氏症的特徵，UC 為連續性病灶。",
+        "B": "錯。全層性發炎是克隆氏症的特徵；UC 的發炎侷限於黏膜層。",
+        "C": "對。UC 為連續性的黏膜發炎，從直腸開始向近端延伸，符合題幹描述。",
+        "D": "錯。瘻管形成源自克隆氏症的全層發炎；UC 通常不形成瘻管。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Inflammatory Bowel Disease, p.194"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Inflammatory Bowel Disease, p.194"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.644"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Inflammatory Bowel Disease, p.2598"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.115 Epidemiology, Pathogenesis, and Diagnosis of Inflammatory Bowel Diseases, p.2303"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.115 Epidemiology, Pathogenesis, and Diagnosis of Inflammatory Bowel Diseases, p.2302"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.63 Ulcerative Colitis: Clinical Manifestations and Management, p.1329"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-54": {
+      "quick": "低位前切除術後第4天出現發燒、心搏過速、CRP升高且骨盆引流液混濁帶糞臭，高度懷疑吻合口滲漏併骨盆腔敗血症，最適當的處置是安排腹部及骨盆電腦斷層確認。",
+      "background": "吻合口滲漏（anastomotic leak/dehiscence）是大腸直腸手術最令人擔憂的併發症之一，發生率約 3% 至 21%，低位直腸吻合風險更高。保護性迴腸造口（loop ileostomy）並不能降低滲漏的發生率，只是減輕滲漏後骨盆腔敗血症的臨床後果，因此有造口的病人仍可能滲漏。典型表現為術後數日內發燒、心搏過速、發炎指標上升，以及引流液轉為混濁、糞臭或含腸內容物。此時應積極調查是否滲漏並及時介入，而非觀望。電腦斷層可顯示骨盆腔積液、膿瘍或蜂窩性組織炎，也可導引經皮引流。確認後依嚴重度決定廣效抗生素、禁食、經皮或手術引流。",
+      "options": {
+        "A": "錯。僅給抗生素並等24小時再觀察會延誤診斷與源頭控制，病人已有全身發炎反應及糞臭引流，需先影像確認滲漏與積液範圍。",
+        "B": "對。臨床高度懷疑吻合口滲漏併骨盆腔敗血症，應以腹部及骨盆電腦斷層評估滲漏、積液或膿瘍，以決定抗生素、引流或再手術。",
+        "C": "錯。引流管此時是排出滲漏物、監測感染的重要途徑，拔除會造成滲漏物蓄積而加重敗血症。",
+        "D": "錯。發燒、心跳118次/分、CRP明顯升高加上混濁糞臭的引流液，絕非正常術後發炎反應，不可僅繼續觀察。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Ulcerative Colitis (Surgery, pelvic sepsis), p.2373"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Ulcerative Colitis (Surgery, pelvic sepsis), p.2378"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-66": {
+      "quick": "左半結腸切除術後第 5 天未排氣、腹脹、腸音減弱，影像顯示小腸與大腸皆擴張且無阻塞點，屬無機械性阻塞的功能性腸蠕動不良，即術後腸麻痺（術後腸阻滯，POI），故答案為 A。",
+      "background": "腸麻痺（ileus）指腸道蠕動功能障礙，臨床與影像呈現類似阻塞（腸管擴張），但沒有機械性原因。\n腹部手術後幾乎都會出現生理性腸麻痺：胃與小腸約數小時內恢復，結腸約術後 2–3 天恢復。\n國際共識將正常的術後腸麻痺定義為 4 天內恢復排氣或排便並可耐受飲食；超過第 4 天仍有噁心嘔吐、無法進食、未排氣、腹脹或影像呈腸麻痺表現，即屬延長性（病理性）術後腸麻痺。\n結直腸手術、腸道操作多、大傷口者風險較高。\n促成因素包括鴉片類藥物、全身麻醉、電解質異常（低血鉀、低血鈣、低血鈉、低血鎂）、感染、發炎、疼痛及臥床不動。\n典型表現為腹部不適與脹氣、腸音減少或消失、可伴噁心嘔吐；影像見小腸與結腸皆有擴張腸圈但無機械性阻塞點。\n處置以支持性治療為主，包括禁食、靜脈輸液、必要時鼻胃管減壓、矯正電解質與減少鴉片類藥物，並早期下床活動。",
+      "options": {
+        "A": "正確。術後第 5 天未排氣、腹脹、腸音減弱，影像顯示小腸大腸均擴張且無阻塞點，符合延長性術後腸麻痺。",
+        "B": "錯誤。吻合口狹窄屬機械性問題，影像上通常可見狹窄點與其近端擴張、遠端塌陷，且多在較晚期才出現；本題 X 光無明顯阻塞點。",
+        "C": "錯誤。絞窄性腸阻塞是機械性阻塞合併血流受損，常有劇烈疼痛、腹膜刺激徵象與全身中毒表現，且影像可見阻塞點；本題未見阻塞點且腸音是減弱而非亢進。",
+        "D": "錯誤。機械性腸阻塞有明確的阻塞點，阻塞點以上腸管擴張、以下塌陷；本題 X 光小腸與大腸均擴張且未見阻塞點，為功能性而非機械性。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.124 Ileus and Pseudo-Obstruction Syndromes, p.2508"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.341 Acute Intestinal Obstruction, p.2633"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Paralytic ileus of the colon & small bowel, p.189"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Gastrointestinal Diseases, p.652"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022), p.317"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-69": {
+      "quick": "腸造口排出的腸胃道分泌物（尤其迴腸造口的鹼性、含消化酵素與膽鹽的排出物）持續接觸皮膚，直接消化破壞角質層屏障，屬於化學性刺激傷害，故答案為 C。",
+      "background": "腸造口周圍皮膚損傷（peristomal skin complications）常見原因是排出物滲漏接觸皮膚。迴腸造口的排出物量多、偏鹼性，含膽鹽、胰蛋白酶等蛋白質與脂肪分解酶，對皮膚的腐蝕性遠高於成形的結腸造口糞便。\n這些消化酵素與化學物質會直接破壞角質層的脂質屏障，造成紅斑、糜爛，且病灶分布多在滲漏接觸的區域。\n其他機轉雖可並存，但並非「分泌物造成損傷」的主要機制：機械性（黏著劑反覆撕除、造口袋摩擦）、潮濕性（長期浸潤使表皮浸潤軟化，即 MASD）、感染性（念珠菌、毛囊炎，多繼發於潮濕與屏障破壞）。\n護理上以選擇合適孔徑與底盤、避免滲漏、必要時使用保護粉與皮膚保護膜，為預防化學性刺激的重點。",
+      "options": {
+        "A": "錯。機械性損傷來自黏著劑反覆撕除、造口袋摩擦或孔徑不合，並非由腸胃道分泌物本身造成。",
+        "B": "錯。潮濕（浸潤）會使表皮軟化而加重損傷，但題目問的是分泌物（含消化酵素）損傷皮膚的機制，核心為化學性而非單純潮濕。",
+        "C": "對。排出物中的消化酵素、膽鹽與鹼性成分直接消化破壞皮膚角質層，屬化學性刺激（刺激性接觸性皮膚炎）。",
+        "D": "錯。感染性（如念珠菌、毛囊炎）多為潮濕與屏障受損後的繼發問題，並非分泌物造成皮膚損傷的主要機制。"
+      },
+      "references": [
+        {
+          "kind": "oe",
+          "display": "🔎 Understanding the Impact of Ostomy Dejecta Constituents on Peristomal Skin Health and Models for Its Characterisation（經 OpenEvidence 查詢 20261110_0818）"
+        }
+      ],
+      "discordance": null,
+      "no_source": false
+    },
+    "115-inad_surgery-GI-8": {
+      "quick": "肝硬化腹水病人出現腹膜炎徵象、腹水 SAAG 僅 0.8（<1.1，非門脈高壓性），且腹水總蛋白偏高，提示非單純 SBP 而是繼發性腹膜炎（如腸穿孔），須立即做腹部電腦斷層並照會外科。",
+      "background": "SAAG = 血清白蛋白 − 腹水白蛋白，本題為 2.2 − 1.4 = 0.8 g/dL，小於 1.1。SAAG ≥1.1 約 97% 準確代表門脈高壓；肝硬化腹水原本應為高 SAAG，若出現低 SAAG 就要想到合併其他病因。\n自發性細菌性腹膜炎（SBP）屬原發性腹膜炎，常為單一菌種感染（大腸桿菌、Klebsiella、肺炎鏈球菌），腹水總蛋白通常偏低；多重菌種感染、腹水總蛋白/LDH 偏高、葡萄糖偏低則要懷疑繼發性細菌性腹膜炎。\n繼發性腹膜炎源自腹內臟器發炎、穿孔或壞疽造成的腹腔污染，臨床上表現為明顯腹部壓痛、反彈痛、腹壁僵硬等腹膜炎徵象，屬急性外科腹。\n診斷靠臨床加影像（找游離氣體與感染來源），血流動力學穩定者應盡快做腹部電腦斷層，必要時須外科介入，抗生素需涵蓋厭氧菌。本題病人腹部劇痛、腹壁僵硬、反彈痛，加上低 SAAG 與高腹水總蛋白，符合繼發性腹膜炎，不能只給抗生素。",
+      "options": {
+        "A": "錯。SAAG 小於 1.1 代表非門脈高壓性腹水，並不能據此排除腹腔內器官破裂；此病人有腹膜炎徵象，反而要懷疑穿孔，且重症不可只給口服抗生素。",
+        "B": "錯。雖然低 SAAG 合併高蛋白腹水可見於結核性腹膜炎等，但本題急性高燒、腹壁僵硬與反彈痛、腹水 PMN 為主，並非典型結核表現，不應直接給抗結核藥物。",
+        "C": "對。低 SAAG 在肝硬化腹水中不尋常，加上腹水總蛋白偏高、急性腹膜炎徵象，提示繼發性腹膜炎；應立即安排腹部電腦斷層找感染來源並照會外科。",
+        "D": "錯。腹水 PMN 偏高確實符合腹膜炎，但單靠抗生素治療是針對 SBP；本題低 SAAG、高腹水總蛋白與腹壁僵硬顯示可能為繼發性腹膜炎，需影像與外科評估，不是「抗生素治療即可」。"
+      },
+      "references": [
+        {
+          "kind": "textbook",
+          "display": "📚 Pocket 8e (2022) Ch.Ascites, p.240"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Liver Diseases, p.703"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Washington 2022 Ch.Treatment of Infectious Diseases, p.508"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Harrison 22e (2022) Ch.Infectious Complications of Peritonitis (Secondary Peritonitis), p.1114"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Yamada 7e (2022) Ch.Peritonitis, p.2212"
+        },
+        {
+          "kind": "textbook",
+          "display": "📚 Sleisenger 11e (2020) Ch.Intraabdominal Abscesses, p.431"
         }
       ],
       "discordance": null,
